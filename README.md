@@ -8,8 +8,7 @@ As a hacker, there a ton of techniques, terminologies, and topics you need to fa
 ## Web basics
 
 - All in one resource:
-https://www.hacker101.com/sessions/web_in_depth
-https://www.tutorialspoint.com/http/
+https://www.hacker101.com/sessions/web_in_depth 
 - Headers
 https://www.tutorialspoint.com/http/http_header_fields.htm 
 - Request form
@@ -23,4 +22,19 @@ https://www.tutorialspoint.com/http/http_url_encoding.htm
 - Methods
 https://www.tutorialspoint.com/http/http_status_codes.htm 
 
+
+## Networking basics
+
+- All in one resource:
+https://www.amazon.com/Networking-All-One-Dummies-Doug/dp/1119154723/
+- Terminology
+https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols 
+- What is an IP?
+https://commotionwireless.net/docs/cck/networking/learn-networking-basics/ 
+- What are ports?
+https://www.utilizewindows.com/list-of-common-network-port-numbers/
+- What is DNS?
+https://code.tutsplus.com/tutorials/an-introduction-to-learning-and-using-dns-records--cms-24704
+- Intermediate Security Testing with Kali Linux 2
+http://www.penguintutor.com/linux/basic-network-reference
 

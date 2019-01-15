@@ -52,15 +52,10 @@ https://docs.python.org/3/tutorial/
 https://www.learnshell.org/ 
 
 - Additional Resources
-https://www.codecademy.com/learn/paths/web-development
-
-https://docs.python.org/3/tutorial/
-
-http://www.sqlcourse.com/
-
-https://javascript.info/
-
-https://en.wikibooks.org/wiki/Programming_Fundamentals/Advanced_Flowcharting
-
-https://sqlbolt.com/
+   - https://www.codecademy.com/learn/paths/web-development
+   - https://docs.python.org/3/tutorial/
+   - http://www.sqlcourse.com/
+   - https://javascript.info/
+   - https://en.wikibooks.org/wiki/Programming_Fundamentals/Advanced_Flowcharting
+   - https://sqlbolt.com/
 

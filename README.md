@@ -7,7 +7,7 @@ As a hacker, there a ton of techniques, terminologies, and topics you need to fa
 
 ## Web basics
 
-- All in one resource:
+- All in one resource
 https://www.hacker101.com/sessions/web_in_depth 
 - Headers
 https://www.tutorialspoint.com/http/http_header_fields.htm 
@@ -25,7 +25,7 @@ https://www.tutorialspoint.com/http/http_status_codes.htm
 
 ## Networking basics
 
-- All in one resource:
+- All in one resource
 https://www.amazon.com/Networking-All-One-Dummies-Doug/dp/1119154723/
 - Terminology
 https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols 
@@ -37,4 +37,30 @@ https://www.utilizewindows.com/list-of-common-network-port-numbers/
 https://code.tutsplus.com/tutorials/an-introduction-to-learning-and-using-dns-records--cms-24704
 - Intermediate Security Testing with Kali Linux 2
 http://www.penguintutor.com/linux/basic-network-reference
+
+
+## Programming Basics
+- HTML
+https://www.w3schools.com/html/
+- JavaScript
+https://javascript.info/
+- SQL
+http://www.sqlcourse.com/
+- Python
+https://docs.python.org/3/tutorial/
+- Bash
+https://www.learnshell.org/ 
+
+- Additional Resources
+https://www.codecademy.com/learn/paths/web-development
+
+https://docs.python.org/3/tutorial/
+
+http://www.sqlcourse.com/
+
+https://javascript.info/
+
+https://en.wikibooks.org/wiki/Programming_Fundamentals/Advanced_Flowcharting
+
+https://sqlbolt.com/
 

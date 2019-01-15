@@ -5,6 +5,8 @@
 There are number of new hackers joining the community on regular basis and this raises the question of "How do I get started and what are some good resources?" and we hope to help with those questions using this repository. 
 As a hacker, there a ton of techniques, terminologies, and topics you need to familiarize yourself with to understand how an application works. Cody Brocious [(@daeken)](http://twitter.com/daeken) and I put these resources together in order to help new hackers with resources to learn basics of Web Application Security. 
 
+We understand that there are more resources other than the ones we have listed and we hope to cover more resources in the near future!
+
 ## Web basics
 
 - All in one resource
@@ -50,8 +52,7 @@ http://www.sqlcourse.com/
 https://docs.python.org/3/tutorial/
 - Bash
 https://www.learnshell.org/ 
-
-- Additional Resources
+- Additional Resources:
    - https://www.codecademy.com/learn/paths/web-development
    - https://docs.python.org/3/tutorial/
    - http://www.sqlcourse.com/
@@ -59,3 +60,22 @@ https://www.learnshell.org/
    - https://en.wikibooks.org/wiki/Programming_Fundamentals/Advanced_Flowcharting
    - https://sqlbolt.com/
 
+## Misc
+- Setting up your own web server on a VPS
+https://www.linux.com/learn/easy-lamp-server-installation
+- Setting up virtualbox + linux
+https://linuxconfig.org/how-to-install-kali-linux-on-virtualbox
+- Basics of UNIX
+https://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything
+- Setting up Burp
+https://www.hacker101.com/playlists/burp_suite
+- Previously Disclosed Vulnerabilities 
+https://hackerone.com/hacktivity
+
+## Labs
+- Hacker101
+https://hacker101.com
+- PentesterLab
+https://pentesterlab.com
+- HackEdu
+https://hackedu.io

@@ -79,3 +79,5 @@ https://hacker101.com
 https://pentesterlab.com
 - HackEdu
 https://hackedu.io
+- DWVA
+http://www.dvwa.co.uk

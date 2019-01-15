@@ -72,6 +72,21 @@ https://www.hacker101.com/playlists/burp_suite
 - Previously Disclosed Vulnerabilities 
 https://hackerone.com/hacktivity
 
+## XSS
+
+- Hacker101
+https://www.hacker101.com/sessions/xss
+- OWASP 
+https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)
+- A comprehensive tutorial on cross-site scripting
+https://excess-xss.com
+- Google Application Security (XSS Guide)
+https://www.google.com/intl/am_AD/about/appsecurity/learning/xss/
+
+### XSS Labs
+- XSS-Game
+https://xss-game.appspot.com 
+
 ## Labs
 - Hacker101
 https://hacker101.com
@@ -81,3 +96,5 @@ https://pentesterlab.com
 https://hackedu.io
 - DWVA
 http://www.dvwa.co.uk
+- Google Gruyere
+https://google-gruyere.appspot.com/

@@ -73,6 +73,7 @@ https://www.hacker101.com/playlists/burp_suite
 https://hackerone.com/hacktivity
 
 ## XSS
+As we start to build this repository, we'll be adding more vulnerability types and resources for each one. XSS is a great place to start as it's one of the most popular and easiest vulnerabilities to find in a web application. 
 
 - Hacker101
 https://www.hacker101.com/sessions/xss

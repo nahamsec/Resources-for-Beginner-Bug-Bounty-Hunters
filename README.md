@@ -119,7 +119,7 @@ http://www.dvwa.co.uk
 https://google-gruyere.appspot.com/
 
 #### Blog posts
-You can find a ton of awesome XSX reports by searching through the HackerOne Hacktivity Page (https://hackerone.com/hacktivity?querystring=XSS). Here are some more complex and some of my favorite XSS related blog posts:
+You can find a ton of awesome XSS reports by searching through the HackerOne Hacktivity Page (https://hackerone.com/hacktivity?querystring=XSS). Here are some more complex and some of my favorite XSS related blog posts:
 
 ##### DOM XSS
 https://hackerone.com/reports/297968

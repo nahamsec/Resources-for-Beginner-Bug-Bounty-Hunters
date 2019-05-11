@@ -59,7 +59,7 @@ As always, if you prefer an interactive course, feel free to use Codecademy!
 https://www.codecademy.com/learn/learn-sql
 http://www.sqlcourse.com/ 
 
-###Automation 
+### Automation 
 You are welcome to skip this section if you think you’ll never need any automation or in depth web application knowledge. However I think learning bash in addition to one the following four languages may help you work smarter rather than harder.
 - Bash
 https://www.learnshell.org/ 
@@ -119,7 +119,7 @@ http://www.dvwa.co.uk
 https://google-gruyere.appspot.com/
 
 #### Blog posts
-You can find a ton of awesome XSX reports by searching through the HackerOne Hacktivity Page (https://hackerone.com/hacktivity?querystring=XSS). Here are some more complex and some of my favorite XSS related blog posts:
+You can find a ton of awesome XSS reports by searching through the HackerOne Hacktivity Page (https://hackerone.com/hacktivity?querystring=XSS). Here are some more complex and some of my favorite XSS related blog posts:
 
 ##### DOM XSS
 https://hackerone.com/reports/297968

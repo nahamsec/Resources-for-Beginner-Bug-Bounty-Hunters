@@ -10,3 +10,6 @@ As we start to build this repository, we'll be adding more vulnerability types a
 - [OWASP XSS](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS))
 - [A comprehensive tutorial on cross-site scripting](https://excess-xss.com)
 - [Google Application Security (XSS Guide)](https://www.google.com/intl/am_AD/about/appsecurity/learning/xss/)
+
+---
+back to [Intro Page](README.md)

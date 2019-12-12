@@ -24,3 +24,5 @@ https://sites.google.com/site/bughunteruniversity/best-reports/account-recovery-
 ### CSP Bypass
 https://blog.bentkowski.info/2018/06/xss-in-google-colaboratory-csp-bypass.html
 
+---
+back to [Intro Page](README.md)

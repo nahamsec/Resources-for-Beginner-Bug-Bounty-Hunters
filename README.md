@@ -16,6 +16,3 @@ We understand that there are more resources other than the ones we have listed a
 4. [Labs & Testing Environments](labs.md)
 5. [Vulnerability Types](vulns.md)
 6. [Blog posts](blogposts.md)
-
-
-

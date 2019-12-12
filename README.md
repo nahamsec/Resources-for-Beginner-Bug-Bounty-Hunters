@@ -10,9 +10,11 @@ We understand that there are more resources other than the ones we have listed a
 ---
 ## Table of Contents
 
-1. [Basics](basics.md)
-2. [Setup](setup.md)
-3. [Tools](tools.md)
-4. [Labs & Testing Environments](labs.md)
-5. [Vulnerability Types](vulns.md)
-6. [Blog posts](blogposts.md)
+1. [Basics](/assets/basics.md)
+2. [Setup](/assets/setup.md)
+3. [Tools](/assets/tools.md)
+4. [Labs & Testing Environments](/assets/labs.md)
+5. [Vulnerability Types](/assets/vulns.md)
+6. [Mobile Hacking](/assets/mobile.md)
+6. [Blog posts & Talks](/assets/blogposts.md)
+7. [Media Resources](/assets/media.md)

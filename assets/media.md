@@ -36,69 +36,71 @@ Michal Zalewski
 
 ## Twitter
 This List does not exclusively contains Bug Bounty themed Accounts but a broad variety of InfoSec and Hacking.<br>
-Descriptions will be added later! 
-| Name 	| Topics 	|
-|------	|-------------	|
-|[@NahamSec](https://twitter.com/NahamSec)|             	|
-|[@stokfredrik](https://twitter.com/stokfredrik)|             	|
-|[@TomNomNom](https://twitter.com/TomNomNom)||
-|[@d0nutptr](https://twitter.com/d0nutptr)||
-|[@daeken](https://twitter.com/daeken)||
-|[@LiveOverflow](https://twitter.com/LiveOverflow)||
-|[@thecybermentor](https://twitter.com/thecybermentor)||
-|[PwnFunction](https://twitter.com/PwnFunction)||
-|[InsiderPhD](https://twitter.com/InsiderPhD)||
-|[PortSwigger](https://twitter.com/PortSwigger)||
-|[Peerlyst](https://twitter.com/Peerlyst)||
-|[dawgyg](https://twitter.com/thedawgyg)||
-|[EdOverflow](https://twitter.com/EdOverflow)||
-|[The Paranoids](https://twitter.com/TheParanoids)||
-|[Fisher](https://twitter.com/Regala_)||
-|[Kevin Rosenbaum](https://twitter.com/Rosenawesome)||
-|[Inti De Ceukelaire](https://twitter.com/securinti)||
-|[AutoThreat](https://twitter.com/autothreat)||
-|[Open Bug Bounty](https://twitter.com/openbugbounty)||
-|[OWASP](https://twitter.com/owasp)||
-|[Alyssa Herrera](https://twitter.com/Alyssa_Herrera_)||
-|[spaceraccoon](https://twitter.com/spaceraccoonsec)||
-|[Alex Chapman](https://twitter.com/ajxchapman)||
-|[FireBounty](https://twitter.com/firebounty)||
-|[naffy](https://twitter.com/nnwakelam)||
-|[FluxFingers](https://twitter.com/fluxfingers)||
-|[zseano](https://twitter.com/zseano)||
-|[jane](https://twitter.com/jerh17)||
-|[HackerSploit](https://twitter.com/HackerSploit)||
-|[Yeswehack](https://twitter.com/yeswehack)||
-|[Lorenzo Franceschi-Bicchierai](https://twitter.com/lorenzofb)||
-|[Luke Stephens (hakluke)](https://twitter.com/hakluke)||
-|[mongo](https://twitter.com/mongobug)||
-|[The Blind Hacker](https://twitter.com/TheBlindHacker)||
-|[Intigriti](https://twitter.com/intigriti)||
-|[Synack](https://twitter.com/synack)||
-|[evilsocket](https://twitter.com/evilsocket)||
-|[Google Vulnerability Reward Program (VRP)](https://twitter.com/GoogleVRP)||
-|[@KitPloit](https://twitter.com/KitPloit)||
-|[@MalwareTechBlog](https://twitter.com/MalwareTechBlog)||
-|[@_sn0ww](https://twitter.com/_sn0ww)||
-|[@_johnhammond](https://twitter.com/_johnhammond)||
-|[@ceos3c](https://twitter.com/ceos3c)||
-|[@GossiTheDog](https://twitter.com/GossiTheDog)||
-|[@albinowax](https://twitter.com/albinowax)||
-|[@orange_8361](https://twitter.com/orange_8361)||
-|[@Hacker0x01](https://twitter.com/Hacker0x01)||
-|[@malwareunicorn](https://twitter.com/malwareunicorn)||
-|[@maddiestone](https://twitter.com/maddiestone)||
-|[@DailySwig](https://twitter.com/DailySwig)||
-|[@Bugcrowd](https://twitter.com/Bugcrowd)||
-|[@Dinosn](https://twitter.com/Dinosn)||
-|[@brutelogic](https://twitter.com/brutelogic)||
-|[@yaworsk](https://twitter.com/yaworsk)||
-|[@JHaddix](https://twitter.com/Jhaddix)||
-|[@samykamkar](https://twitter.com/samykamkar)||
-|[@thegrugq](https://twitter.com/thegrugq)||
-|[@DanielMiessler](https://twitter.com/DanielMiessler)||
-|[@TheHackerNews](https://twitter.com/TheHackersNews)||
-|[@fs0c131y](https://twitter.com/fs0c131y)||
---- More to come ---
+Descriptions will be added later!.
+
+| Name                                                    | Topics |
+| ------------------------------------------------------- | ------ |
+| [@Alyssa*Herrera*](https://twitter.com/Alyssa_Herrera_) |        |
+| [@Bugcrowd](https://twitter.com/Bugcrowd)               |        |
+| [@DailySwig](https://twitter.com/DailySwig)             |        |
+| [@DanielMiessler](https://twitter.com/DanielMiessler)   |        |
+| [@Dinosn](https://twitter.com/Dinosn)                   |        |
+| [@EdOverflow](https://twitter.com/EdOverflow)           |        |
+| [@GoogleVRP](https://twitter.com/GoogleVRP)             |        |
+| [@GossiTheDog](https://twitter.com/GossiTheDog)         |        |
+| [@Hacker0x01](https://twitter.com/Hacker0x01)           |        |
+| [@HackerSploit](https://twitter.com/HackerSploit)       |        |
+| [@InsiderPhD](https://twitter.com/InsiderPhD)           |        |
+| [@JHaddix](https://twitter.com/Jhaddix)                 |        |
+| [@KitPloit](https://twitter.com/KitPloit)               |        |
+| [@LiveOverflow](https://twitter.com/LiveOverflow)       |        |
+| [@MalwareTechBlog](https://twitter.com/MalwareTechBlog) |        |
+| [@NahamSec](https://twitter.com/NahamSec)               |        |
+| [@Peerlyst](https://twitter.com/Peerlyst)               |        |
+| [@PortSwigger](https://twitter.com/PortSwigger)         |        |
+| [@PwnFunction](https://twitter.com/PwnFunction)         |        |
+| [@Regala\_](https://twitter.com/Regala_)                |        |
+| [@Rosenawesome](https://twitter.com/Rosenawesome)       |        |
+| [@TheBlindHacker](https://twitter.com/TheBlindHacker)   |        |
+| [@TheHackerNews](https://twitter.com/TheHackersNews)    |        |
+| [@TheParanoids](https://twitter.com/TheParanoids)       |        |
+| [@TomNomNom](https://twitter.com/TomNomNom)             |        |
+| [@\_johnhammond](https://twitter.com/_johnhammond)      |        |
+| [@\_sn0ww](https://twitter.com/_sn0ww)                  |        |
+| [@ajxchapman](https://twitter.com/ajxchapman)           |        |
+| [@albinowax](https://twitter.com/albinowax)             |        |
+| [@autothreat](https://twitter.com/autothreat)           |        |
+| [@brutelogic](https://twitter.com/brutelogic)           |        |
+| [@ceos3c](https://twitter.com/ceos3c)                   |        |
+| [@d0nutptr](https://twitter.com/d0nutptr)               |        |
+| [@daeken](https://twitter.com/daeken)                   |        |
+| [@evilsocket](https://twitter.com/evilsocket)           |        |
+| [@firebounty](https://twitter.com/firebounty)           |        |
+| [@fluxfingers](https://twitter.com/fluxfingers)         |        |
+| [@fs0c131y](https://twitter.com/fs0c131y)               |        |
+| [@hakluke](https://twitter.com/hakluke)                 |        |
+| [@intigriti](https://twitter.com/intigriti)             |        |
+| [@jerh17](https://twitter.com/jerh17)                   |        |
+| [@lorenzofb](https://twitter.com/lorenzofb)             |        |
+| [@maddiestone](https://twitter.com/maddiestone)         |        |
+| [@malwareunicorn](https://twitter.com/malwareunicorn)   |        |
+| [@mongobug](https://twitter.com/mongobug)               |        |
+| [@nnwakelam](https://twitter.com/nnwakelam)             |        |
+| [@openbugbounty](https://twitter.com/openbugbounty)     |        |
+| [@orange_8361](https://twitter.com/orange_8361)         |        |
+| [@owasp](https://twitter.com/owasp)                     |        |
+| [@samykamkar](https://twitter.com/samykamkar)           |        |
+| [@securinti](https://twitter.com/securinti)             |        |
+| [@spaceraccoonsec](https://twitter.com/spaceraccoonsec) |        |
+| [@stokfredrik](https://twitter.com/stokfredrik)         |        |
+| [@synack](https://twitter.com/synack)                   |        |
+| [@thecybermentor](https://twitter.com/thecybermentor)   |        |
+| [@thedawgyg](https://twitter.com/thedawgyg)             |        |
+| [@thegrugq](https://twitter.com/thegrugq)               |        |
+| [@yaworsk](https://twitter.com/yaworsk)                 |        |
+| [@yeswehack](https://twitter.com/yeswehack)             |        |
+| [@zseano](https://twitter.com/zseano)                   |        |
+
+
 ---
 back to [Intro Page](/README.md)

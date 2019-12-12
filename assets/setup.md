@@ -15,4 +15,4 @@ https://www.hacker101.com/playlists/burp_suite
 https://hackerone.com/hacktivity
 
 ---
-back to [Intro Page](README.md)
+back to [Intro Page](/README.md)

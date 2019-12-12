@@ -33,4 +33,4 @@ You can find a ton of awesome XSS reports by searching through the HackerOne Hac
 ## Vulnerability Scanning
 - [NMAP For Vulnerability Discovery](https://www.peerlyst.com/posts/nmap-for-vulnerability-discovery-sachin-wagh) - by Sachin Wagh
 ---
-back to [Intro Page](README.md)
+back to [Intro Page](/README.md)

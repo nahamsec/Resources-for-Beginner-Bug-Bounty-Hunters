@@ -10,3 +10,5 @@ Since there are quite a lot of people asking for Beginner Guides to Mobile Hacki
 ## Tools
 Tools specific for mobile hacking can be found [here](/assets/tools#Mobile-Hacking).
 
+---
+back to [Intro Page](/README.md)

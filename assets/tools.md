@@ -52,4 +52,4 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[SecLists](https://github.com/danielmiessler/SecLists)|A huge collection of word lists for hacking.||Daniel Miessler|
 
 ---
-back to [Intro Page](README.md)
+back to [Intro Page](/README.md)

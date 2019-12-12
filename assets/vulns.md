@@ -2,7 +2,10 @@
 
 ## Vulnerabilities
 Compact descriptions of common vulnerability types with links to useful resources. 
-
+### Online Resources
+- [Owasp Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
+- [OWASP Testing Guide v4](https://www.owasp.org/index.php/OWASP_Testing_Project)
+---
 ## Cross-Site Scripting XSS
 As we start to build this repository, we'll be adding more vulnerability types and resources for each one. XSS is a great place to start as it's one of the most popular and easiest vulnerabilities to find in a web application.
 
@@ -12,4 +15,4 @@ As we start to build this repository, we'll be adding more vulnerability types a
 - [Google Application Security (XSS Guide)](https://www.google.com/intl/am_AD/about/appsecurity/learning/xss/)
 
 ---
-back to [Intro Page](README.md)
+back to [Intro Page](/README.md)

@@ -11,6 +11,8 @@ https://linuxconfig.org/how-to-install-kali-linux-on-virtualbox
 https://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything
 - Setting up Burp
 https://www.hacker101.com/playlists/burp_suite
+- Burp Suite Introduction
+https://github.com/bugcrowd/bugcrowd_university/blob/master/An_introduction_to_Burp_Suite/Bugcrowd%20University%20-%20Burp%20Suite%20Introduction.pdf - by Jason Haddix
 - Previously Disclosed Vulnerabilities 
 https://hackerone.com/hacktivity
 

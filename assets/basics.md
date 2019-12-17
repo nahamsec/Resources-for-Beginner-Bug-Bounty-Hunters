@@ -40,7 +40,7 @@ https://www.utilizewindows.com/list-of-common-network-port-numbers/
 https://code.tutsplus.com/tutorials/an-introduction-to-learning-and-using-dns-records--cms-24704
 - Intermediate Security Testing with Kali Linux 2
 http://www.penguintutor.com/linux/basic-network-reference
-- [Network Fundamentals](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8), A 19 part Video Series about Networking well axplained for Beginners
+- [Network Fundamentals](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8), A 19 part Video Series about Networking well explained for Beginners
 
 
 ## Programming Basics

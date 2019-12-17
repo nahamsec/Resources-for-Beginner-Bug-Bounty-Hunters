@@ -27,10 +27,23 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[dirsearch](https://github.com/maurosoria/dirsearch)|dirsearch is a simple command-line tool designed to brute force directories and files in websites.|Python|Mauro Soria|
 |[Amass](https://github.com/OWASP/Amass)|Uses a variety of different techniques to gather subdomains and can build a network map of the target. Very good export options.|Go|OWASP|
 |[BuiltWith](https://builtwith.com)|A very handy Browser Extension (for Chrome, Firefox) that checks for more than 18,000 types of internet technologies. Gives you a very quick glance on what a Web Application is built.||BuiltWith®|
-|[hunter.io](https://www.hunter.io)|Email Enumeration for big corps|||
-|[intelx.io](https://intelx.io/)|Swiss army Knife of OSINT|||
-|[Shodan](https://www.shodan.io/)||||
-|[Censys](https://censys.io)||||
+|[findomain](https://github.com/Edu4rdSHL/findomain)|Very fast cross-platform subdomain enumerator|Rust|[Eduard Tolosa](https://github.com/Edu4rdSHL)|
+|[waybackurls](https://github.com/tomnomnom/waybackurls)|Fetch all the URLs that the Wayback Machine knows about for a domain|Go|[Tom Hudson](https://github.com/tomnomnom)|
+|[meg](https://github.com/tomnomnom/meg)|meg is a tool for fetching lots of URLs but still being 'nice' to servers. It can be used to fetch many paths for many hosts; fetching one path for all hosts before moving on to the next path and repeating.|Go|[Tom Hudson](https://github.com/tomnomnom)|
+|[httprobe](https://github.com/tomnomnom/httprobe)|Take a list of domains and probe for working http and https servers.|Go|[Tom Hudson](https://github.com/tomnomnom)|
+|[Osmedeus](https://github.com/j3ssie/Osmedeus)|Fully automated offensive security framework for reconnaissance and vulnerability scanning|Python|[j3ssie](https://github.com/j3ssie)|
+
+#### OSINT Webpages
+| Name 	| Description 	    | Created by   |
+|------	|-------------    	|------------- |
+|[hunter.io](https://www.hunter.io)|Email Enumeration for big corps|[Hunter Team](https://hunter.io/about)|
+|[intelx.io](https://intelx.io/)|Swiss army Knife of OSINT|[Intelligence X](https://twitter.com/_IntelligenceX)|
+|[Shodan](https://www.shodan.io/)|Search engine that lets you find systems connected to the internet with a variety of filters|John Matherly|
+|[Censys](https://censys.io)|"Censys is a public search engine that enables researchers to quickly ask questions about the hosts and networks that compose the Internet."|[Censys](https://censys.io/company)|
+|[Lookyloo](https://lookyloo.circl.lu/scrape)|Lookyloo is a web interface allowing to scrape a website and then displays a tree of domains calling each other. [Github Page of the Project](https://github.com/CIRCL/lookyloo) |[CIRCL](https://circl.lu/)|
+|[Spyse.com](https://spyse.com/)|New Search Engine made for pentesters and cyber security specialists|[Spyse Team](https://spyse.com/about)|
+|[crt.sh](https://crt.sh)|SSL certificate search tool|[Sectigo](https://sectigo.com/)|
+|[Virus Total](https://www.virustotal.com)|WHOIS, DNS, and subdomain recon|[Virus Total Team](https://support.virustotal.com/hc/en-us/categories/360000160117-About-us)|
 ### Exploitation
 | Name 	| Description 	    | Written in    | Created by   |
 |------	|-------------    	| ------------  |------------- |
@@ -45,6 +58,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |------	|-------------    	| ------------  |------------- |
 |Frida||||
 |[dex2jar](https://github.com/pxb1988/dex2jar)|Useful to convert dex files into jar to decompile the application.|Java, Smali|Bob Pan|
+|[andriller](https://github.com/den4uk/andriller)|Andriller - is software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices. [andriller.com](https://www.andriller.com/)|Python|[Denis Sazonov](https://github.com/den4uk)|
 
 ### Others
 | Name 	| Description 	    | Written in    | Created by   |

@@ -40,6 +40,7 @@ https://www.utilizewindows.com/list-of-common-network-port-numbers/
 https://code.tutsplus.com/tutorials/an-introduction-to-learning-and-using-dns-records--cms-24704
 - Intermediate Security Testing with Kali Linux 2
 http://www.penguintutor.com/linux/basic-network-reference
+- [Network Fundamentals](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8), A 19 part Video Series about Networking well explained for Beginners
 
 
 ## Programming Basics
@@ -58,14 +59,15 @@ As always, if you prefer an interactive course, feel free to use Codecademy!
 https://www.codecademy.com/learn/learn-sql
 http://www.sqlcourse.com/ 
 
-### Automation 
+## Automation 
 You are welcome to skip this section if you think you’ll never need any automation or in depth web application knowledge. However I think learning bash in addition to one the following four languages may help you work smarter rather than harder.
 - Bash
-https://www.learnshell.org/ 
+   - https://www.learnshell.org/ 
+   - https://explainshell.com/
 - Ruby
-https://www.learnrubyonline.org/
+   - https://www.learnrubyonline.org/
 - Python
-https://docs.python.org/3/tutorial/
+   - https://docs.python.org/3/tutorial/
 - Additional Resources:
    - https://www.codecademy.com/learn/paths/web-development
    - https://docs.python.org/3/tutorial/

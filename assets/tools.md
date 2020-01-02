@@ -44,6 +44,18 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[Spyse.com](https://spyse.com/)|New Search Engine made for pentesters and cyber security specialists|[Spyse Team](https://spyse.com/about)|
 |[crt.sh](https://crt.sh)|SSL certificate search tool|[Sectigo](https://sectigo.com/)|
 |[Virus Total](https://www.virustotal.com)|WHOIS, DNS, and subdomain recon|[Virus Total Team](https://support.virustotal.com/hc/en-us/categories/360000160117-About-us)|
+|[ZoomEye](https://www.zoomeye.org/)|Search engine for specific network components|[Team from Knownsec](https://www.knownsec.com/)|
+|[We Leak Info](https://weleakinfo.com/)|Databreach Search Engine|[We Leak Info](https://twitter.com/weleakinfo)|
+|[NerdyData](https://nerdydata.com/)|Search Engine for Source Code|[NerdyData](https://www.crunchbase.com/organization/nerdydata)|
+|[Crunchbase](https://www.crunchbase.com/)|For finding Information about Businesses and their acquisitions|[TechCrunch](https://techcrunch.com)|
+|[Searchcode](https://searchcode.com/)|Helping you find real world examples of functions, API's and libraries over 90 languages across multiple sources|[searchcode](https://searchcode.com/about/#team)|
+
+
+
+
+
+
+
 ### Exploitation
 | Name 	| Description 	    | Written in    | Created by   |
 |------	|-------------    	| ------------  |------------- |

@@ -68,6 +68,8 @@ You are welcome to skip this section if you think you’ll never need any automa
    - https://www.learnrubyonline.org/
 - Python
    - https://docs.python.org/3/tutorial/
+- Go(lang)
+   - https://golang.org
 - Additional Resources:
    - https://www.codecademy.com/learn/paths/web-development
    - https://docs.python.org/3/tutorial/

@@ -16,6 +16,8 @@ A collection of Blog Posts ordered by Vulnerability Types
 - [HTTP Desync](#HTTP-Desync)
 - [File Upload](#File-Upload)
 - [Automation](#Automation)
+- [Buffer Overflow](#Buffer-Overflow)
+- [IDOR](#IDOR)
 - [Misc](#Misc)
 ## XSS
 You can find a ton of awesome XSS reports by searching through the HackerOne Hacktivity Page (https://hackerone.com/hacktivity?querystring=XSS). Here are some more complex and some of my favorite XSS related blog posts:
@@ -23,6 +25,8 @@ You can find a ton of awesome XSS reports by searching through the HackerOne Hac
 - [XSS on Google Search - Sanitizing HTML in The Client?](https://www.youtube.com/watch?v=lG7U3fuNw3A) - by LiveOverflow
     - [The Fix](https://github.com/google/closure-library/commit/c79ab48e8e962fee57e68739c00e16b9934c0ffa)
 - [Cracking my windshield and earning $10,000 on the Tesla Bug Bounty Program](https://samcurry.net/cracking-my-windshield-and-earning-10000-on-the-tesla-bug-bounty-program/) - by [Sam Curry](https://twitter.com/samwcyo)
+- [Effortlessly finding Cross Site Script Inclusion (XSSI) & JSONP for bug bounty](https://medium.com/bugbountywriteup/effortlessly-finding-cross-site-script-inclusion-xssi-jsonp-for-bug-bounty-38ae0b9e5c8a) - by [@th3_hidd3n_mist](https://twitter.com/th3_hidd3n_mist)
+- [Microsoft Edge (Chromium) - EoP via XSS to Potential RCE](https://leucosite.com/Edge-Chromium-EoP-RCE/) - by [@Qab](https://twitter.com/qab)
 ### DOM XSS
 - https://hackerone.com/reports/297968
 - https://hackerone.com/reports/168165
@@ -79,6 +83,10 @@ You can find a ton of awesome XSS reports by searching through the HackerOne Hac
 
 ## Buffer Overflow
 - [Filling in the Blanks: Exploiting Null Byte Buffer Overflow for a $40,000 Bounty](https://samcurry.net/filling-in-the-blanks-exploiting-null-byte-buffer-overflow-for-a-40000-bounty/) - by [Sam Curry](https://twitter.com/samwcyo)
+
+## IDOR
+- [Steal Earning of Airbnb hosts by Adding Bank Account/Payment Method](https://www.indoappsec.in/2019/12/airbnb-steal-earning-of-airbnb-hosts-by.html) - by [Vijay Kumar ](https://twitter.com/IndoAppSec)
+- [GraphQL IDOR leads to information disclosure](https://medium.com/@R0X4R/graphql-idor-leads-to-information-disclosure-175eb560170d) - by [@R0X4R](https://twitter.com/R0X4R)
 
 ## Misc
 - [Writing a Simple Buffer Overflow Exploit](https://www.youtube.com/watch?v=oS2O75H57qU) - by LiveOverflow

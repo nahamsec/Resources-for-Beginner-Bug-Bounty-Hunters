@@ -14,7 +14,7 @@ As we start to build this repository, we'll be adding more vulnerability types a
 - [OWASP XSS](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS))
 - [A comprehensive tutorial on cross-site scripting](https://excess-xss.com)
 - [Google Application Security (XSS Guide)](https://www.google.com/intl/am_AD/about/appsecurity/learning/xss/)
- - [What is PHP and why is XSS so common there?](https://www.youtube.com/watch?v=Q2mGcbkX550) - by LiveOverflow
+- [What is PHP and why is XSS so common there?](https://www.youtube.com/watch?v=Q2mGcbkX550) - by LiveOverflow
 
 ## Cross-Site Request Forgery (CSRF)
 - [Cross-Site Request Forgery Attack](https://www.youtube.com/watch?v=eWEgUcHPle0) - by PwnFunction
@@ -31,5 +31,7 @@ As we start to build this repository, we'll be adding more vulnerability types a
 - [HTTP Parameter Pollution Attacks](https://www.youtube.com/watch?v=QVZBl8yxVX0) - by PwnFunction
 ## Logic Errors
 - [Finding Your First Bug: Business Logic Errors](https://www.youtube.com/watch?v=RobCqW2KwGs) - by InsiderPhD
+## Remote Code Execution
+- [Finding Your First Bug: Goal Setting / Remote Code Execution (RCE)](https://www.youtube.com/watch?v=5BTvTE3gEq8) - by InsiderPhD
 ---
 back to [Intro Page](/README.md)

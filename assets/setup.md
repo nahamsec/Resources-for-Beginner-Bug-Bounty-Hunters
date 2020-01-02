@@ -7,6 +7,8 @@ This section will help you set up your testing environement.
 https://www.linux.com/learn/easy-lamp-server-installation<br>
 - Setting up virtualbox + linux
 https://linuxconfig.org/how-to-install-kali-linux-on-virtualbox
+- Docker For Pentesting And Bug Bounty Hunting
+https://www.youtube.com/watch?v=5G6tA8Q9AuQ
 - Basics of UNIX
 https://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything
 - Setting up Burp

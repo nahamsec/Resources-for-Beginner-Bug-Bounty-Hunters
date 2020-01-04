@@ -32,6 +32,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[meg](https://github.com/tomnomnom/meg)|meg is a tool for fetching lots of URLs but still being 'nice' to servers. It can be used to fetch many paths for many hosts; fetching one path for all hosts before moving on to the next path and repeating.|Go|[Tom Hudson](https://github.com/tomnomnom)|
 |[httprobe](https://github.com/tomnomnom/httprobe)|Take a list of domains and probe for working http and https servers.|Go|[Tom Hudson](https://github.com/tomnomnom)|
 |[Osmedeus](https://github.com/j3ssie/Osmedeus)|Fully automated offensive security framework for reconnaissance and vulnerability scanning|Python|[j3ssie](https://github.com/j3ssie)|
+|[hakrawler](https://github.com/hakluke/hakrawler)|hakrawler is a Go web crawler designed for easy, quick discovery of endpoints and assets within a web application. It can be used to discover Forms, Endpoints, Subdomains, Related documents and JS Files|Go|[@hakluke](https://twitter.com/hakluke)|
 
 #### OSINT Webpages
 | Name 	| Description 	    | Created by   |

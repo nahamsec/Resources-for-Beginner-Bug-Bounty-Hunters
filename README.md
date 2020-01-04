@@ -9,12 +9,13 @@ We understand that there are more resources other than the ones we have listed a
 
 ---
 ## Table of Contents
-
-1. [Basics](/assets/basics.md)
-2. [Setup](/assets/setup.md)
-3. [Tools](/assets/tools.md)
-4. [Labs & Testing Environments](/assets/labs.md)
-5. [Vulnerability Types](/assets/vulns.md)
-6. [Mobile Hacking](/assets/mobile.md)
-6. [Blog posts & Talks](/assets/blogposts.md)
-7. [Media Resources](/assets/media.md)
+| Topic                          | Description |
+| ------------------------------ | ----------- |
+|1. [Basics](/assets/basics.md)|A quick guide about Networking, Programming & Automation|
+|2. [Setup](/assets/setup.md)|Tips on how to get started/setting up your environment|
+|3. [Tools](/assets/tools.md)|A curated list of usefull Tools, organized by use case|
+|4. [Labs & Testing Environments](/assets/labs.md)|List with Labs & Platforms to test your skills and learn how to exploit common web app vulnerabilities|
+|5. [Vulnerability Types](/assets/vulns.md)|A list with resources, describing vulnerabilities & how to find/exploit them|
+|6. [Mobile Hacking](/assets/mobile.md)|Helpful content focusing especially on Mobile Application Hacking|
+|6. [Blog posts & Talks](/assets/blogposts.md)|Published Blogposts & Writeups organized by Vulnerability Types|
+|7. [Media Resources](/assets/media.md)|A collection of lists, featuring YouTubers, Streamers, Twitter Accounts, Books, Podcasts etc.|

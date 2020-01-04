@@ -15,6 +15,7 @@ As we start to build this repository, we'll be adding more vulnerability types a
 - [A comprehensive tutorial on cross-site scripting](https://excess-xss.com)
 - [Google Application Security (XSS Guide)](https://www.google.com/intl/am_AD/about/appsecurity/learning/xss/)
 - [What is PHP and why is XSS so common there?](https://www.youtube.com/watch?v=Q2mGcbkX550) - by LiveOverflow
+- [Finding Your First Bug: Cross Site Scripting (XSS)](https://www.youtube.com/watch?v=IWbmP0Z-yQg) - by InsiderPhD
 
 ## Cross-Site Request Forgery (CSRF)
 - [Cross-Site Request Forgery Attack](https://www.youtube.com/watch?v=eWEgUcHPle0) - by PwnFunction

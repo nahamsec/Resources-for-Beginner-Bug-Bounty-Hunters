@@ -20,6 +20,7 @@ A collection of Blog Posts ordered by Vulnerability Types
 - [IDOR](#IDOR)
 - [GraphQL](#GraphQL)
 - [Misc](#Misc)
+---
 ## XSS
 You can find a ton of awesome XSS reports by searching through the HackerOne Hacktivity Page (https://hackerone.com/hacktivity?querystring=XSS). Here are some more complex and some of my favorite XSS related blog posts:
 

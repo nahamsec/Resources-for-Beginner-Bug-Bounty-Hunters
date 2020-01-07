@@ -16,10 +16,4 @@ We understand that there are more resources other than the ones we have listed a
 5. [Vulnerability Types](/assets/vulns.md)
 6. [Mobile Hacking](/assets/mobile.md)
 6. [Blog posts & Talks](/assets/blogposts.md)
-7. [Media Resources (Twitter/Streams/YouTube etc.)](/assets/media.md)
-
---
-## Changelog
-Updates will be pushed monthly. Read below for the latest changes.
-### January 2020 Update
-- Updated Twitter Account Descriptions
+7. [Media Resources](/assets/media.md)

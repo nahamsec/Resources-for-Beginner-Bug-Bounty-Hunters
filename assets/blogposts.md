@@ -86,6 +86,7 @@ You can find a ton of awesome XSS reports by searching through the HackerOne Hac
 
 ## Buffer Overflow
 - [Filling in the Blanks: Exploiting Null Byte Buffer Overflow for a $40,000 Bounty](https://samcurry.net/filling-in-the-blanks-exploiting-null-byte-buffer-overflow-for-a-40000-bounty/) - [Sam Curry](https://twitter.com/samwcyo)
+- [Writing a Simple Buffer Overflow Exploit](https://www.youtube.com/watch?v=oS2O75H57qU) - LiveOverflow
 
 ## IDOR
 - [Steal Earning of Airbnb hosts by Adding Bank Account/Payment Method](https://www.indoappsec.in/2019/12/airbnb-steal-earning-of-airbnb-hosts-by.html) - [Vijay Kumar ](https://twitter.com/IndoAppSec)
@@ -98,7 +99,6 @@ You can find a ton of awesome XSS reports by searching through the HackerOne Hac
 
 ## Misc
 - [Notes about Nahamsecs Recon Sessions](https://mavericknerd.github.io/knowledgebase/nahamsec/recon_session_1/) - [maverickNerd](https://github.com/maverickNerd)
-- [Writing a Simple Buffer Overflow Exploit](https://www.youtube.com/watch?v=oS2O75H57qU) - LiveOverflow
 - [Hacking GitHub with Unicode's dotless 'i'](https://eng.getwisdom.io/hacking-github-with-unicode-dotless-i/)
 - [Abusing autoresponders and email bounces](https://medium.com/intigriti/abusing-autoresponders-and-email-bounces-9b1995eb53c2) - securinti
 - [Abusing HTTP hop-by-hop request headers](https://nathandavison.com/blog/abusing-http-hop-by-hop-request-headers) - [@nj_dav](https://twitter.com/nj_dav)

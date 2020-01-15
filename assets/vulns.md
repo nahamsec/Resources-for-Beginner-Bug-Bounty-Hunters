@@ -16,6 +16,7 @@ As we start to build this repository, we'll be adding more vulnerability types a
 - [Google Application Security (XSS Guide)](https://www.google.com/intl/am_AD/about/appsecurity/learning/xss/)
 - [What is PHP and why is XSS so common there?](https://www.youtube.com/watch?v=Q2mGcbkX550) - by LiveOverflow
 - [Finding Your First Bug: Cross Site Scripting (XSS)](https://www.youtube.com/watch?v=IWbmP0Z-yQg) - by InsiderPhD
+- [The 7 main XSS cases everyone should know](https://brutelogic.com.br/blog/the-7-main-xss-cases-everyone-should-know/) - [brutelogic](https://brutelogic.com.br/blog/about/)
 
 ## Cross-Site Request Forgery (CSRF)
 - [Cross-Site Request Forgery Attack](https://www.youtube.com/watch?v=eWEgUcHPle0) - by PwnFunction

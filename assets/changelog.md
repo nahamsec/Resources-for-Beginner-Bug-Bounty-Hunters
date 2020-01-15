@@ -4,6 +4,16 @@
 
 Updates to this repo will be pushed monthly. You can read about the latest changes below.
 
+## Update 2020.02
+### Added
+- New XSS Lab: **XSS Labs from PwnFunction**
+- New Recon & OSINT Tool: **Reconness**
+- New [IDOR Blogspost](/assets/blogposts.md#IDOR): **Automating BURP to find IDORs**
+- New [Misc Blogpost](/assets/blogposts.md#Misc): **How to Get a Finger on the Pulse of Corporate Networks via the SSL VPN**
+- New Blogspost Category: [RCE](/assets/blogposts.md#RCE)
+    - New RCE Blogpost :**My First RCE (Stressed Employee gets me 2x bounty)**
+- New Vulnerabilities Post: **The 7 main XSS cases everyone should know**
+
 ## Update 2020.01
 ### Added
 - New changelog page

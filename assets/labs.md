@@ -11,6 +11,7 @@
 - [DWVA](http://www.dvwa.co.uk)
 - [Google Gruyere](https://google-gruyere.appspot.com/)
 - [Web Security Academy by PortSwigger](https://portswigger.net/web-security)
+- [XSS Labs from PwnFunction](https://xss.pwnfunction.com/) Great Labs in a beautiful layout
 
 ---
 back to [Intro Page](/README.md)

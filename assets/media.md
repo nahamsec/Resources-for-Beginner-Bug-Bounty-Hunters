@@ -3,7 +3,7 @@
 ## Media Resources
 Here you find listings to useful media creations that can help beginners in different ways.
 
-- [YoutTube Channels](#Youtube-Channels)
+- [YouTube Channels](#Youtube-Channels)
 - [Streamers](#Streamers)
 - [Podcasts](#Podcasts)
 - [Books](#Books)
@@ -23,7 +23,7 @@ Here you find listings to useful media creations that can help beginners in diff
 ## Streamers
 - [Nahamsec](https://www.twitch.com/nahamsec) on Twitch
 - [d0nutptr](https://www.twitch.tv/d0nutptr/) on Twitch
-- [The Cyber Mentor](https://twitch.tv/theblindhackercybermentor) on Twitch
+- [The Cyber Mentor](https://twitch.tv/thecybermentor) on Twitch
 - [The Blind Hacker](https://twitch.tv/theblindhacker) on Twitch
 
 

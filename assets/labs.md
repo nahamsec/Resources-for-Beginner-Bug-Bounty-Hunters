@@ -1,6 +1,6 @@
 # Resources-for-Beginner-Bug-Bounty-Hunters
 
-## Labs & Testing Environments
+## Labs & Testing Environments 🧪
 
 ## General
 - [Hacker101](https://www.hacker101.com/) | Good Exercises for Beginners, can earn you private Invites on HackerOne

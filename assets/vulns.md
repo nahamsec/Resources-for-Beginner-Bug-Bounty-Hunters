@@ -1,6 +1,6 @@
 # Resources-for-Beginner-Bug-Bounty-Hunters
 
-## Vulnerabilities
+## Vulnerabilities 💉
 Compact descriptions of common vulnerability types with links to useful resources. 
 ### Online Resources
 - [Owasp Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)

@@ -1,6 +1,6 @@
 # Resources-for-Beginner-Bug-Bounty-Hunters
 
-## Media Resources
+## Media Resources 🎬
 Here you find listings to useful media creations that can help beginners in different ways.
 
 - [YouTube Channels](#Youtube-Channels)

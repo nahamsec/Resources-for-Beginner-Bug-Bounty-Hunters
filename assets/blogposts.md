@@ -1,6 +1,6 @@
 # Resources-for-Beginner-Bug-Bounty-Hunters
 
-## Blog posts
+## Blog posts 📝
 A collection of Blog Posts ordered by Vulnerability Types
 - [XSS](#XSS)
     - [DOM XSS](#DOM-XSS)

@@ -1,8 +1,10 @@
 # Resources-for-Beginner-Bug-Bounty-Hunters
 
-## Changelog
+## Changelog 📬
 
 Updates to this repo will be pushed monthly. You can read about the latest changes below.
+
+---
 
 ## Update 2020.02
 ### Added
@@ -22,6 +24,8 @@ Updates to this repo will be pushed monthly. You can read about the latest chang
 
 ### Fixed
 - Typos in [Media](/assets/media.md) (contributed by [securibee](https://github.com/securibee))
+
+---
 
 ## Update 2020.01
 ### Added

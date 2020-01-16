@@ -1,6 +1,6 @@
 # Resources-for-Beginner-Bug-Bounty-Hunters
 
-## Tools
+## Tools 🧰
 
 Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 

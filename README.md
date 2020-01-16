@@ -8,7 +8,7 @@ We understand that there are more resources other than the ones we have listed a
 
 ## Current Version: 2020.02 
 
-[Changelog: See what's new!](/assets/changelog.md)
+[Changelog: See what's new!](/assets/changelog.md) 📣
 
 ---
 ## Table of Contents

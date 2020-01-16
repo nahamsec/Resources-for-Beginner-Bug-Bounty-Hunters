@@ -20,6 +20,7 @@ A collection of Blog Posts ordered by Vulnerability Types
 - [IDOR](#IDOR)
 - [GraphQL](#GraphQL)
 - [RCE](#RCE)
+- [Recon](#Recon)
 - [Misc](#Misc)
 ---
 ## XSS
@@ -103,8 +104,11 @@ You can find a ton of awesome XSS reports by searching through the HackerOne Hac
 ## RCE
 - [My First RCE (Stressed Employee gets me 2x bounty)](https://medium.com/@abhishake100/my-first-rce-stressed-employee-gets-me-2x-bounty-c4879c277e37) - [Abhishek Yadav](https://medium.com/@abhishake100)
 
-## Misc
+## Recon
+- [Subdomain Recon Using Certificate Search Technique](https://www.r00tpgp.com/2020/01/subdomain-recon-using-certificate.html?m=0)
 - [Notes about Nahamsecs Recon Sessions](https://mavericknerd.github.io/knowledgebase/nahamsec/recon_session_1/) - [maverickNerd](https://github.com/maverickNerd)
+
+## Misc
 - [Hacking GitHub with Unicode's dotless 'i'](https://eng.getwisdom.io/hacking-github-with-unicode-dotless-i/)
 - [Abusing autoresponders and email bounces](https://medium.com/intigriti/abusing-autoresponders-and-email-bounces-9b1995eb53c2) - securinti
 - [Abusing HTTP hop-by-hop request headers](https://nathandavison.com/blog/abusing-http-hop-by-hop-request-headers) - [@nj_dav](https://twitter.com/nj_dav)

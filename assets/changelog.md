@@ -11,8 +11,17 @@ Updates to this repo will be pushed monthly. You can read about the latest chang
 - New [IDOR Blogspost](/assets/blogposts.md#IDOR): **Automating BURP to find IDORs**
 - New [Misc Blogpost](/assets/blogposts.md#Misc): **How to Get a Finger on the Pulse of Corporate Networks via the SSL VPN**
 - New Blogspost Category: [RCE](/assets/blogposts.md#RCE)
-    - New RCE Blogpost :**My First RCE (Stressed Employee gets me 2x bounty)**
+    - New RCE Blogpost: **My First RCE (Stressed Employee gets me 2x bounty)**
+- New Blogpost Cetegory: [Recon](/assets/blogposts.md#Recon)
+    - New Recon Blogpost/Guide: **Subdomain Recon Using Certificate Search Technique**
 - New Vulnerabilities Post: **The 7 main XSS cases everyone should know**
+- Added Jason Haddix to [Media](/assets/media.md) (contributed by [securibee](https://github.com/securibee))
+
+## Changed
+- Moved **Notes about Nahamsecs Recon Sessions** from [Misc](/assets/blogposts.md#Misc) to [Recon](/assets/blogposts.md#Recon)
+
+### Fixed
+- Typos in [Media](/assets/media.md) (contributed by [securibee](https://github.com/securibee))
 
 ## Update 2020.01
 ### Added

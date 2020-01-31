@@ -1,6 +1,6 @@
 # Resources-for-Beginner-Bug-Bounty-Hunters
 
-## Mobile Hacking
+## Mobile Hacking 📱
 Since there are quite a lot of people asking for Beginner Guides to Mobile Hacking specificaly we gave it a section on itself.
 
 ## Getting Started

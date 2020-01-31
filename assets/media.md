@@ -1,9 +1,9 @@
 # Resources-for-Beginner-Bug-Bounty-Hunters
 
-## Media Resources
+## Media Resources 🎬
 Here you find listings to useful media creations that can help beginners in different ways.
 
-- [YoutTube Channels](#Youtube-Channels)
+- [YouTube Channels](#Youtube-Channels)
 - [Streamers](#Streamers)
 - [Podcasts](#Podcasts)
 - [Books](#Books)
@@ -19,12 +19,14 @@ Here you find listings to useful media creations that can help beginners in diff
 - [InsiderPhD](https://www.youtube.com/channel/UCPiN9NPjIer8Do9gUFxKv7A) - An excellent Introduction series for beginners to help them find their first bug.
 - [PwnFunction](https://www.youtube.com/PwnFunction) explanatory videos about Web App vulnerabilities
 - [DEFCONConference](https://www.youtube.com/user/DEFCONConference/videos) - Tons of Talks from Defcon.
+- [Jason Haddix](https://www.youtube.com/channel/UCk0f0svao7AKeK3RfiWxXEA) - VODs of his Stream
 
 ## Streamers
 - [Nahamsec](https://www.twitch.com/nahamsec) on Twitch
 - [d0nutptr](https://www.twitch.tv/d0nutptr/) on Twitch
-- [The Cyber Mentor](https://twitch.tv/theblindhackercybermentor) on Twitch
+- [The Cyber Mentor](https://twitch.tv/thecybermentor) on Twitch
 - [The Blind Hacker](https://twitch.tv/theblindhacker) on Twitch
+- [Jason Haddix](https://www.twitch.tv/js0n_x/) on Twitch
 
 
 ## Podcasts

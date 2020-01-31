@@ -1,6 +1,6 @@
 # Resources-for-Beginner-Bug-Bounty-Hunters
 
-## Setup
+## Setup 💻
 This section will help you set up your testing environement.
 - [Setting Up Your Ubuntu Box for Pentest and Bug Bounty Automation](https://www.youtube.com/watch?v=YhUiAH5SIqk) by nahamsec
 - [Setting up your own web server on a VPS](https://www.linux.com/learn/easy-lamp-server-installation)

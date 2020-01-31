@@ -6,7 +6,9 @@ There are a number of new hackers joining the community on a regular basis and m
 
 We understand that there are more resources other than the ones we have listed and we hope to cover more resources in the near future!<br>
 
-[Changelog: See what's new!](/assets/changelog.md)
+## Current Version: 2020.02 
+
+[Changelog: See what's new!](/assets/changelog.md) 📣
 
 ---
 ## Table of Contents

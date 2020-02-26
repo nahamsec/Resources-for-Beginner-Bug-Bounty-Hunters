@@ -35,6 +35,7 @@ Updates to this repo will be pushed monthly. You can read about the latest chang
 - Nothing
 ### Fixed
 - Format Issue in [Changelog](/assets/changelog.md)
+- Changed Format in [README](/assets/README.md)
 
 
 ---

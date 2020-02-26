@@ -6,18 +6,19 @@ There are a number of new hackers joining the community on a regular basis and m
 
 We understand that there are more resources other than the ones we have listed and we hope to cover more resources in the near future!<br>
 
-## Current Version: 2020.02 
+## Current Version: 2020.03 
 
 [Changelog: See what's new!](/assets/changelog.md) 📣
 
 ---
 ## Table of Contents
 
-1. [Basics](/assets/basics.md)
-2. [Setup](/assets/setup.md)
-3. [Tools](/assets/tools.md)
-4. [Labs & Testing Environments](/assets/labs.md)
-5. [Vulnerability Types](/assets/vulns.md)
-6. [Mobile Hacking](/assets/mobile.md)
-6. [Blog posts & Talks](/assets/blogposts.md)
-7. [Media Resources](/assets/media.md)
+- [Basics](/assets/basics.md)
+- [Setup](/assets/setup.md)
+- [Tools](/assets/tools.md)
+- [Labs & Testing Environments](/assets/labs.md)
+- [Vulnerability Types](/assets/vulns.md)
+- [Mobile Hacking](/assets/mobile.md)
+- [Smart Contracts](/assets/smartcon.md)
+- [Blog posts & Talks](/assets/blogposts.md)
+- [Media Resources](/assets/media.md)

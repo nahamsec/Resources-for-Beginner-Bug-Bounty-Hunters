@@ -21,6 +21,7 @@ A collection of Blog Posts ordered by Vulnerability Types
 - [GraphQL](#GraphQL)
 - [RCE](#RCE)
 - [Recon](#Recon)
+- [Smart Contracts](#Smart-Contracts)
 - [Misc](#Misc)
 ---
 ## XSS
@@ -70,7 +71,7 @@ You can find a ton of awesome XSS reports by searching through the HackerOne Hac
 ## Mobile
 ### iOS
 - [From checkra1n to Frida: iOS App Pentesting Quickstart on iOS 13](https://spaceraccoon.dev/from-checkra1n-to-frida-ios-app-pentesting-quickstart-on-ios-13) - spaceraccoon
-## Android
+### Android
 - [A deep dive into reversing Android pre-Installed apps](https://github.com/maddiestone/ConPresentations/blob/master/Blackhat2019.SecuringTheSystem.pdf) and the [BlackHat Talk](https://www.youtube.com/watch?v=U6qTcpCfuFc) - Maddie Stone
 
 ## HTTP Desync
@@ -107,6 +108,11 @@ You can find a ton of awesome XSS reports by searching through the HackerOne Hac
 ## Recon
 - [Subdomain Recon Using Certificate Search Technique](https://www.r00tpgp.com/2020/01/subdomain-recon-using-certificate.html?m=0)
 - [Notes about Nahamsecs Recon Sessions](https://mavericknerd.github.io/knowledgebase/nahamsec/recon_session_1/) - [maverickNerd](https://github.com/maverickNerd)
+- [10 Recon Tools For Bug Bounty](https://medium.com/@hackbotone/10-recon-tools-for-bug-bounty-bafa8a5961bd) - Anshuman Pattnaik
+
+## Smart Contracts
+- [Steal collateral during `end` process, by earning DSR interest after `flow](https://hackerone.com/reports/672664)(Listed as Business Logic Error)
+- [Steal all MKR from `flap` during liquidation by exploiting lack of validation in `flap.kick`](https://hackerone.com/reports/684152)(Listed as Improper Input Validation)
 
 ## Misc
 - [Hacking GitHub with Unicode's dotless 'i'](https://eng.getwisdom.io/hacking-github-with-unicode-dotless-i/)

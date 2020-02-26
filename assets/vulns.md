@@ -20,6 +20,8 @@ As we start to build this repository, we'll be adding more vulnerability types a
 
 ## Cross-Site Request Forgery (CSRF)
 - [Cross-Site Request Forgery Attack](https://www.youtube.com/watch?v=eWEgUcHPle0) - by PwnFunction
+- [CSRF-Basics](https://princetechhavenz.wordpress.com/2019/12/11/csrf-basics/) - by Princethilak
+- [Finding Your First Bug: Cross-Site Request Forgery](https://www.youtube.com/watch?v=ULvf6N8AL2A) - by Insider PhD
 
 ## XML External Entities (XXE)
 - [XML External Entities ft. JohnHammond](https://www.youtube.com/watch?v=gjm6VHZa_8s) - by PwnFunction

@@ -24,8 +24,6 @@ https://www.tutorialspoint.com/http/http_responses.htm
 https://www.tutorialspoint.com/http/http_status_codes.htm 
 - URL Encoding
 https://www.tutorialspoint.com/http/http_url_encoding.htm 
-- Status Codes
-https://www.tutorialspoint.com/http/http_status_codes.htm 
 
 
 ## Networking basics

@@ -6,11 +6,13 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 
 ## Table of Contents
 1. [Proxy & Network Sniffer](#Proxy-&-Network-Sniffer)
-2. [Recon, OSINT & Discovery](#Recon,-OSINT-&-Discovery)
-3. [Exploitation](#Exploitation)
-4. [Scanners](#Scanners)
-5. [Mobile Hacking](#Mobile-Hacking)
-6. [Others](#Others)
+2. [Burp Extensions](#Burp-Extensions)
+3. [Recon, OSINT & Discovery](#Recon,-OSINT-&-Discovery)
+4. [Exploitation](#Exploitation)
+5. [Scanners](#Scanners)
+6. [Mobile Hacking](#Mobile-Hacking)
+7. [Notes & Organization](#Notes-&-Organization)
+8. [Others](#Others)
 
 ### Proxy & Network Sniffer
 | Name 	| Description 	| Written in   | Created by   |
@@ -18,6 +20,16 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[Burp Suite](https://portswigger.net/burp)|A Proxy to intercept and manipulate Web Traffic (free & paid version). [Here](/assets/setup.md#setup) you can find Tips & Tricks to get started with Burp.|Java|Port Swigger|
 |[OWASP Zap Proxy](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)|A Proxy to intercept and manipulate Web Traffic (free).|Java|OWASP|
 |[Wireshark](https://www.wireshark.org)|Wireshark is a network protocol analyzer that lets you capture and read network packets.|C, C++|The Wireshark team|
+
+### Burp Extension
+| Name 	| Description 	| Written in   |
+|------	|-------------	|------------  |
+|[Logger++](https://portswigger.net/bappstore/470b7057b86f41c396a97903377f3d81)|"This extension can be used to log the requests and responses made by all Burp tools, and display them in a sortable table. It can also save the logged data in CSV format."|Java|
+|[Flow](https://portswigger.net/bappstore/ee1c45f4cc084304b2af4b7e92c0a49d)|"This extension provides a Proxy history-like view along with search filter capabilities for all Burp tools."|Java|
+|[AuthMatrix](https://portswigger.net/bappstore/30d8ee9f40c041b0bfec67441aad158e)|"AuthMatrix is an extension to Burp Suite that provides a simple way to test authorization in web applications and web services. With AuthMatrix, testers focus on thoroughly defining tables of users, roles, and requests for their specific target application upfront. These tables are displayed through the UI in a similar format to that of an access control matrix commonly built in various threat modeling methodologies."|Python (Needs Jython version 2.7.0 or later)|
+|[Autorize](https://portswigger.net/bappstore/f9bbac8c4acf4aefa4d7dc92a991af2f)|"Autorize is an extension aimed at helping the penetration tester to detect authorization vulnerabilities..."|Python (Needs Jython)|
+|[Auto Repeater](https://portswigger.net/bappstore/f89f2837c22c4ab4b772f31522647ed8)|"This extension automatically repeats requests, with replacement rules and response diffing. It provides a general-purpose solution for streamlining authorization testing within web applications."|Java|
+|[Progress Tracker](https://portswigger.net/bappstore/17544cadcec64dcf8ed68df8518592e4)|"Burp Suite extension to track vulnerability assessment progress"|Python|
 
 ### Recon, OSINT & Discovery
 | Name 	| Description 	    | Written in    | Created by   |
@@ -76,12 +88,21 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[dex2jar](https://github.com/pxb1988/dex2jar)|Useful to convert dex files into jar to decompile the application.|Java, Smali|Bob Pan|
 |[andriller](https://github.com/den4uk/andriller)|Andriller - is software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices. [andriller.com](https://www.andriller.com/)|Python|[Denis Sazonov](https://github.com/den4uk)|
 |[Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF/)|Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis. MobSF support mobile app binaries (APK, IPA & APPX) along with zipped source code and provides REST APIs for seamless integration with your CI/CD or DevSecOps pipeline.The Dynamic Analyzer helps you to perform runtime security assessment and interactive instrumented testing.|Python|MobSF Team|
+|[objection](https://github.com/sensepost/objection)|"objection is a runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak."|Python & TypeScript|[sensepost](https://github.com/sensepost)|
+
+### Notes & Organization
+| Name 	| Description 	    | Written in    | Created by   |
+|------	|-------------    	| ------------  |------------- |
+|[Reconness](https://github.com/reconness/reconness)|"ReconNess helps you to run and keep all your #recon in the same place allowing you to focus only on the potentially vulnerable targets without distraction and without required a lot of bash skill or programing skill in general."|C#|[Reconness](https://github.com/reconness)|
+|[Updog](https://github.com/sc0tfree/updog)|"Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use HTTP basic auth."|Python|[sc0tfree](https://github.com/sc0tfree)|
+
 
 ### Others
 | Name 	| Description 	    | Written in    | Created by   |
 |------	|-------------    	| ------------  |------------- |
 |[SecLists](https://github.com/danielmiessler/SecLists)|A huge collection of word lists for hacking.||Daniel Miessler|
 |[Recon Pi](https://github.com/x1mdev/ReconPi)|A lightweight recon tool that performs extensive reconnaissance with the latest tools using a Raspberry Pi.||[@x1m_martijn](https://twitter.com/x1m_martijn)|
+|[CyberChef](https://gchq.github.io/CyberChef/)|Awesome Tool for de-/encoding stuff. Try it out!|JavaScript|[gchq](https://github.com/gchq)|
 
 ---
 back to [Intro Page](/README.md)

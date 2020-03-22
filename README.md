@@ -20,5 +20,6 @@ We understand that there are more resources other than the ones we have listed a
 - [Vulnerability Types](/assets/vulns.md)
 - [Mobile Hacking](/assets/mobile.md)
 - [Smart Contracts](/assets/smartcon.md)
+- [Hardware & IoT](/assets/hardware.md)
 - [Blog posts & Talks](/assets/blogposts.md)
 - [Media Resources](/assets/media.md)

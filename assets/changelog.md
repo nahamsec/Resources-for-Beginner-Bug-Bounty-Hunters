@@ -5,7 +5,48 @@
 Updates to this repo will be pushed monthly. You can read about the latest changes below.
 
 ---
+## Update 2020.04
+### Added
+- New: [Hardware & IoT](/assets/hardware.md)
+    - Added Exploitee.rs Wiki
+- New [Podcasts](/assets/media.md#Podcasts):
+    - Darknet Diaries Episode 60 with dawgyg
+    - The Bug Bounty Podscast Episode 3 with nahamsec
+- New in [Tools](/assets/tools.md):
+    - objection - A new Mobile tool
+    - CyberChef
+    - New Category: [Notes & Organization](/assets/tools.md#Notes-&-Organization)
+        - Reconness to [Notes & Organization](/assets/tools.md#Notes-&-Organization)
+        - Updog to [Notes & Organization](/assets/tools.md#Notes-&-Organization)
+    - New Category: [Burp Extensions](/assets/tools.md#Burp-Extensions)
+        - Logger++ to [Burp Extensions](/assets/tools.md#Burp-Extensions)
+        - AuthMatrix to [Burp Extensions](/assets/tools.md#Burp-Extensions) 
+        - Autorize to [Burp Extensions](/assets/tools.md#Burp-Extensions) 
+        - Auto Repeater to [Burp Extensions](/assets/tools.md#Burp-Extensions) 
+        - Progress Tracker to [Burp Extensions](/assets/tools.md#Burp-Extensions)
+        - Flow to [Burp Extensions](/assets/tools.md#Burp-Extensions)
+- New in [Labs](/assets/labs.md):
+    - TryHackMe & Videos
+- New [Streamers](/assets/media.md#Streamers):
+    - [sup3rhero1](https://www.twitch.tv/sup3rhero1)
+    - [STÖK](https://www.twitch.tv/stokfredrik)
+- New in [BlogPosts](/assets/blogposts.md):
+    - New Category: [API](/assets/blogposts.md#API)
+    - Added "31 Days of API Security Tips" - Misc
+    - Added "Blind SQL Injection on windows10.hi-tech.mail.ru" - SQLInjection
+    - Added "DOM XSS on app.starbucks.com via ReturnUrl" - DOMXSS
+    - Added "Email address of any user can be queried on Report Invitation GraphQL type when username is known" - GraphQL
+    - Added "External XML Entity via File Upload (SVG)" - File Upload
+    - Added "Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies" - HTTP Desync
+- New in [Mobile](/assets/mobile.md):
+    - [Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources)
+### Changed
+### Fixed
+    - Frida?
 
+
+
+---
 ## Update 2020.03
 ### Added
 - New: [Smart Contracts](/assets/smartcon.md) (special thanks to [@0xatul](https://twitter.com/0xatul))

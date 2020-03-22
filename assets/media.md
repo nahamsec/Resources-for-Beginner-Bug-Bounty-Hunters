@@ -27,11 +27,15 @@ Here you find listings to useful media creations that can help beginners in diff
 - [The Cyber Mentor](https://twitch.tv/thecybermentor) on Twitch
 - [The Blind Hacker](https://twitch.tv/theblindhacker) on Twitch
 - [Jason Haddix](https://www.twitch.tv/js0n_x/) on Twitch
+- [sup3rhero1](https://www.twitch.tv/sup3rhero1) on Twitch
+- [STÖK](https://www.twitch.tv/stokfredrik) on Twitch
 
 
 ## Podcasts
 - [Darknet Diaries](https://darknetdiaries.com/) by [Jack Rhysider](https://twitter.com/jackrhysider)
+    - [Episode 60 with dawgyg](https://darknetdiaries.com/episode/60/)
 - [The Bug Bounty Podcast](https://open.spotify.com/show/3yTTlfXH1avrI3FsXZyCpv) by Fisher
+    - [Episode 3 with nahamsec](https://anchor.fm/bugbountypodcast/episodes/Episode-3-ft--NahamSec-ebl392)
 - [Bug Hunter Podcast](https://anchor.fm/bughunter)
 
 ## Books

@@ -42,7 +42,6 @@ Updates to this repo will be pushed monthly. You can read about the latest chang
     - [Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources)
 ### Changed
 ### Fixed
-    - Frida?
 
 
 

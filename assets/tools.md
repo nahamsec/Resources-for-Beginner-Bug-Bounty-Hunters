@@ -46,7 +46,8 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[Osmedeus](https://github.com/j3ssie/Osmedeus)|Fully automated offensive security framework for reconnaissance and vulnerability scanning|Python|[j3ssie](https://github.com/j3ssie)|
 |[hakrawler](https://github.com/hakluke/hakrawler)|hakrawler is a Go web crawler designed for easy, quick discovery of endpoints and assets within a web application. It can be used to discover Forms, Endpoints, Subdomains, Related documents and JS Files|Go|[@hakluke](https://twitter.com/hakluke)|
 |[Reconness](https://github.com/reconness)|A Web App Tool to Run and Keep all your #recon in the same place.|C#|[@reconness](https://twitter.com/reconness)|
-|[Kockpy](https://github.com/guelfoweb/knock)|A python tool designed to enumerate subdomains on a target domain through a wordlist|Python|[@guelforweb](http://twitter.com/guelfoweb)|
+|[Knockpy](https://github.com/guelfoweb/knock)|A python tool designed to enumerate subdomains on a target domain through a wordlist|Python|[@guelforweb](http://twitter.com/guelfoweb)|
+|[crithit](https://github.com/codingo/crithit)|Takes a single wordlist item and tests it one by one over a large collection of hosts before moving onto the next. Create signatures to cross-check vulnerabilities over multiple hosts.|C++|[codingo](https://github.com/codingo)|
 
 
 #### OSINT Webpages
@@ -89,6 +90,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[andriller](https://github.com/den4uk/andriller)|Andriller - is software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices. [andriller.com](https://www.andriller.com/)|Python|[Denis Sazonov](https://github.com/den4uk)|
 |[Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF/)|Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis. MobSF support mobile app binaries (APK, IPA & APPX) along with zipped source code and provides REST APIs for seamless integration with your CI/CD or DevSecOps pipeline.The Dynamic Analyzer helps you to perform runtime security assessment and interactive instrumented testing.|Python|MobSF Team|
 |[objection](https://github.com/sensepost/objection)|"objection is a runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak."|Python & TypeScript|[sensepost](https://github.com/sensepost)|
+|[RMS - Runtime Mobile Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security)|Runtime Mobile Security (RMS) is a powerful web interface that helps you to manipulate Android Java Classes and Methods at Runtime|Python|[@mobilesecurity_](https://twitter.com/mobilesecurity_)|
 
 ### Notes & Organization
 | Name 	| Description 	    | Written in    | Created by   |

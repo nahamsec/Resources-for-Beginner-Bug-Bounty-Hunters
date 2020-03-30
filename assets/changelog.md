@@ -7,39 +7,61 @@ Updates to this repo will be pushed monthly. You can read about the latest chang
 ---
 ## Update 2020.04
 ### Added
-- New: [Hardware & IoT](/assets/hardware.md)
-    - Added Exploitee.rs Wiki
+- New in [Basics](/assets/basics.md)
+    - Added **Stanford CS 253 Web Security**
+- New Category: [Hardware & IoT](/assets/hardware.md)
+    - Added **Exploitee.rs Wiki**
+- New Category: [Coding & Scripting](/assets/coding.md)
+    - Added **Bash Scripting Full Course 3 Hours**
+    - Added **ShellCheck**
+    - Added **Explainshell**
+    - Added **Discovering the Terminal**
+    - Added **Text Processing in the Shell**
 - New [Podcasts](/assets/media.md#Podcasts):
-    - Darknet Diaries Episode 60 with dawgyg
-    - The Bug Bounty Podscast Episode 3 with nahamsec
+    - **Darknet Diaries Episode 60** with dawgyg
+    - **The Bug Bounty Podscast Episode 3** with nahamsec
 - New in [Tools](/assets/tools.md):
-    - objection - A new Mobile tool
-    - CyberChef
+    - **crithit**
+    - **objection - A new Mobile tool**
+    - **CyberChef**
+    - **RMS - Runtime Mobile Security**
     - New Category: [Notes & Organization](/assets/tools.md#Notes-&-Organization)
-        - Reconness to [Notes & Organization](/assets/tools.md#Notes-&-Organization)
-        - Updog to [Notes & Organization](/assets/tools.md#Notes-&-Organization)
+        - **Reconness** to [Notes & Organization](/assets/tools.md#Notes-&-Organization)
+        - **Updog** to [Notes & Organization](/assets/tools.md#Notes-&-Organization)
     - New Category: [Burp Extensions](/assets/tools.md#Burp-Extensions)
-        - Logger++ to [Burp Extensions](/assets/tools.md#Burp-Extensions)
-        - AuthMatrix to [Burp Extensions](/assets/tools.md#Burp-Extensions) 
-        - Autorize to [Burp Extensions](/assets/tools.md#Burp-Extensions) 
-        - Auto Repeater to [Burp Extensions](/assets/tools.md#Burp-Extensions) 
-        - Progress Tracker to [Burp Extensions](/assets/tools.md#Burp-Extensions)
-        - Flow to [Burp Extensions](/assets/tools.md#Burp-Extensions)
+        - **Logger++** to [Burp Extensions](/assets/tools.md#Burp-Extensions)
+        - **AuthMatrix** to [Burp Extensions](/assets/tools.md#Burp-Extensions) 
+        - **Autorize** to [Burp Extensions](/assets/tools.md#Burp-Extensions) 
+        - **Auto Repeater** to [Burp Extensions](/assets/tools.md#Burp-Extensions) 
+        - **Progress Tracker** to [Burp Extensions](/assets/tools.md#Burp-Extensions)
+        - **Flow** to [Burp Extensions](/assets/tools.md#Burp-Extensions)
 - New in [Labs](/assets/labs.md):
-    - TryHackMe & Videos
+    - **TryHackMe & Videos**
+- New in Media:
+    - **@codingo_** now in Twitter-List
 - New [Streamers](/assets/media.md#Streamers):
     - [sup3rhero1](https://www.twitch.tv/sup3rhero1)
     - [STÖK](https://www.twitch.tv/stokfredrik)
 - New in [BlogPosts](/assets/blogposts.md):
     - New Category: [API](/assets/blogposts.md#API)
-    - Added "31 Days of API Security Tips" - Misc
-    - Added "Blind SQL Injection on windows10.hi-tech.mail.ru" - SQLInjection
-    - Added "DOM XSS on app.starbucks.com via ReturnUrl" - DOMXSS
-    - Added "Email address of any user can be queried on Report Invitation GraphQL type when username is known" - GraphQL
-    - Added "External XML Entity via File Upload (SVG)" - File Upload
-    - Added "Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies" - HTTP Desync
+    - Added **31 Days of API Security Tips**- Misc
+    - Added **Blind SQL Injection on windows10.hi-tech.mail.ru** - SQLInjection
+    - Added **DOM XSS on app.starbucks.com via ReturnUrl** - DOMXSS
+    - Added **Email address of any user can be queried on Report Invitation GraphQL type when username is known** - GraphQL
+    - Added **External XML Entity via File Upload (SVG)** - File Upload
+    - Added **Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies** - HTTP Desync
+    - Added **gitGraber: A tool to monitor GitHub in real-time to find sensitive data** - by [@adrien_jeanneau](https://twitter.com/adrien_jeanneau) & [@R_Marot](https://twitter.com/R_marot)
+    - Added **2 Cases of Path Traversal** by [@leonishan_](https://twitter.com/leonishan_)
+    - Added **Google Bug Bounty Writeup- XSS Vulnerability** - by [@itsmepethu](https://twitter.com/itsmepethu)
+    - Added **Top 10 web hacking techniques of 2019** by [James Kettle](https://twitter.com/albinowax)
+    - Added **Recon: Create a methodology and start your subdomain enumeration** - by FailedNuke
+    - Added **Understanding Search Syntax on Github** - by Github
 - New in [Mobile](/assets/mobile.md):
     - [Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources)
+- New in [Vulnerabilities](/assets/vulns.md):
+    - New Video: **Cross-Site Scripting (XSS) Explained** -by PwnFunction
+- New in [Setup](/assets/setup.md):
+    - Added **Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers**
 ### Changed
 ### Fixed
 

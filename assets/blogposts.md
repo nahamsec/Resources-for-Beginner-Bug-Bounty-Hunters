@@ -34,6 +34,7 @@ You can find a ton of awesome XSS reports by searching through the HackerOne Hac
 - [Effortlessly finding Cross Site Script Inclusion (XSSI) & JSONP for bug bounty](https://medium.com/bugbountywriteup/effortlessly-finding-cross-site-script-inclusion-xssi-jsonp-for-bug-bounty-38ae0b9e5c8a) - [@th3_hidd3n_mist](https://twitter.com/th3_hidd3n_mist)
 - [Microsoft Edge (Chromium) - EoP via XSS to Potential RCE](https://leucosite.com/Edge-Chromium-EoP-RCE/) - [@Qab](https://twitter.com/qab)
 - [Reflected XSS in https://blocked.myndr.net](https://hackerone.com/reports/824433) - Thilakesh
+- [Google Bug Bounty Writeup- XSS Vulnerability](https://pethuraj.com/blog/google-bug-bounty-writeup/) - [@itsmepethu](https://twitter.com/itsmepethu)
 
 
 ### DOM XSS
@@ -96,6 +97,7 @@ You can find a ton of awesome XSS reports by searching through the HackerOne Hac
 - [Fasten your Recon process using Shell Scripting](https://medium.com/bugbountywriteup/fasten-your-recon-process-using-shell-scripting-359800905d2a) - Mohd Shibli
 - [Beginner’s Guide to recon automation](https://medium.com/bugbountywriteup/beginners-guide-to-recon-automation-f95b317c6dbb) - Ashish Jha
 - [Burp Suite tutorial: IDOR vulnerability automation using Autorize and AutoRepeater (bug bounty)](https://www.youtube.com/watch?v=3K1-a7dnA60) - STÖK & Fisher
+- [gitGraber: A tool to monitor GitHub in real-time to find sensitive data](https://blog.yeswehack.com/2019/10/08/gitgraber-a-tool-to-monitor-github-in-real-time-to-find-sensitive-data/) - by [@adrien_jeanneau](https://twitter.com/adrien_jeanneau) & [@R_Marot](https://twitter.com/R_marot)
 
 ## Buffer Overflow
 - [Filling in the Blanks: Exploiting Null Byte Buffer Overflow for a $40,000 Bounty](https://samcurry.net/filling-in-the-blanks-exploiting-null-byte-buffer-overflow-for-a-40000-bounty/) - [Sam Curry](https://twitter.com/samwcyo)
@@ -119,6 +121,7 @@ You can find a ton of awesome XSS reports by searching through the HackerOne Hac
 - [Subdomain Recon Using Certificate Search Technique](https://www.r00tpgp.com/2020/01/subdomain-recon-using-certificate.html?m=0)
 - [Notes about Nahamsecs Recon Sessions](https://mavericknerd.github.io/knowledgebase/nahamsec/recon_session_1/) - [maverickNerd](https://github.com/maverickNerd)
 - [10 Recon Tools For Bug Bounty](https://medium.com/@hackbotone/10-recon-tools-for-bug-bounty-bafa8a5961bd) - Anshuman Pattnaik
+- [Recon: Create a methodology and start your subdomain enumeration](https://failednuke.info/2020/recon-create-a-methodology-and-start-your-subdomain-enumeration/) - by FailedNuke
 
 ## Smart Contracts
 - [Steal collateral during `end` process, by earning DSR interest after `flow](https://hackerone.com/reports/672664)(Listed as Business Logic Error)
@@ -134,6 +137,9 @@ You can find a ton of awesome XSS reports by searching through the HackerOne Hac
 - [Cracking reCAPTCHA, Turbo Intruder style](https://portswigger.net/research/cracking-recaptcha-turbo-intruder-style) - James Kettle
 - [Abusing ImageMagick to obtain RCE](https://strynx.org/imagemagick-rce/) - [strynx](https://strynx.org/)
 - [How to Get a Finger on the Pulse of Corporate Networks via the SSL VPN](https://blog.detectify.com/2019/09/19/alyssa-herrera-pulse-corporate-networks-ssl-vpn/) - [Alyssa Herrera](https://twitter.com/Alyssa_Herrera_)
+- [2 Cases of Path Traversal](https://jlajara.gitlab.io/posts/2020/03/29/Path_Traversal.html) - by [@leonishan_](https://twitter.com/leonishan_)
+- [Top 10 web hacking techniques of 2019](https://portswigger.net/research/top-10-web-hacking-techniques-of-2019) - by [James Kettle](https://twitter.com/albinowax)
+- [Understanding Search Syntax on Github](https://help.github.com/en/github/searching-for-information-on-github/understanding-the-search-syntax#exclude-certain-results) - by Github
 
 
 ---

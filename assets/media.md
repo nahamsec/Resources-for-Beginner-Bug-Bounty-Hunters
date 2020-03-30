@@ -86,6 +86,7 @@ This List does not exclusively contains Bug Bounty themed Accounts but a broad v
 | [@autothreat](https://twitter.com/autothreat)           | Hacking, Cars                                                                |
 | [@brutelogic](https://twitter.com/brutelogic)           | Researcher, Teaching, XSS                                                    |
 | [@ceos3c](https://twitter.com/ceos3c)                   | YouTuber, General Hacking, Teaching                                          |
+| [@codingo_](https://twitter.com/codingo_)                   | General Hacking, Bug Bounty, Coding                                         |
 | [@d0nutptr](https://twitter.com/d0nutptr)               | BB, Researcher, (Rust.)                                                      |
 | [@daeken](https://twitter.com/daeken)                   | BB, Researcher                                                               |
 | [@evilsocket](https://twitter.com/evilsocket)           | Hacking, Coding, Hardware, Tools                                             |

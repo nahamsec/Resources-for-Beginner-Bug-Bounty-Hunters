@@ -10,7 +10,7 @@ This section will help you set up your testing environement.
 - [Previously Disclosed Vulnerabilities / HackerOne Hacktivity](https://hackerone.com/hacktivity)
 - [Finding your First Bug and Getting a Bounty - Personal Story by @InsiderPhD](https://www.youtube.com/watch?v=iEDoIEBD7gM) - YouTube Discussion
 - [Introduction to Docker for CTFs](https://www.youtube.com/watch?v=cPGZMt4cJ0I) (Works for Bug Bounty too) - by LiveOverflow
-
+- [Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers](https://www.youtube.com/watch?v=fqMOX6JJhGo) - freecodecamp
 ## Burp Suite
 This section should help you get familiar with BurpSuite.
 - [Setting up Burp (Video Series)](https://www.hacker101.com/playlists/burp_suite) by Hacker101

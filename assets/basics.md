@@ -1,10 +1,17 @@
 # Resources-for-Beginner-Bug-Bounty-Hunters
 
 ## Table of Contents
-1. [HTTP basics](#HTTP-basics)
-2. [Networking basics](#Networking-basics)
-3. [Programming Basics](#Programming-Basics)
-4. [Automation](#Automation)
+1. [Stanford CS 253 Web Security](#Stanford-CS-253-Web-Security)
+2. [HTTP basics](#HTTP-basics)
+3. [Networking basics](#Networking-basics)
+4. [Programming Basics](#Programming-Basics)
+5. [Automation](#Automation)
+
+
+## Stanford CS 253 Web Security
+
+- [Stanford CS 253 Web Security](https://web.stanford.edu/class/cs253/) - by [@feross](https://twitter.com/feross)
+   - "This course is a comprehensive overview of web security. The goal is to build an understanding of the most common web attacks and their countermeasures. Given the pervasive insecurity of the modern web landscape, there is a pressing need for programmers and system designers to improve their understanding of web security issues."
 
 ## HTTP basics
 In order to be able to learn what and how an application works, you need to be able to understand how you are communicating with it. This section is dedicated to all the resources to understand the HTTP basics.

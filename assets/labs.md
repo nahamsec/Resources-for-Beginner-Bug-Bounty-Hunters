@@ -13,6 +13,8 @@
 - [Web Security Academy by PortSwigger](https://portswigger.net/web-security)
 - [XSS Labs from PwnFunction](https://xss.pwnfunction.com/) Great Labs in a beautiful layout
 - [0l4bs - Cross-site scripting labs for web application security enthusiasts](https://github.com/tegal1337/0l4bs) - by tegal1337
+- [TryHackMe](https://tryhackme.com) | Cool Hacking & Pentesting Labs with Web Challenges
+    - Videos: [TryHackMe! Basic Penetration Testing](https://www.youtube.com/watch?v=xl2Xx5YOKcI) // [TryHackMe! EternalBlue/MS17-010 in Metasploit](https://www.youtube.com/watch?v=s6rwS7UuMt8) // [TryHackMe! OhSINT - METADATA & Research](https://www.youtube.com/watch?v=oF0TQQmFu4w)
 
 ---
 back to [Intro Page](/README.md)

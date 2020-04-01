@@ -16,6 +16,7 @@ Tools specific for mobile hacking can be found [here](/assets/tools.md#mobile-ha
 
 ## Misc
 - [Q&A With Android Hacker bagipro](https://www.hackerone.com/blog/AndroidHackingMonth-qa-with-bagipro)
+- [Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources) - [Kyle Benac](https://github.com/B3nac)
 
 ---
 back to [Intro Page](/README.md)

@@ -22,6 +22,7 @@ A collection of Blog Posts ordered by Vulnerability Types
 - [RCE](#RCE)
 - [Recon](#Recon)
 - [Smart Contracts](#Smart-Contracts)
+- [API](#API)
 - [Misc](#Misc)
 ---
 ## XSS
@@ -32,11 +33,16 @@ You can find a ton of awesome XSS reports by searching through the HackerOne Hac
 - [Cracking my windshield and earning $10,000 on the Tesla Bug Bounty Program](https://samcurry.net/cracking-my-windshield-and-earning-10000-on-the-tesla-bug-bounty-program/) - [Sam Curry](https://twitter.com/samwcyo)
 - [Effortlessly finding Cross Site Script Inclusion (XSSI) & JSONP for bug bounty](https://medium.com/bugbountywriteup/effortlessly-finding-cross-site-script-inclusion-xssi-jsonp-for-bug-bounty-38ae0b9e5c8a) - [@th3_hidd3n_mist](https://twitter.com/th3_hidd3n_mist)
 - [Microsoft Edge (Chromium) - EoP via XSS to Potential RCE](https://leucosite.com/Edge-Chromium-EoP-RCE/) - [@Qab](https://twitter.com/qab)
+- [Reflected XSS in https://blocked.myndr.net](https://hackerone.com/reports/824433) - Thilakesh
+- [Google Bug Bounty Writeup- XSS Vulnerability](https://pethuraj.com/blog/google-bug-bounty-writeup/) - [@itsmepethu](https://twitter.com/itsmepethu)
+
+
 ### DOM XSS
 - [Persistent DOM-based XSS in https://help.twitter.com via localStorage](https://hackerone.com/reports/297968) - harisec
 - [DOM based XSS in search functionality](https://hackerone.com/reports/168165) - sameoldstory
 - [A Tale Of A DOM Based XSS In Paypal](https://www.rafaybaloch.com/2017/06/a-tale-of-dom-based-xss-in-paypal.html) - Rafay Baloch
 - [H1514 DOMXSS on Embedded SDK via Shopify.API.setWindowLocation abusing cookie Stuffing](https://hackerone.com/reports/422043) - filedescriptor
+- [DOM XSS on app.starbucks.com via ReturnUrl](https://hackerone.com/reports/526265) - Gamer7112
 ### Stored XSS
 - [Another XSS in Google Colaboratory](https://blog.bentkowski.info/2018/09/another-xss-in-google-colaboratory.html) - Michał Bentkowski
 - [Google adwords 3133.7$ Stored XSS](https://medium.com/@Alra3ees/google-adwords-3133-7-stored-xss-27bb083b8d27) - Emad Shanab
@@ -67,6 +73,7 @@ You can find a ton of awesome XSS reports by searching through the HackerOne Hac
 - [SQL Injection Extracts Starbucks Enterprise Accounting, Financial, Payroll Database](https://hackerone.com/reports/531051) - spaceraccoon
 - [Finding SQL injections fast with white-box analysis — a recent bug example](https://medium.com/@frycos/finding-sql-injections-fast-with-white-box-analysis-a-recent-bug-example-ca449bce6c76?) - [@frycos](https://twitter.com/frycos)
 - [How we hacked one of the worlds largest Cryptocurrency Website](https://strynx.org/insecure-crypto-code-execution/) - [strynx](https://strynx.org/)
+- [Blind SQL Injection on windows10.hi-tech.mail.ru](https://hackerone.com/reports/786044) - Просто душка (api_0)
 
 ## Mobile
 ### iOS
@@ -77,16 +84,20 @@ You can find a ton of awesome XSS reports by searching through the HackerOne Hac
 ## HTTP Desync
 - [HTTP Desync Attacks: Request Smuggling Reborn](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn) in combination with this [report](https://hackerone.com/reports/510152) - [James Kettle](https://twitter.com/albinowax)
 - [HTTP Request Smuggling on vpn.lob.com](https://hackerone.com/reports/694604) - 0X0 (painreigns)
+- [Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies](https://hackerone.com/reports/737140) - Evan Custodio
 
 ## File Upload
 - [Webshell via File Upload on ecjobs.starbucks.com.cn](https://hackerone.com/reports/506646) - johnstone
 - [Facebook Messenger server random memory exposure through corrupted GIF image ](https://www.vulnano.com/2019/03/facebook-messenger-server-random-memory.html) - [@xdzmitry](https://twitter.com/xdzmitry)
 - [A Tale of Exploitation in Spreadsheet File Conversions](https://buer.haus/2019/10/18/a-tale-of-exploitation-in-spreadsheet-file-conversions/) - [@bbuerhaus](https://twitter.com/bbuerhaus)//[@daeken](https://twitter.com/daeken)//[@erbbysam](https://twitter.com/erbbysam)//[@smiegles](https://twitter.com/smiegles)
+- [External XML Entity via File Upload (SVG)](https://0xatul.github.io/posts/2020/02/external-xml-entity-via-file-upload-svg/) - by 0xatul
+
 
 ## Automation
 - [Fasten your Recon process using Shell Scripting](https://medium.com/bugbountywriteup/fasten-your-recon-process-using-shell-scripting-359800905d2a) - Mohd Shibli
 - [Beginner’s Guide to recon automation](https://medium.com/bugbountywriteup/beginners-guide-to-recon-automation-f95b317c6dbb) - Ashish Jha
 - [Burp Suite tutorial: IDOR vulnerability automation using Autorize and AutoRepeater (bug bounty)](https://www.youtube.com/watch?v=3K1-a7dnA60) - STÖK & Fisher
+- [gitGraber: A tool to monitor GitHub in real-time to find sensitive data](https://blog.yeswehack.com/2019/10/08/gitgraber-a-tool-to-monitor-github-in-real-time-to-find-sensitive-data/) - by [@adrien_jeanneau](https://twitter.com/adrien_jeanneau) & [@R_Marot](https://twitter.com/R_marot)
 
 ## Buffer Overflow
 - [Filling in the Blanks: Exploiting Null Byte Buffer Overflow for a $40,000 Bounty](https://samcurry.net/filling-in-the-blanks-exploiting-null-byte-buffer-overflow-for-a-40000-bounty/) - [Sam Curry](https://twitter.com/samwcyo)
@@ -101,6 +112,7 @@ You can find a ton of awesome XSS reports by searching through the HackerOne Hac
 ## GraphQL
 - [Private System Note Disclosure using GraphQL](https://hackerone.com/reports/633001) - Ron Chan
 - [Graphql Abuse to Steal Anyone’s Address](https://blog.usejournal.com/graphql-bug-to-steal-anyones-address-fc34f0374417) - pratik yadav
+ - [Email address of any user can be queried on Report Invitation GraphQL type when username is known](https://hackerone.com/reports/792927) - msdian7
 
 ## RCE
 - [My First RCE (Stressed Employee gets me 2x bounty)](https://medium.com/@abhishake100/my-first-rce-stressed-employee-gets-me-2x-bounty-c4879c277e37) - [Abhishek Yadav](https://medium.com/@abhishake100)
@@ -109,10 +121,14 @@ You can find a ton of awesome XSS reports by searching through the HackerOne Hac
 - [Subdomain Recon Using Certificate Search Technique](https://www.r00tpgp.com/2020/01/subdomain-recon-using-certificate.html?m=0)
 - [Notes about Nahamsecs Recon Sessions](https://mavericknerd.github.io/knowledgebase/nahamsec/recon_session_1/) - [maverickNerd](https://github.com/maverickNerd)
 - [10 Recon Tools For Bug Bounty](https://medium.com/@hackbotone/10-recon-tools-for-bug-bounty-bafa8a5961bd) - Anshuman Pattnaik
+- [Recon: Create a methodology and start your subdomain enumeration](https://failednuke.info/2020/recon-create-a-methodology-and-start-your-subdomain-enumeration/) - by FailedNuke
 
 ## Smart Contracts
 - [Steal collateral during `end` process, by earning DSR interest after `flow](https://hackerone.com/reports/672664)(Listed as Business Logic Error)
 - [Steal all MKR from `flap` during liquidation by exploiting lack of validation in `flap.kick`](https://hackerone.com/reports/684152)(Listed as Improper Input Validation)
+
+## API
+- [31 Days of API Security Tips](https://github.com/smodnix/31-days-of-API-Security-Tips) - [smodnix](https://github.com/smodnix)
 
 ## Misc
 - [Hacking GitHub with Unicode's dotless 'i'](https://eng.getwisdom.io/hacking-github-with-unicode-dotless-i/)
@@ -121,6 +137,10 @@ You can find a ton of awesome XSS reports by searching through the HackerOne Hac
 - [Cracking reCAPTCHA, Turbo Intruder style](https://portswigger.net/research/cracking-recaptcha-turbo-intruder-style) - James Kettle
 - [Abusing ImageMagick to obtain RCE](https://strynx.org/imagemagick-rce/) - [strynx](https://strynx.org/)
 - [How to Get a Finger on the Pulse of Corporate Networks via the SSL VPN](https://blog.detectify.com/2019/09/19/alyssa-herrera-pulse-corporate-networks-ssl-vpn/) - [Alyssa Herrera](https://twitter.com/Alyssa_Herrera_)
+- [2 Cases of Path Traversal](https://jlajara.gitlab.io/posts/2020/03/29/Path_Traversal.html) - by [@leonishan_](https://twitter.com/leonishan_)
+- [Top 10 web hacking techniques of 2019](https://portswigger.net/research/top-10-web-hacking-techniques-of-2019) - by [James Kettle](https://twitter.com/albinowax)
+- [Understanding Search Syntax on Github](https://help.github.com/en/github/searching-for-information-on-github/understanding-the-search-syntax#exclude-certain-results) - by Github
+
 
 ---
 back to [Intro Page](/README.md)

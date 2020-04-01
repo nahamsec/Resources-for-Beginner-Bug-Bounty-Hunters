@@ -26,7 +26,7 @@ As we start to build this repository, we'll be adding more vulnerability types a
 
 ## XML External Entities (XXE)
 - [XML External Entities ft. JohnHammond](https://www.youtube.com/watch?v=gjm6VHZa_8s) - by PwnFunction
-## Isecure Direct Object Reference (IDOR)
+## Insecure Direct Object Reference (IDOR)
 - [Insecure Direct Object Reference Vulnerability](https://www.youtube.com/watch?v=rloqMGcPMkI) - by PwnFunction
 - [Finding Your First Bug: Manual IDOR Hunting](https://www.youtube.com/watch?v=gINAtzdccts) - by Insider PhD
 - [Burp Suite tutorial: IDOR vulnerability automation using Autorize and AutoRepeater (bug bounty)](https://www.youtube.com/watch?v=3K1-a7dnA60) - by STÖK & Fisher

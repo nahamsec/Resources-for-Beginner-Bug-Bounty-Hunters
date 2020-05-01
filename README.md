@@ -25,7 +25,7 @@ We understand that there are more resources other than the ones we have listed a
 - [Blog posts & Talks](/assets/blogposts.md)
 - [Media Resources](/assets/media.md)
 - [Certifications](/assets/certs.md)
-- [Mindset & Mental Health](/assets/mind.md)
+- [Mindset & Mental Health](/assets/health.md)
 
 ---
 If you have more questions or suggestions, come the [Discord Server](https://discord.gg/9jZxjQ5) of nahamsec !

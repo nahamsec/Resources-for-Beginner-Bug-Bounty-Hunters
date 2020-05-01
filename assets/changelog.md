@@ -41,7 +41,7 @@ Updates to this repo will be pushed monthly. You can read about the latest chang
     - **nuclei** -> Recon & OSINT
 - New Category: [Certifications](/assets/certs.md)
     - Fot the moment one Cert: **OSCP**
-- New Category: [Mindset & Mental Health](/assets/mind.md)
+- New Category: [Mindset & Mental Health](/assets/health.md)
 ### Changes
 - Changed the formating of the Changelog starting this month to make it cleaner
 - Removed the links for every new addition to its article.<br>

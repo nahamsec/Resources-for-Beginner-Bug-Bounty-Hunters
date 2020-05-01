@@ -5,7 +5,56 @@
 Updates to this repo will be pushed monthly. You can read about the latest changes below.
 
 ---
-## Update 2020.04
+## ___Update 2020.05___
+### Added
+- [Media](/assets/media.md):
+    - New curated **Bug Bounty List** (Twitter)
+    - **Curated List of YT Channels** by TCM
+- [Labs](/assets/labs.md):
+    - **Kontra Application Security Training**
+    - **Cyberseclabs**
+- [Coding](/assets/coding.md):
+    - **Exercism**
+    - **CodeCademy**
+    - **Khan Academy**
+    - **Learn Python the Hard Way**
+    - **Udacity**
+    - **Bug Bounty with Bash**
+- [Setup](/assets/setup.md):
+    - New Video by nahamsec: **Creating Wordlists for Pentesting & Bug Bounty**
+- [Blogposts & Disclosed Reports](/assets/blogposts.md):
+    - **Piercing the Veal** by d0nut
+    - **Basic Bug Bounty FAQ** by dawgyg
+    - **How to Set up Certificate-Based SSH for Bug Hunting** by Mack Staples
+    - **Getting started in Cyber Security in 2019 – The Complete Guide** by ceos3c
+    - **WTF is a Bug Bounty?** by ceos3c
+    - **How to solve the INTIGRITI Easter XSS challenge using only Chrome Devtools** by STÖK
+    - **URL link spoofing (Slack)** by Akaki Tsunoda (akaki)
+    - **Subdomain Takeover to Authentication bypass** by geekboy
+    - **Zseano’s notes on hacking & mentoring** by Intigriti & Zseano
+    - **Abusing HTTP Path Normalization and Cache Poisoning to steal Rocket League accounts** by Sam Curry
+- [Mobile](/assets/mobile):
+    - **Android App Reverse Engineering 101** by Maddie Stone
+- [Tools](/assets/tools.md):
+    - **Ghidra** -> Mobile
+    - **jadx** -> Mobile
+    - **nuclei** -> Recon & OSINT
+- New Category: [Certifications](/assets/certs.md)
+    - Fot the moment one Cert: **OSCP**
+- New Category: [Mindset & Mental Health](/assets/mind.md)
+### Changes
+- Changed the formating of the Changelog starting this month to make it cleaner
+- Removed the links for every new addition to its article.<br>
+The headers for every category now links to their page instead.
+- Changed the formatting of the **HTTP** Section in the **Basics** Category
+- Changed **Blogposts** to -> **Blogposts & Disclosed Reports**
+- Changed some of the formatting in the XSS Blogposts, cleaner now
+### Fixes
+- Fixed some layout errors
+- Added missing Header in **Basics** Category
+- Fixed Typos
+---
+## ___Update 2020.04___
 ### Added
 - New in [Basics](/assets/basics.md)
     - Added **Stanford CS 253 Web Security**
@@ -66,9 +115,8 @@ Updates to this repo will be pushed monthly. You can read about the latest chang
 ### Fixed
 
 
-
 ---
-## Update 2020.03
+## ___Update 2020.03___
 ### Added
 - New: [Smart Contracts](/assets/smartcon.md) (special thanks to [@0xatul](https://twitter.com/0xatul))
     - New White-/yellowpapers in [Smart Contracts](/assets/smartcon.md): 
@@ -99,9 +147,8 @@ Updates to this repo will be pushed monthly. You can read about the latest chang
 - Format Issue in [Changelog](/assets/changelog.md)
 - Changed Format in [README](/assets/README.md)
 
-
 ---
-## Update 2020.02
+## ___Update 2020.02___
 ### Added
 - New XSS Lab: **XSS Labs from PwnFunction**
 - New Recon & OSINT Tool: **Reconness**
@@ -119,10 +166,9 @@ Updates to this repo will be pushed monthly. You can read about the latest chang
 
 ### Fixed
 - Typos in [Media](/assets/media.md) (contributed by [securibee](https://github.com/securibee))
-
 ---
 
-## Update 2020.01
+## ___Update 2020.01___
 ### Added
 - New changelog page
 - New content in [Blogposts](/assets/blogposts.md)

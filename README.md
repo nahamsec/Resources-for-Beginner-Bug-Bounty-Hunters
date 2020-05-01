@@ -6,7 +6,7 @@ There are a number of new hackers joining the community on a regular basis and m
 
 We understand that there are more resources other than the ones we have listed and we hope to cover more resources in the near future!<br>
 
-## Current Version: 2020.04 
+## Current Version: 2020.05 
 
 [Changelog: See what's new!](/assets/changelog.md) 📣
 
@@ -24,3 +24,8 @@ We understand that there are more resources other than the ones we have listed a
 - [Hardware & IoT](/assets/hardware.md)
 - [Blog posts & Talks](/assets/blogposts.md)
 - [Media Resources](/assets/media.md)
+- [Certifications](/assets/certs.md)
+- [Mindset & Mental Health](/assets/mind.md)
+
+---
+If you have more questions or suggestions, come the [Discord Server](https://discord.gg/9jZxjQ5) of nahamsec !

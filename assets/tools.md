@@ -48,6 +48,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[Reconness](https://github.com/reconness)|A Web App Tool to Run and Keep all your #recon in the same place.|C#|[@reconness](https://twitter.com/reconness)|
 |[Knockpy](https://github.com/guelfoweb/knock)|A python tool designed to enumerate subdomains on a target domain through a wordlist|Python|[@guelforweb](http://twitter.com/guelfoweb)|
 |[crithit](https://github.com/codingo/crithit)|Takes a single wordlist item and tests it one by one over a large collection of hosts before moving onto the next. Create signatures to cross-check vulnerabilities over multiple hosts.|C++|[codingo](https://github.com/codingo)|
+|[nuclei](https://github.com/projectdiscovery/nuclei)|"Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use."|Go|[ProjectDiscovery](https://github.com/projectdiscovery)|
 
 
 #### OSINT Webpages
@@ -86,6 +87,8 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 | Name 	| Description 	    | Written in    | Created by   |
 |------	|-------------    	| ------------  |------------- |
 |Frida||||
+|[jadx](https://github.com/skylot/jadx)|Dex to Java decompiler|Java|skylot|
+|[Ghidra](https://ghidra-sre.org/)|"A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission"|Java|NSA|
 |[dex2jar](https://github.com/pxb1988/dex2jar)|Useful to convert dex files into jar to decompile the application.|Java, Smali|Bob Pan|
 |[andriller](https://github.com/den4uk/andriller)|Andriller - is software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices. [andriller.com](https://www.andriller.com/)|Python|[Denis Sazonov](https://github.com/den4uk)|
 |[Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF/)|Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis. MobSF support mobile app binaries (APK, IPA & APPX) along with zipped source code and provides REST APIs for seamless integration with your CI/CD or DevSecOps pipeline.The Dynamic Analyzer helps you to perform runtime security assessment and interactive instrumented testing.|Python|MobSF Team|

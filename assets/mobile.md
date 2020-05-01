@@ -10,6 +10,7 @@ Since there are quite a lot of people asking for Beginner Guides to Mobile Hacki
 - [The Mobile Hacking CheatSheet](https://github.com/randorisec/MobileHackingCheatSheet) - Randorisec
 - [Introduction to Android Hacking ](https://www.hackerone.com/blog/androidhackingmonth-intro-to-android-hacking) - [@0xteknogeek](https://twitter.com/0xteknogeek)
 - [Android Pentesting](https://github.com/riddhi-shree/nullCommunity/tree/master/Android) (Github repo containing hands-on training content for conducting Android app pentesting using some of the common Android pentesting tools)
+- [Android App Reverse Engineering 101](https://maddiestone.github.io/AndroidAppRE/) by [@maddiestone](https://twitter.com/maddiestone)
 
 ## Tools
 Tools specific for mobile hacking can be found [here](/assets/tools.md#mobile-hacking).

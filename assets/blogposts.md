@@ -1,11 +1,11 @@
 # Resources-for-Beginner-Bug-Bounty-Hunters
 
-## Blog posts 📝
+## Blog posts & Disclosed Reports 📝
 A collection of Blog Posts ordered by Vulnerability Types
+- [Starting out & Tips](#Starting-Out-&-Questions)
 - [XSS](#XSS)
     - [DOM XSS](#DOM-XSS)
-    - [Sored XSS](#Stored-XSS)
-    - [CSP Bypass](#CSP-Bypass)
+    - [Stored XSS](#Stored-XSS)
 - [SSRF](#SSRF)
 - [Vulnerability Scanning](#Vulnerability-Scanning)
 - [Token / Authentication](#Token-/-Authentication)
@@ -25,6 +25,13 @@ A collection of Blog Posts ordered by Vulnerability Types
 - [API](#API)
 - [Misc](#Misc)
 ---
+## Starting out & Tips
+- [Basic Bug Bounty FAQ](http://blog.oath.ninja/basic-bug-bounty-faq/) - by [@thedawgyg](https://twitter.com/thedawgyg)
+- [Getting started in Cyber Security in 2019 – The Complete Guide](https://www.ceos3c.com/hacking/getting-started-cyber-security-complete-guide/) - by ceos3c
+- [WTF is a Bug Bounty?](https://www.ceos3c.com/hacking/ethical-hacking-diaries-1-wtf-is-a-bug-bounty/) - by ceos3c
+- [How to Set up Certificate-Based SSH for Bug Hunting](https://medium.com/@c0ldbr3w/how-to-set-up-certificate-based-ssh-for-bug-hunting-bonus-ef4af95fca05) - by Mack Staples
+- [XSS in Google Colaboratory + CSP bypass](https://blog.bentkowski.info/2018/06/xss-in-google-colaboratory-csp-bypass.html) by Michał Bentkowski
+- [Zseano’s notes on hacking & mentoring](https://blog.intigriti.com/2020/04/29/bug-business-3-zseanos-notes-on-hacking-mentoring/) by Intigriti & Zseano
 ## XSS
 You can find a ton of awesome XSS reports by searching through the HackerOne Hacktivity Page (https://hackerone.com/hacktivity?querystring=XSS). Here are some more complex and some of my favorite XSS related blog posts:
 
@@ -35,6 +42,7 @@ You can find a ton of awesome XSS reports by searching through the HackerOne Hac
 - [Microsoft Edge (Chromium) - EoP via XSS to Potential RCE](https://leucosite.com/Edge-Chromium-EoP-RCE/) - [@Qab](https://twitter.com/qab)
 - [Reflected XSS in https://blocked.myndr.net](https://hackerone.com/reports/824433) - Thilakesh
 - [Google Bug Bounty Writeup- XSS Vulnerability](https://pethuraj.com/blog/google-bug-bounty-writeup/) - [@itsmepethu](https://twitter.com/itsmepethu)
+- [How to solve the INTIGRITI Easter XSS challenge using only Chrome Devtools](https://www.youtube.com/watch?v=IhPsBMBDFcg) - by STÖK
 
 
 ### DOM XSS
@@ -50,13 +58,12 @@ You can find a ton of awesome XSS reports by searching through the HackerOne Hac
 - [Yahoo Mail stored XSS](https://klikki.fi/adv/yahoo.html) - Jouko Pynnönen
 - [Yahoo Mail stored XSS #2](https://klikki.fi/adv/yahoo2.html) - Jouko Pynnönen
 - [Account Recovery XSS](https://sites.google.com/site/bughunteruniversity/best-reports/account-recovery-xss) - Gábor Molnár
-### CSP Bypass
-- https://blog.bentkowski.info/2018/06/xss-in-google-colaboratory-csp-bypass.html
 
 ## SSRF
 - [DEF CON 27 Conference - Ben Sadeghipour - Owning The Clout Through Server Side Request Forgery](https://www.youtube.com/watch?v=o-tL9ULF0KI)<br>- Nahamsec & daeken | DEFCON 2019
 - [Piercing The Veil: Server Side Request Forgery Attacks On Internal Networks](https://peertube.opencloud.lu/videos/watch/40f39bfe-6d3c-40f5-bcab-43f20944ca6a)<br>- Alyssa Herrera | Hack.lu 2019
 - [Vimeo upload function SSRF](https://medium.com/@dPhoeniixx/vimeo-upload-function-ssrf-7466d8630437) - Sayed Abdelhafiz
+- [Piercing the Veal](https://medium.com/@d0nut/piercing-the-veal-short-stories-to-read-with-friends-4aa86d606fc5) - by d0nut
 
 
 ## Vulnerability Scanning
@@ -66,6 +73,7 @@ You can find a ton of awesome XSS reports by searching through the HackerOne Hac
 - [Abusing feature to steal your tokens](https://medium.com/@rootxharsh_90844/abusing-feature-to-steal-your-tokens-f15f78cebf74) - Harsh Jaiswal
 - [How I was able to bypass OTP code requirement in Razer [The story of a critical bug]](https://medium.com/bugbountywriteup/how-i-was-able-to-bypass-otp-token-requirement-in-razer-the-story-of-a-critical-bug-fc63a94ad572?) - Ananda Dhakal
 - [Bypassing GitHub's OAuth flow](https://blog.teddykatz.com/2019/11/05/github-oauth-bypass.html) - [@not_aardvark](https://twitter.com/not_aardvark)
+- [Subdomain Takeover to Authentication bypass](https://hackerone.com/reports/335330) - by geekboy
 
 
 ## SQL Injection
@@ -137,9 +145,11 @@ You can find a ton of awesome XSS reports by searching through the HackerOne Hac
 - [Cracking reCAPTCHA, Turbo Intruder style](https://portswigger.net/research/cracking-recaptcha-turbo-intruder-style) - James Kettle
 - [Abusing ImageMagick to obtain RCE](https://strynx.org/imagemagick-rce/) - [strynx](https://strynx.org/)
 - [How to Get a Finger on the Pulse of Corporate Networks via the SSL VPN](https://blog.detectify.com/2019/09/19/alyssa-herrera-pulse-corporate-networks-ssl-vpn/) - [Alyssa Herrera](https://twitter.com/Alyssa_Herrera_)
-- [2 Cases of Path Traversal](https://jlajara.gitlab.io/posts/2020/03/29/Path_Traversal.html) - by [@leonishan_](https://twitter.com/leonishan_)
-- [Top 10 web hacking techniques of 2019](https://portswigger.net/research/top-10-web-hacking-techniques-of-2019) - by [James Kettle](https://twitter.com/albinowax)
-- [Understanding Search Syntax on Github](https://help.github.com/en/github/searching-for-information-on-github/understanding-the-search-syntax#exclude-certain-results) - by Github
+- [2 Cases of Path Traversal](https://jlajara.gitlab.io/posts/2020/03/29/Path_Traversal.html) by [@leonishan_](https://twitter.com/leonishan_)
+- [Top 10 web hacking techniques of 2019](https://portswigger.net/research/top-10-web-hacking-techniques-of-2019) by [James Kettle](https://twitter.com/albinowax)
+- [Understanding Search Syntax on Github](https://help.github.com/en/github/searching-for-information-on-github/understanding-the-search-syntax#exclude-certain-results) by Github
+- [URL link spoofing (Slack)](https://hackerone.com/reports/481472) by Akaki Tsunoda (akaki)
+- [Abusing HTTP Path Normalization and Cache Poisoning to steal Rocket League accounts](https://samcurry.net/abusing-http-path-normalization-and-cache-poisoning-to-steal-rocket-league-accounts/) by Sam Curry 
 
 
 ---

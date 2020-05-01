@@ -11,6 +11,7 @@ Here you find listings to useful media creations that can help beginners in diff
 ---
 
 ## Youtube Channels
+- [Curated List of YT Channels](https://threader.app/thread/1248351836672872456) by TCM
 - [Nahamsec](https://www.youtube.com/nahamsec) - Educational Videos and VODs of his Stream, Vlogs
 - [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg) - Videos About Hacking, Live Events, Bug Bounty Tips & Vlogs
 - [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - Educational Videos about CTFs, Hacking in General
@@ -50,7 +51,10 @@ Michal Zalewski
 In general ["no starch press"](https://nostarch.com/catalog/security) offers great books in the hacking category. [Humble Bundle](https://www.humblebundle.com) sometimes offfers great book deals for an awesome price, so have a eye out for those.
 
 ## Twitter
-This List does not exclusively contains Bug Bounty themed Accounts but a broad variety of InfoSec and Hacking.<br>
+
+### Curated Bug-Bounty List on Twitter by [@securibee](https://twitter.com/securibee): [Link](https://twitter.com/i/lists/1253517962272743424)<br>
+
+The following list does not exclusively contains Bug Bounty themed Accounts but a broad variety of InfoSec and Hacking.<br>
 
 | Name                                                    | Topics                                                                       |
 | ------------------------------------------------------- | ---------------------------------------------------------------------------- |

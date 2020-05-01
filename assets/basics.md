@@ -1,6 +1,9 @@
 # Resources-for-Beginner-Bug-Bounty-Hunters
 
-## Table of Contents
+
+## Basics 🤓
+
+### Table of Contents
 1. [Stanford CS 253 Web Security](#Stanford-CS-253-Web-Security)
 2. [HTTP basics](#HTTP-basics)
 3. [Networking basics](#Networking-basics)
@@ -8,21 +11,21 @@
 5. [Automation](#Automation)
 
 
-## Stanford CS 253 Web Security
+### Stanford CS 253 Web Security
 
 - [Stanford CS 253 Web Security](https://web.stanford.edu/class/cs253/) - by [@feross](https://twitter.com/feross)
    - "This course is a comprehensive overview of web security. The goal is to build an understanding of the most common web attacks and their countermeasures. Given the pervasive insecurity of the modern web landscape, there is a pressing need for programmers and system designers to improve their understanding of web security issues."
 
-## HTTP basics
+### HTTP basics
 In order to be able to learn what and how an application works, you need to be able to understand how you are communicating with it. This section is dedicated to all the resources to understand the HTTP basics.
 - All in one resource: https://www.hacker101.com/sessions/web_in_depth 
-	HTTP basics 
-            Cookie security 
-            HTML parsing 
-            MIME sniffing 
-            Encoding sniffing 
-            Same-Origin Policy 
-            CSRF (Cross-Site Request Forgery)
+	- HTTP basics 
+   - Cookie security 
+   - HTML parsing 
+   - MIME sniffing 
+   - Encoding sniffing 
+   - Same-Origin Policy 
+   - CSRF (Cross-Site Request Forgery)
 - Request form
 https://www.tutorialspoint.com/http/http_requests.htm 
 - Response form 
@@ -33,7 +36,7 @@ https://www.tutorialspoint.com/http/http_status_codes.htm
 https://www.tutorialspoint.com/http/http_url_encoding.htm 
 
 
-## Networking basics
+### Networking basics
 Recon is a common terminology used in bug bounties. It’s great if you are already using tools to scan a range of IPs for open ports or find subdomain, however, you should first understand why these things matter and how they work.
 - Terminology
 https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols 
@@ -48,7 +51,7 @@ http://www.penguintutor.com/linux/basic-network-reference
 - [Network Fundamentals](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8), A 19 part Video Series about Networking well explained for Beginners
 
 
-## Programming Basics
+### Programming Basics
 Being a great programmer is not a requirement to be a successful hacker. However, having the ability to make an educated guess, may increase your chances of successfully identifying and exploiting an issue. In a number of cases, you may need to automate your work or know more than just the “basics” in order to escalate a bug with a medium severity to high/critical. 
 
 - HTML: HTML is very easy to learn and there are a ton of free resources for it. If you are interested in learning about XSS this should be your first step.
@@ -64,7 +67,7 @@ As always, if you prefer an interactive course, feel free to use Codecademy!
 https://www.codecademy.com/learn/learn-sql
 http://www.sqlcourse.com/ 
 
-## Automation 
+### Automation 
 You are welcome to skip this section if you think you’ll never need any automation or in depth web application knowledge. However I think learning bash in addition to one the following four languages may help you work smarter rather than harder.
 - Bash
    - https://www.learnshell.org/ 

@@ -9,6 +9,7 @@
 3. [Networking basics](#Networking-basics)
 4. [Programming Basics](#Programming-Basics)
 5. [Automation](#Automation)
+6. [Computing Fundamentals](#Computing-Fundamentals)
 
 
 ### Stanford CS 253 Web Security
@@ -83,6 +84,10 @@ You are welcome to skip this section if you think you’ll never need any automa
    - https://docs.python.org/3/tutorial/
    - http://www.sqlcourse.com/
    - https://en.wikibooks.org/wiki/Programming_Fundamentals/Advanced_Flowcharting
+
+### Computing Fundamentals 
+- [Hopper's Roppers Computing Fundamentals](https://www.hoppersroppers.org/course.html)
+	- This free course teaches the absolute basics of Linux, hardware, networking, operating systems, and scripting. Designed to get  a complete beginner over the first big learning hurdles and so they can move on to anything else and succeed.
 
 
 ---

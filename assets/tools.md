@@ -49,7 +49,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[Knockpy](https://github.com/guelfoweb/knock)|A python tool designed to enumerate subdomains on a target domain through a wordlist|Python|[@guelforweb](http://twitter.com/guelfoweb)|
 |[crithit](https://github.com/codingo/crithit)|Takes a single wordlist item and tests it one by one over a large collection of hosts before moving onto the next. Create signatures to cross-check vulnerabilities over multiple hosts.|C++|[codingo](https://github.com/codingo)|
 |[nuclei](https://github.com/projectdiscovery/nuclei)|"Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use."|Go|[ProjectDiscovery](https://github.com/projectdiscovery)|
-|[SpiderFoot](https://github.com/smicallef/spiderfoot)|"SpiderFoot is an OSINT automation tool that queries over 100 data sources to build up a complete profile of your target, from host enumeration, to breached e-mail addresses and more."|Python|[SpiderFoot](http://twitter.com/spiderfoot)|
+|[SpiderFoot](https://github.com/smicallef/spiderfoot)|SpiderFoot is an OSINT automation tool that queries over 100 data sources to build up a complete profile of your target, from host enumeration, to breached e-mail addresses and more.|Python|[SpiderFoot](http://twitter.com/spiderfoot)|
 
 
 #### OSINT Webpages
@@ -67,12 +67,6 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[NerdyData](https://nerdydata.com/)|Search Engine for Source Code|[NerdyData](https://www.crunchbase.com/organization/nerdydata)|
 |[Crunchbase](https://www.crunchbase.com/)|For finding Information about Businesses and their acquisitions|[TechCrunch](https://techcrunch.com)|
 |[Searchcode](https://searchcode.com/)|Helping you find real world examples of functions, API's and libraries over 90 languages across multiple sources|[searchcode](https://searchcode.com/about/#team)|
-
-
-
-
-
-
 
 ### Exploitation
 | Name 	| Description 	    | Written in    | Created by   |

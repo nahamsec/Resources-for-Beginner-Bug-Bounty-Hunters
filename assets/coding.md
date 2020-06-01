@@ -16,6 +16,7 @@ TL,DR: ___Python___ and ___Bash___ are really good skills to have and start out 
 - [Subdomain Enumeration Script](https://twitter.com/Sin_Khe/status/1242785016884625409)
 - [ShellCheck](https://www.shellcheck.net/) - for finding Bugs in your Shell Scripts
 - [Bug Bounty with Bash](https://medium.com/cyberverse/bug-bounty-with-bash-438596ff72f5) - by Aditya Soni
+- [Linux Beginner Boost](https://rwx.gg/) - by [rwxrob](https://www.twitch.tv/rwxrob)
 ### Learning Platforms
 - [Exercism](https://exercism.io/) - "Code Practice and Mentorship.."
 - [CodeCademy](https://www.codecademy.com/)

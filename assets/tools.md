@@ -49,6 +49,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[Knockpy](https://github.com/guelfoweb/knock)|A python tool designed to enumerate subdomains on a target domain through a wordlist|Python|[@guelforweb](http://twitter.com/guelfoweb)|
 |[crithit](https://github.com/codingo/crithit)|Takes a single wordlist item and tests it one by one over a large collection of hosts before moving onto the next. Create signatures to cross-check vulnerabilities over multiple hosts.|C++|[codingo](https://github.com/codingo)|
 |[nuclei](https://github.com/projectdiscovery/nuclei)|"Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use."|Go|[ProjectDiscovery](https://github.com/projectdiscovery)|
+|[SpiderFoot](https://github.com/smicallef/spiderfoot)|SpiderFoot is an OSINT automation tool that queries over 100 data sources to build up a complete profile of your target, from host enumeration, to breached e-mail addresses and more.|Python|[SpiderFoot](http://twitter.com/spiderfoot)|
 
 
 #### OSINT Webpages
@@ -70,9 +71,6 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 
 
 
-
-
-
 ### Exploitation
 | Name 	| Description 	    | Written in    | Created by   |
 |------	|-------------    	| ------------  |------------- |
@@ -82,6 +80,8 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |------	|-------------    	| ------------  |------------- |
 |[Nmap](https://nmap.org)|A well known and powerful Tool for port scanning. Nmap provides the possibility to use scripts to further customize its functionality. |C, C++, Python, Lua|Gordon Lyon|
 |[Masscan](https://github.com/robertdavidgraham/masscan)|This is an Internet-scale port scanner. It can scan the entire Internet in under 6 minutes, transmitting 10 million packets per second, from a single machine.|C|Robert David Graham|
+|[KeyHacks](https://github.com/streaak/keyhacks)|Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.|/|streaak|
+|[Nmap command helper](https://competent-goldberg-e5eefe.netlify.app/)|A tool that helps you with nmap commands. Has a build in training feature to help memorizing them.||0x0n0x|
 ### Mobile Hacking
 | Name 	| Description 	    | Written in    | Created by   |
 |------	|-------------    	| ------------  |------------- |
@@ -99,7 +99,10 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |------	|-------------    	| ------------  |------------- |
 |[Reconness](https://github.com/reconness/reconness)|"ReconNess helps you to run and keep all your #recon in the same place allowing you to focus only on the potentially vulnerable targets without distraction and without required a lot of bash skill or programing skill in general."|C#|[Reconness](https://github.com/reconness)|
 |[Updog](https://github.com/sc0tfree/updog)|"Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use HTTP basic auth."|Python|[sc0tfree](https://github.com/sc0tfree)|
-
+|[Notion](notion.so)|"Write, plan, collaborate, and get organized — all in one tool."||Notion Labs|
+|[Joplin](https://joplinapp.org/)|"Joplin is a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks. The notes are searchable, can be copied, tagged and modified either from the applications directly or from your own text editor. The notes are in Markdown format."|JavaScript|Laurent Cozic|
+|[Xmind](https://www.xmind.net/)|XMind, a full-featured mind mapping and brainstorming tool, designed to generate ideas, inspire creativity, brings productivity in a remote WFH team.|/|XMind Ltd.|
+|[Axiom](https://github.com/pry0cc/axiom)|Project Axiom is a set of utilities for managing a small dynamic infrastructure setup for bug bounty and pentesting.|Bash|[@pry0cc](https://twitter.com/pry0cc)|
 
 ### Others
 | Name 	| Description 	    | Written in    | Created by   |
@@ -107,6 +110,9 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[SecLists](https://github.com/danielmiessler/SecLists)|A huge collection of word lists for hacking.||Daniel Miessler|
 |[Recon Pi](https://github.com/x1mdev/ReconPi)|A lightweight recon tool that performs extensive reconnaissance with the latest tools using a Raspberry Pi.||[@x1m_martijn](https://twitter.com/x1m_martijn)|
 |[CyberChef](https://gchq.github.io/CyberChef/)|Awesome Tool for de-/encoding stuff. Try it out!|JavaScript|[gchq](https://github.com/gchq)|
+|[webhook.site](https://webhook.site)|Webhook.site allows you to easily test, inspect, forward and create Custom Actions for any incoming HTTP request or e-mail.||[fredsted](https://github.com/fredsted)|
+|[requestcatcher](https://requestcatcher.com/)|Request Catcher will create a subdomain on which you can test an application. All requests sent to any path on the subdomain are forwarded to your browser in real time.|||
+|[canarytokens](https://canarytokens.org/)|[Description](https://blog.thinkst.com/p/canarytokensorg-quick-free-detection.html)||[Thinkst Canary](canary.tools)|
 
 ---
 back to [Intro Page](/README.md)

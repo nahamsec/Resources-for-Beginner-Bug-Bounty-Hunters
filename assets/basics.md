@@ -9,7 +9,7 @@
 3. [Networking basics](#Networking-basics)
 4. [Programming Basics](#Programming-Basics)
 5. [Automation](#Automation)
-
+6. [Computing Fundamentals](#Computing-Fundamentals)
 
 ### Stanford CS 253 Web Security
 
@@ -84,6 +84,11 @@ You are welcome to skip this section if you think you’ll never need any automa
    - http://www.sqlcourse.com/
    - https://en.wikibooks.org/wiki/Programming_Fundamentals/Advanced_Flowcharting
 
+### Computing Fundamentals 
+- [Hopper's Roppers Computing Fundamentals](https://www.hoppersroppers.org/course.html)
+	- This free course teaches the absolute basics of Linux, hardware, networking, operating systems, and scripting. Designed to get  a complete beginner over the first big learning hurdles and so they can move on to anything else and succeed.
+- [Exeter Q-Step Resources](https://exeter-qstep-resources.github.io/)
+   - Here, you will find a range of teaching materials that have been developed by members of the Q-Step Centre. If you have any questions, please contact l.brace@exeter.ac.uk or qstep@exeter.ac.uk. Details of Q-Step workshops and events can be found at https://socialsciences.exeter.ac.uk/q-step/events.
 
 ---
 back to [Intro Page](/README.md)

@@ -17,6 +17,7 @@
     - Videos: [TryHackMe! Basic Penetration Testing](https://www.youtube.com/watch?v=xl2Xx5YOKcI) // [TryHackMe! EternalBlue/MS17-010 in Metasploit](https://www.youtube.com/watch?v=s6rwS7UuMt8) // [TryHackMe! OhSINT - METADATA & Research](https://www.youtube.com/watch?v=oF0TQQmFu4w)
 - [Cyberseclabs](https://www.cyberseclabs.co.uk/)
 - [Kontra Application Security Training](https://application.security/free-application-security-training)
+- [Will it CORS?](https://httptoolkit.tech/will-it-cors/) | Tell this magic CORS machine what you want, and it'll tell you exactly what to do
 
 ---
 back to [Intro Page](/README.md)

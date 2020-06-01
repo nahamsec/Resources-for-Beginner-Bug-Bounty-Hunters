@@ -7,6 +7,7 @@ Bug Bounties is a task that can be very challenging and competitive and it can a
 (Thanks STÖK for putting out great videos regarding this point)
 Getting in the right Mindset:
 - [Mental Hacking 4 Better Bounties:](https://youtu.be/roVg_wgGgxQ) by STÖK
+- [Happy Hacking:](http://phrack.com/issues/68/7.html#article) Phrack Volume 0x0e, Issue 0x44, Phile #0x07 of 0x13
 
 
 ---

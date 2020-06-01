@@ -5,6 +5,53 @@
 Updates to this repo will be pushed monthly. You can read about the latest changes below.
 
 ---
+## ___Update 2020.06___
+### Added
+- [Blogposts & Disclosed Reports](/assets/blogposts.md):
+    - **THEY SEE ME SCANNIN’, THEY HATIN’: A BEGINNER’S GUIDE TO NMAP** - by Sophia
+    - **How dangerous is Request Splitting, a vulnerability in Golang or how we found the RCE in Portainer and hacked Uber** - by Andrewaeva
+    - **Found Stored Cross-Site Scripting — What’s Next? — Privilege Escalation like a Boss** - by Harsh Bothra
+    - **How to Hack Database Links in SQL Server!** - by Antti Rantasaari
+    - **The Secret sauce of bug bounty** - by Mohamed Slamat
+    - **MY EXPENSE REPORT RESULTED IN A SERVER-SIDE REQUEST FORGERY (SSRF) ON LYFT** - by nahamsec
+    - **MY BUG BOUNTY JOURNEY!** - by Farah Hawa
+    - **Bypassing WAF to perform XSS** - by Kleitonx00
+- [Labs](/assets/labs.md):
+    - **Will it CORS?**
+- [Coding](/assets/coding.md):
+    - **Linux Beginner Boost**
+- [Media](/assets/media.md):
+    - **rwxrob** as a streamer
+    - **ChaosComputerClub Germany Media Resources** under Misc
+    - **@ZephrFish** in Twitter List
+    - **@CalumBoal** in Twitter List
+    - **@_superhero1** in Twitter List
+    - **CRE** in Podcasts
+    - **Phrack** in Misc
+    - **CCC Luxembourg Podcast** in Podcasts
+- [Tools](/assets/tools.md):
+    - **KeyHacks** in the Scanner section<br>
+    - **Notion** in the Notes section<br>
+    - **Joplin** in the Notes section<br>
+    - **Xmind** in the Notes section<br>
+    - **SpiderFoot** in the Recon section
+    - **Axiom** in the Notes section
+    - **webhook** in Misc
+    - **requestcatcher** in Misc
+    - **canarytokens** in Misc
+    - **Nmap command helper** in Scanner
+- [Mindset & Mental Health](/assets/health.md):
+    - **Happy Hacking**
+- [Basics](/assets/basics.md)
+    - **Computing Fundamentals**
+    - **Exeter Q-Step Resources**
+
+    - **Setup bugbounty hunting env on termux** - by @hahwul
+### Changes
+
+### Fixes
+
+---
 ## ___Update 2020.05___
 ### Added
 - [Media](/assets/media.md):

@@ -8,6 +8,7 @@ Here you find listings to useful media creations that can help beginners in diff
 - [Podcasts](#Podcasts)
 - [Books](#Books)
 - [Twitter](#Twitter)
+- [Misc](#Misc)
 ---
 
 ## Youtube Channels
@@ -21,6 +22,7 @@ Here you find listings to useful media creations that can help beginners in diff
 - [PwnFunction](https://www.youtube.com/PwnFunction) explanatory videos about Web App vulnerabilities
 - [DEFCONConference](https://www.youtube.com/user/DEFCONConference/videos) - Tons of Talks from Defcon.
 - [Jason Haddix](https://www.youtube.com/channel/UCk0f0svao7AKeK3RfiWxXEA) - VODs of his Stream
+- [rwxrob](https://www.twitch.tv/rwxrob) - Linux God
 
 ## Streamers
 - [Nahamsec](https://www.twitch.com/nahamsec) on Twitch
@@ -38,6 +40,9 @@ Here you find listings to useful media creations that can help beginners in diff
 - [The Bug Bounty Podcast](https://open.spotify.com/show/3yTTlfXH1avrI3FsXZyCpv) by Fisher
     - [Episode 3 with nahamsec](https://anchor.fm/bugbountypodcast/episodes/Episode-3-ft--NahamSec-ebl392)
 - [Bug Hunter Podcast](https://anchor.fm/bughunter)
+- [CRE](https://cre.fm/) German Podcast - CRE ist ein unregelmäßig erscheinender Interview-Podcast mit Tim Pritlove zu Themen aus den Bereichen Technik, Kultur und Gesellschaft.
+    - [CRE197 IPv6](https://cre.fm/cre197-ipv6) Episode revolving around IPv6
+- [CCC Luxembourg Podcast](http://wiki.c3l.lu/doku.php?id=projects:entr0py_encore) Luxembourgish Podcast from CCC Lux.
 
 ## Books
 - [Real-World Bug Hunting](https://www.amazon.com/Real-World-Bug-Hunting-Field-Hacking/dp/1593278616) by [Peter Yaworski](https://twitter.com/yaworsk)
@@ -120,7 +125,13 @@ The following list does not exclusively contains Bug Bounty themed Accounts but 
 | [@yaworsk](https://twitter.com/yaworsk)                 | BB, Researcher, Author                                                       |
 | [@yeswehack](https://twitter.com/yeswehack)             | BB, Platform                                                                 |
 | [@zseano](https://twitter.com/zseano)                   | BB, Teaching                                                                 |
+| [@ZephrFish](https://twitter.com/ZephrFish)             | BB,Researcher                                                                |
+| [@CalumBoal](https://twitter.com/CalumBoal)             | Pentester, Software dev, Coder                                               |
+| [@_superhero1](https://twitter.com/_superhero1)         | Streamer, Content Creator, BB                                                |
 
 
+## Misc
+ - [ChaosComputerClub Germany Media Resources](https://media.ccc.de/) - bunch of conference talks and other media
+ - [Phrack](http://www.phrack.org/)
 ---
 back to [Intro Page](/README.md)

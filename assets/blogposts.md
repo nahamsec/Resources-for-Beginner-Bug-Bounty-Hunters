@@ -32,6 +32,7 @@ A collection of Blog Posts ordered by Vulnerability Types
 - [How to Set up Certificate-Based SSH for Bug Hunting](https://medium.com/@c0ldbr3w/how-to-set-up-certificate-based-ssh-for-bug-hunting-bonus-ef4af95fca05) - by Mack Staples
 - [XSS in Google Colaboratory + CSP bypass](https://blog.bentkowski.info/2018/06/xss-in-google-colaboratory-csp-bypass.html) by Michał Bentkowski
 - [Zseano’s notes on hacking & mentoring](https://blog.intigriti.com/2020/04/29/bug-business-3-zseanos-notes-on-hacking-mentoring/) by Intigriti & Zseano
+- [MY BUG BOUNTY JOURNEY!](https://www.youtube.com/watch?v=ug7FzoByLFc) by Farah Hawa
 ## XSS
 You can find a ton of awesome XSS reports by searching through the HackerOne Hacktivity Page (https://hackerone.com/hacktivity?querystring=XSS). Here are some more complex and some of my favorite XSS related blog posts:
 
@@ -43,6 +44,8 @@ You can find a ton of awesome XSS reports by searching through the HackerOne Hac
 - [Reflected XSS in https://blocked.myndr.net](https://hackerone.com/reports/824433) - Thilakesh
 - [Google Bug Bounty Writeup- XSS Vulnerability](https://pethuraj.com/blog/google-bug-bounty-writeup/) - [@itsmepethu](https://twitter.com/itsmepethu)
 - [How to solve the INTIGRITI Easter XSS challenge using only Chrome Devtools](https://www.youtube.com/watch?v=IhPsBMBDFcg) - by STÖK
+- [Found Stored Cross-Site Scripting — What’s Next? — Privilege Escalation like a Boss](https://medium.com/bugbountywriteup/found-stored-cross-site-scripting-whats-next-privilege-escalation-like-a-boss-d-8fb9e606ce60) - by Harsh Bothra
+- [Bypassing WAF to perform XSS](https://medium.com/bugbountywriteup/bypassing-waf-to-perform-xss-2d2f5a4367f3) - by Kleitonx00
 
 
 ### DOM XSS
@@ -64,6 +67,7 @@ You can find a ton of awesome XSS reports by searching through the HackerOne Hac
 - [Piercing The Veil: Server Side Request Forgery Attacks On Internal Networks](https://peertube.opencloud.lu/videos/watch/40f39bfe-6d3c-40f5-bcab-43f20944ca6a)<br>- Alyssa Herrera | Hack.lu 2019
 - [Vimeo upload function SSRF](https://medium.com/@dPhoeniixx/vimeo-upload-function-ssrf-7466d8630437) - Sayed Abdelhafiz
 - [Piercing the Veal](https://medium.com/@d0nut/piercing-the-veal-short-stories-to-read-with-friends-4aa86d606fc5) - by d0nut
+- [MY EXPENSE REPORT RESULTED IN A SERVER-SIDE REQUEST FORGERY (SSRF) ON LYFT](https://www.nahamsec.com/posts/my-expense-report-resulted-in-a-server-side-request-forgery-ssrf-on-lyft) - by nahamsec
 
 
 ## Vulnerability Scanning
@@ -82,6 +86,7 @@ You can find a ton of awesome XSS reports by searching through the HackerOne Hac
 - [Finding SQL injections fast with white-box analysis — a recent bug example](https://medium.com/@frycos/finding-sql-injections-fast-with-white-box-analysis-a-recent-bug-example-ca449bce6c76?) - [@frycos](https://twitter.com/frycos)
 - [How we hacked one of the worlds largest Cryptocurrency Website](https://strynx.org/insecure-crypto-code-execution/) - [strynx](https://strynx.org/)
 - [Blind SQL Injection on windows10.hi-tech.mail.ru](https://hackerone.com/reports/786044) - Просто душка (api_0)
+- [How to Hack Database Links in SQL Server!](https://blog.netspi.com/how-to-hack-database-links-in-sql-server/) - Antti Rantasaari
 
 ## Mobile
 ### iOS
@@ -124,12 +129,14 @@ You can find a ton of awesome XSS reports by searching through the HackerOne Hac
 
 ## RCE
 - [My First RCE (Stressed Employee gets me 2x bounty)](https://medium.com/@abhishake100/my-first-rce-stressed-employee-gets-me-2x-bounty-c4879c277e37) - [Abhishek Yadav](https://medium.com/@abhishake100)
+- [How dangerous is Request Splitting, a vulnerability in Golang or how we found the RCE in Portainer and hacked Uber](https://medium.com/@andrewaeva_55205/how-dangerous-is-request-splitting-a-vulnerability-in-golang-or-how-we-found-the-rce-in-portainer-7339ba24c871) - by Andrewaeva
 
 ## Recon
 - [Subdomain Recon Using Certificate Search Technique](https://www.r00tpgp.com/2020/01/subdomain-recon-using-certificate.html?m=0)
 - [Notes about Nahamsecs Recon Sessions](https://mavericknerd.github.io/knowledgebase/nahamsec/recon_session_1/) - [maverickNerd](https://github.com/maverickNerd)
 - [10 Recon Tools For Bug Bounty](https://medium.com/@hackbotone/10-recon-tools-for-bug-bounty-bafa8a5961bd) - Anshuman Pattnaik
 - [Recon: Create a methodology and start your subdomain enumeration](https://failednuke.info/2020/recon-create-a-methodology-and-start-your-subdomain-enumeration/) - by FailedNuke
+- [THEY SEE ME SCANNIN’, THEY HATIN’: A BEGINNER’S GUIDE TO NMAP](https://securityqueens.co.uk/they-see-me-scannin-they-hatin-a-beginners-guide-to-nmap/) - by Sophia (https://twitter.com/SecQueens)
 
 ## Smart Contracts
 - [Steal collateral during `end` process, by earning DSR interest after `flow](https://hackerone.com/reports/672664)(Listed as Business Logic Error)
@@ -149,7 +156,8 @@ You can find a ton of awesome XSS reports by searching through the HackerOne Hac
 - [Top 10 web hacking techniques of 2019](https://portswigger.net/research/top-10-web-hacking-techniques-of-2019) by [James Kettle](https://twitter.com/albinowax)
 - [Understanding Search Syntax on Github](https://help.github.com/en/github/searching-for-information-on-github/understanding-the-search-syntax#exclude-certain-results) by Github
 - [URL link spoofing (Slack)](https://hackerone.com/reports/481472) by Akaki Tsunoda (akaki)
-- [Abusing HTTP Path Normalization and Cache Poisoning to steal Rocket League accounts](https://samcurry.net/abusing-http-path-normalization-and-cache-poisoning-to-steal-rocket-league-accounts/) by Sam Curry 
+- [Abusing HTTP Path Normalization and Cache Poisoning to steal Rocket League accounts](https://samcurry.net/abusing-http-path-normalization-and-cache-poisoning-to-steal-rocket-league-accounts/) by Sam Curry
+- [The Secret sauce of bug bounty](https://medium.com/bugbountywriteup/the-secret-sauce-of-bug-bounty-bdcc2e2d45af) by Mohamed Slamat
 
 
 ---

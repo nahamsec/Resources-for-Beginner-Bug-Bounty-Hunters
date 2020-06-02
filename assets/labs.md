@@ -8,7 +8,7 @@
 - [HackTheBox](https://www.hackthebox.eu/) | provides Testing Labs, some Web Application Challenges
 - [XSS-Game](https://xss-game.appspot.com/) | Learning Platform for XSS
 - [HackEdu](https://hackedu.io)
-- [DWVA](http://www.dvwa.co.uk)
+- [DVWA](http://www.dvwa.co.uk)
 - [Google Gruyere](https://google-gruyere.appspot.com/)
 - [Web Security Academy by PortSwigger](https://portswigger.net/web-security)
 - [XSS Labs from PwnFunction](https://xss.pwnfunction.com/) Great Labs in a beautiful layout

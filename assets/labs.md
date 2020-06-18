@@ -18,6 +18,7 @@
 - [Cyberseclabs](https://www.cyberseclabs.co.uk/)
 - [Kontra Application Security Training](https://application.security/free-application-security-training)
 - [Will it CORS?](https://httptoolkit.tech/will-it-cors/) | Tell this magic CORS machine what you want, and it'll tell you exactly what to do
+- [NodeGoat](https://github.com/OWASP/NodeGoat) | Learn how OWASP Top 10 security risks apply to web applications developed using Node.js
 
 ---
 back to [Intro Page](/README.md)

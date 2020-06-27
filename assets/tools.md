@@ -34,10 +34,10 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 ### Recon, OSINT & Discovery
 | Name 	| Description 	    | Written in    | Created by   |
 |------	|-------------    	| ------------  |------------- |
-|[FFuF](https://github.com/ffuf/ffuf)|A very fast Fuzzing Tool to brute force directories or other parameters. Highly configurable.|Go||
-|[Sublist3r](https://github.com/aboul3la/Sublist3r)|Sublist3r enumerates subdomains using many search engines such as Google, Yahoo, Bing, Baidu and Ask. Sublist3r also enumerates subdomains using Netcraft, Virustotal, ThreatCrowd, DNSdumpster and ReverseDNS.|Python|Ahmed Aboul-Ela|
-|[dirsearch](https://github.com/maurosoria/dirsearch)|dirsearch is a simple command-line tool designed to brute force directories and files in websites.|Python|Mauro Soria|
-|[Amass](https://github.com/OWASP/Amass)|Uses a variety of different techniques to gather subdomains and can build a network map of the target. Very good export options.|Go|OWASP|
+|[FFuF](https://github.com/ffuf/ffuf)|A very fast Fuzzing Tool to brute force directories or other parameters. Highly configurable.|Go|[Joona Hoikkala](https://github.com/joohoi)|
+|[Sublist3r](https://github.com/aboul3la/Sublist3r)|Sublist3r enumerates subdomains using many search engines such as Google, Yahoo, Bing, Baidu and Ask. Sublist3r also enumerates subdomains using Netcraft, Virustotal, ThreatCrowd, DNSdumpster and ReverseDNS.|Python|[Ahmed Aboul-Ela](https://github.com/aboul3la)|
+|[dirsearch](https://github.com/maurosoria/dirsearch)|dirsearch is a simple command-line tool designed to brute force directories and files in websites.|Python|[Mauro Soria](https://github.com/maurosoria)|
+|[Amass](https://github.com/OWASP/Amass)|Uses a variety of different techniques to gather subdomains and can build a network map of the target. Very good export options.|Go|[OWASP](https://github.com/OWASP)|
 |[BuiltWith](https://builtwith.com)|A very handy Browser Extension (for Chrome, Firefox) that checks for more than 18,000 types of internet technologies. Gives you a very quick glance on what a Web Application is built.||BuiltWith®|
 |[findomain](https://github.com/Edu4rdSHL/findomain)|Very fast cross-platform subdomain enumerator|Rust|[Eduard Tolosa](https://github.com/Edu4rdSHL)|
 |[waybackurls](https://github.com/tomnomnom/waybackurls)|Fetch all the URLs that the Wayback Machine knows about for a domain|Go|[Tom Hudson](https://github.com/tomnomnom)|

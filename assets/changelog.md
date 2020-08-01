@@ -43,6 +43,7 @@ Updates to this repo will be pushed monthly. You can read about the latest chang
 - Added a new section called [Discord Servers](/assets/media.md#Discord-Servers) in "Media & Communities"
 ### Fixes
 - fixed Notion Link
+- fixed typo in Labs
 
 ---
 ## ___Update 2020.06___

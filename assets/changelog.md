@@ -5,6 +5,46 @@
 Updates to this repo will be pushed monthly. You can read about the latest changes below.
 
 ---
+## ___Update 2020.08___
+### Added
+- [Tools](/assets/tools.md):
+    - **threader3000** in the Scanner section<br>
+    - **subfinder** in the Recon, OSINT & Discovery Section<br>
+    - **SUBway** in the Recon, OSINT & Discovery Section<br>
+    - **PenTest.ws** in the Notetaking Section<br>
+- [Blogposts & Disclosed Reports](/assets/blogposts.md):
+    - **Ability to know the presence of a person in a private event even if the guest list is hidden.** - by Vivek PS<br>
+    - **Another image removal vulnerability on Facebook** - by Pouya<br>
+- [Cheat Sheets](/assets/cheat.md):
+    - **CloudPentestCheatsheets**
+    - **HackTricks**
+    - **Everything curl**
+    - **GTFObins**
+    - **Finding ENdpoints in JS Files**
+    - **The Bug Hunter's Methodology v.4.01**
+- [Certifications](/assets/certs.md):
+    - **hax**
+- [Setup](/assets/setup.md):
+    - **Technical Project Ideas Towards Learning Cyber Security**
+    - **Getting Starting With Tmux Isn't That Scary**
+- [Media](/assets/media.md):
+    - **The Linux Command Line**
+    - **The Mayor** in the Streamer Section
+    - Added  **Nahamsec,Hacker101,TryHackMe,HTB,TCM,AshF0x,TheMayor,Sup3rhero1 6 Ceos3c** to Discord Servers
+    - Added **@PhillipWylie** on the Twitter-list
+- [Health](/assets/health.md):
+    - **BSidesSF 2020 - Panel: Mental Health for Hackers (Chloé M • Ryan L • Susan P)**
+### Changes
+- Added a new section called [Cheat Sheets, Slides & More](/assets/cheat.md)
+- Added a new subcategory in [Setup](/assets/setup.md) for Tools
+- Added a sub category called [One Liners](/assets/cheat.md#One-Liners)
+- Added a sub category called [Slides](/assets/cheat.md#Slides)
+- Renamed "Media" to ["Media & Communities"](/assets/media.md)
+- Added a new section called [Discord Servers](/assets/media.md#Discord-Servers) in "Media & Communities"
+### Fixes
+- fixed Notion Link
+
+---
 ## ___Update 2020.06___
 ### Added
 - [Blogposts & Disclosed Reports](/assets/blogposts.md):

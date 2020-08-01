@@ -50,6 +50,8 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[crithit](https://github.com/codingo/crithit)|Takes a single wordlist item and tests it one by one over a large collection of hosts before moving onto the next. Create signatures to cross-check vulnerabilities over multiple hosts.|C++|[codingo](https://github.com/codingo)|
 |[nuclei](https://github.com/projectdiscovery/nuclei)|"Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use."|Go|[ProjectDiscovery](https://github.com/projectdiscovery)|
 |[SpiderFoot](https://github.com/smicallef/spiderfoot)|SpiderFoot is an OSINT automation tool that queries over 100 data sources to build up a complete profile of your target, from host enumeration, to breached e-mail addresses and more.|Python|[SpiderFoot](http://twitter.com/spiderfoot)|
+|[subfinder](https://github.com/projectdiscovery/subfinder)|subfinder is a subdomain discovery tool that discovers valid subdomains for websites by using passive online sources. It has a simple modular architecture and is optimized for speed. subfinder is built for doing one thing only - passive subdomain enumeration, and it does that very well.|Go|[ProjectDiscovery](https://github.com/projectdiscovery)|
+|[SUBway](https://github.com/Sam-Lane/subway)|Enumerate subdomains by either using DNS lookup or by virtual hosting HTTP requests, useful for things like Hack The Box or Try Hack Me. SUBway requires a wordlist to use for subdomain discovery, SecLists is the recomended pairing for use with this tool.|Go|[Sam Lane](https://github.com/Sam-Lane)|
 
 
 #### OSINT Webpages
@@ -82,6 +84,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[Masscan](https://github.com/robertdavidgraham/masscan)|This is an Internet-scale port scanner. It can scan the entire Internet in under 6 minutes, transmitting 10 million packets per second, from a single machine.|C|Robert David Graham|
 |[KeyHacks](https://github.com/streaak/keyhacks)|Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.|/|streaak|
 |[Nmap command helper](https://competent-goldberg-e5eefe.netlify.app/)|A tool that helps you with nmap commands. Has a build in training feature to help memorizing them.||0x0n0x|
+|[threader3000](https://github.com/dievus/threader3000)|Threader3000 is a script written in Python3 that allows multi-threaded port scanning. The program is interactive and simply requires you to run it to begin. Once started, you will be asked to input an IP address or a FQDN as Threader3000 does resolve hostnames. A full port scan should take less than 1 minute 30 seconds depending on your internet connection.|Python|[Joe Helle](https://github.com/dievus),[Tittimus](https://github.com/Sam-Lane),[plasticuproject](https://github.com/plasticuproject)|
 ### Mobile Hacking
 | Name 	| Description 	    | Written in    | Created by   |
 |------	|-------------    	| ------------  |------------- |
@@ -99,10 +102,11 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |------	|-------------    	| ------------  |------------- |
 |[Reconness](https://github.com/reconness/reconness)|"ReconNess helps you to run and keep all your #recon in the same place allowing you to focus only on the potentially vulnerable targets without distraction and without required a lot of bash skill or programing skill in general."|C#|[Reconness](https://github.com/reconness)|
 |[Updog](https://github.com/sc0tfree/updog)|"Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use HTTP basic auth."|Python|[sc0tfree](https://github.com/sc0tfree)|
-|[Notion](notion.so)|"Write, plan, collaborate, and get organized — all in one tool."||Notion Labs|
+|[Notion](https://notion.so)|"Write, plan, collaborate, and get organized — all in one tool."||Notion Labs|
 |[Joplin](https://joplinapp.org/)|"Joplin is a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks. The notes are searchable, can be copied, tagged and modified either from the applications directly or from your own text editor. The notes are in Markdown format."|JavaScript|Laurent Cozic|
 |[Xmind](https://www.xmind.net/)|XMind, a full-featured mind mapping and brainstorming tool, designed to generate ideas, inspire creativity, brings productivity in a remote WFH team.|/|XMind Ltd.|
 |[Axiom](https://github.com/pry0cc/axiom)|Project Axiom is a set of utilities for managing a small dynamic infrastructure setup for bug bounty and pentesting.|Bash|[@pry0cc](https://twitter.com/pry0cc)|
+|[PenTest.ws](https://pentest.ws/features)|PenTest.WS is a penetration testing web application for organizing hosts, services, vulnerabilities and credentials during a penetration test. A reporting module is available for documenting and delivering a full penetration test.||PenTest.ws|
 
 ### Others
 | Name 	| Description 	    | Written in    | Created by   |

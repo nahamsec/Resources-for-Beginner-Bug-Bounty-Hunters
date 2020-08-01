@@ -78,6 +78,7 @@ You can find a ton of awesome XSS reports by searching through the HackerOne Hac
 - [How I was able to bypass OTP code requirement in Razer [The story of a critical bug]](https://medium.com/bugbountywriteup/how-i-was-able-to-bypass-otp-token-requirement-in-razer-the-story-of-a-critical-bug-fc63a94ad572?) - Ananda Dhakal
 - [Bypassing GitHub's OAuth flow](https://blog.teddykatz.com/2019/11/05/github-oauth-bypass.html) - [@not_aardvark](https://twitter.com/not_aardvark)
 - [Subdomain Takeover to Authentication bypass](https://hackerone.com/reports/335330) - by geekboy
+- [Ability to know the presence of a person in a private event even if the guest list is hidden.](https://bugreader.com/index.php?pageNav=vivekps143%40193) - by [Vivek PS](https://bugreader.com/vivekps143)
 
 
 ## SQL Injection
@@ -121,6 +122,7 @@ You can find a ton of awesome XSS reports by searching through the HackerOne Hac
 - [GraphQL IDOR leads to information disclosure](https://medium.com/@R0X4R/graphql-idor-leads-to-information-disclosure-175eb560170d) - [@R0X4R](https://twitter.com/R0X4R)
 - [From Multiple IDORs leading to Code Execution on a different Host Container](https://www.rahulr.in/2019/10/idor-to-rce.html?m=1) - [@Rahul_R95](https://twitter.com/Rahul_R95)
 - [Automating BURP to find IDORs](https://medium.com/cyberverse/automating-burp-to-find-idors-2b3dbe9fa0b8) - [Aditya Soni](https://medium.com/@hetroublemakr)
+- [Another image removal vulnerability on Facebook](https://blog.darabi.me/2020/06/image-removal-vulnerability-on-facebook.html) - by Pouya
 
 ## GraphQL
 - [Private System Note Disclosure using GraphQL](https://hackerone.com/reports/633001) - Ron Chan

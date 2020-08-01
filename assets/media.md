@@ -1,6 +1,6 @@
 # Resources-for-Beginner-Bug-Bounty-Hunters
 
-## Media Resources 🎬
+## Media Resources & Communities 🎬
 Here you find listings to useful media creations that can help beginners in different ways.
 
 - [YouTube Channels](#Youtube-Channels)
@@ -8,7 +8,9 @@ Here you find listings to useful media creations that can help beginners in diff
 - [Podcasts](#Podcasts)
 - [Books](#Books)
 - [Twitter](#Twitter)
+- [Discord Servers](#Discord-Servers)
 - [Misc](#Misc)
+
 ---
 
 ## Youtube Channels
@@ -32,6 +34,7 @@ Here you find listings to useful media creations that can help beginners in diff
 - [Jason Haddix](https://www.twitch.tv/js0n_x/) on Twitch
 - [sup3rhero1](https://www.twitch.tv/sup3rhero1) on Twitch
 - [STÖK](https://www.twitch.tv/stokfredrik) on Twitch
+- [The Mayor](https://www.twitch.tv/themayor11) on Twitch
 
 
 ## Podcasts
@@ -52,6 +55,7 @@ Michal Zalewski
 - [Web Hacking 101: How to Make Money Hacking Ethically](https://leanpub.com/web-hacking-101) by [Peter Yaworski](https://twitter.com/yaworsk)
 - [Black Hat Go](https://nostarch.com/blackhatgo) by Tom Steele, Chris Patten, and Dan Kottmann
 - [Black Hat Python](https://nostarch.com/blackhatpython) by Justin Seitz
+- [The Linux Command Line](https://nostarch.com/tlcl2) by William Shotts
 
 In general ["no starch press"](https://nostarch.com/catalog/security) offers great books in the hacking category. [Humble Bundle](https://www.humblebundle.com) sometimes offfers great book deals for an awesome price, so have a eye out for those.
 
@@ -128,7 +132,19 @@ The following list does not exclusively contains Bug Bounty themed Accounts but 
 | [@ZephrFish](https://twitter.com/ZephrFish)             | BB,Researcher                                                                |
 | [@CalumBoal](https://twitter.com/CalumBoal)             | Pentester, Software dev, Coder                                               |
 | [@_superhero1](https://twitter.com/_superhero1)         | Streamer, Content Creator, BB                                                |
+| [@PhillipWylie](https://twitter.com/PhillipWylie)       | BB, Researcher, Pentester                                                    |
 
+
+## Discord Servers
+- [Nahamsec](https://discord.gg/d6dENAq)
+- [Hacker101](https://discord.gg/WrCTm8h)
+- [TryHackMe](https://discord.gg/KsAEejZ)
+- [HackTheBox](https://discord.gg/FrRJ3Z8)
+- [TheCyberMentor](https://discord.gg/)
+- [AshF0x - The F0xbox](https://discord.gg/RCTy5zS)
+- [The Mayor](https://discord.gg/EN2ya9h)
+- [Sup3rhero1](https://discord.gg/pHfgvns)
+- [Ceos3c](https://discord.gg/SBK3hkR)
 
 ## Misc
  - [ChaosComputerClub Germany Media Resources](https://media.ccc.de/) - bunch of conference talks and other media

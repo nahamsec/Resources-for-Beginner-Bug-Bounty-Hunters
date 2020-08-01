@@ -13,11 +13,14 @@ This section will help you set up your testing environement.
 - [Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers](https://www.youtube.com/watch?v=fqMOX6JJhGo) - freecodecamp
 - [Creating Wordlists for Pentesting & Bug Bounty](https://www.youtube.com/watch?v=QGbTaxtEQlg) - by nahamsec
 - [Setup bugbounty hunting env on termux](https://www.hahwul.com/2020/05/setup-bugbounty-hunting-env-on-termux-d.html?m=1) - by @hahwul
+- [Technical Project Ideas Towards Learning Cyber Security](https://mchow01.github.io/education/security/projects/2020/06/19/technical_projects_security.html) - by [Ming Y. Chow](https://mchow01.github.io/)
 ## Burp Suite
 This section should help you get familiar with BurpSuite.
 - [Setting up Burp (Video Series)](https://www.hacker101.com/playlists/burp_suite) by Hacker101
 - [Burp Suite Introduction](https://github.com/bugcrowd/bugcrowd_university/blob/master/An_introduction_to_Burp_Suite/Bugcrowd%20University%20-%20Burp%20Suite%20Introduction.pdf) by Jason Haddix
 - [Beginners Guide to Burpsuite Payloads (Part 1)](https://www.hackingarticles.in/beginners-guide-burpsuite-payloads-part-1/) by Raj Chandel
 - [Burp Hacks for Bounty Hunters](https://www.youtube.com/watch?v=boHIjDHGmIo) by James Kettle
+## Tools
+- [Getting Starting With Tmux Isn't That Scary](https://www.youtube.com/watch?v=Z5sEEbwngd0)
 ---
 back to [Intro Page](/README.md)

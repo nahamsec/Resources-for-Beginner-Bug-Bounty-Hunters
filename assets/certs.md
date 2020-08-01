@@ -11,6 +11,7 @@ Due to the fact that a lot more Hunters are trying to get better in different fi
     - [ALL NEW OSCP - REVAMPED 2020](https://www.youtube.com/watch?v=wjTt-5mfyhY)
 - [OSCP Preparation](https://github.com/superhero1/OSCP-Prep) by sup3rhero1
 - [TJnull’s Preparation Guide for PWK/OSCP](https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html)
+- [hax](https://github.com/unmeg/hax) by unmeg (Useful scripts for OSCP boxes and other Certs)
 
 ---
 back to [Intro Page](/README.md)

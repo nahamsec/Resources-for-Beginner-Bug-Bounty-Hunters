@@ -52,6 +52,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[SpiderFoot](https://github.com/smicallef/spiderfoot)|SpiderFoot is an OSINT automation tool that queries over 100 data sources to build up a complete profile of your target, from host enumeration, to breached e-mail addresses and more.|Python|[SpiderFoot](http://twitter.com/spiderfoot)|
 |[subfinder](https://github.com/projectdiscovery/subfinder)|subfinder is a subdomain discovery tool that discovers valid subdomains for websites by using passive online sources. It has a simple modular architecture and is optimized for speed. subfinder is built for doing one thing only - passive subdomain enumeration, and it does that very well.|Go|[ProjectDiscovery](https://github.com/projectdiscovery)|
 |[SUBway](https://github.com/Sam-Lane/subway)|Enumerate subdomains by either using DNS lookup or by virtual hosting HTTP requests, useful for things like Hack The Box or Try Hack Me. SUBway requires a wordlist to use for subdomain discovery, SecLists is the recomended pairing for use with this tool.|Go|[Sam Lane](https://github.com/Sam-Lane)|
+|[Favinizer](https://github.com/g147/favinizer)|Fingerprints web servers using favicon.|Python|[Beast Glatisant](https://github.com/g147)|
 
 
 #### OSINT Webpages
@@ -82,6 +83,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |------	|-------------    	| ------------  |------------- |
 |[Nmap](https://nmap.org)|A well known and powerful Tool for port scanning. Nmap provides the possibility to use scripts to further customize its functionality. |C, C++, Python, Lua|Gordon Lyon|
 |[Masscan](https://github.com/robertdavidgraham/masscan)|This is an Internet-scale port scanner. It can scan the entire Internet in under 6 minutes, transmitting 10 million packets per second, from a single machine.|C|Robert David Graham|
+|[RustScan](https://github.com/RustScan/RustScan)|Scans all 65k ports in 8 seconds (on 10k batch size) & saves you time by automatically piping it into Nmap. No more manual copying and pasting!|Rust|[Brandon](https://github.com/brandonskerritt)|
 |[KeyHacks](https://github.com/streaak/keyhacks)|Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.|/|streaak|
 |[Nmap command helper](https://competent-goldberg-e5eefe.netlify.app/)|A tool that helps you with nmap commands. Has a build in training feature to help memorizing them.||0x0n0x|
 |[threader3000](https://github.com/dievus/threader3000)|Threader3000 is a script written in Python3 that allows multi-threaded port scanning. The program is interactive and simply requires you to run it to begin. Once started, you will be asked to input an IP address or a FQDN as Threader3000 does resolve hostnames. A full port scan should take less than 1 minute 30 seconds depending on your internet connection.|Python|[Joe Helle](https://github.com/dievus),[Tittimus](https://github.com/Sam-Lane),[plasticuproject](https://github.com/plasticuproject)|

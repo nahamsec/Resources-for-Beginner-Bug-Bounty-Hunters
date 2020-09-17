@@ -14,6 +14,7 @@ This section will help you set up your testing environement.
 - [Creating Wordlists for Pentesting & Bug Bounty](https://www.youtube.com/watch?v=QGbTaxtEQlg) - by nahamsec
 - [Setup bugbounty hunting env on termux](https://www.hahwul.com/2020/05/setup-bugbounty-hunting-env-on-termux-d.html?m=1) - by @hahwul
 - [Technical Project Ideas Towards Learning Cyber Security](https://mchow01.github.io/education/security/projects/2020/06/19/technical_projects_security.html) - by [Ming Y. Chow](https://mchow01.github.io/)
+- [Offensive Docker for Bug Bounty](https://github.com/aaaguirrep/offensive-docker)
 ## Burp Suite
 This section should help you get familiar with BurpSuite.
 - [Setting up Burp (Video Series)](https://www.hacker101.com/playlists/burp_suite) by Hacker101

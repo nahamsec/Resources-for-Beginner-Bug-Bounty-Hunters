@@ -68,6 +68,7 @@ The following list does not exclusively contains Bug Bounty themed Accounts but 
 | Name                                                    | Topics                                                                       |
 | ------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | [@Alyssa*Herrera*](https://twitter.com/Alyssa_Herrera_) | BB                                                                           |
+| [@APIsecurityio](https://twitter.com/APIsecurityio)     | API Security news, vulnerabilities, standards, best practices, talks, tools  |
 | [@Bugcrowd](https://twitter.com/Bugcrowd)               | BB, Platform                                                                 |
 | [@DailySwig](https://twitter.com/DailySwig)             | Web Technologie, News                                                        |
 | [@DanielMiessler](https://twitter.com/DanielMiessler)   | Security, Researcher, [SecLists](https://github.com/danielmiessler/SecLists) |
@@ -99,7 +100,7 @@ The following list does not exclusively contains Bug Bounty themed Accounts but 
 | [@autothreat](https://twitter.com/autothreat)           | Hacking, Cars                                                                |
 | [@brutelogic](https://twitter.com/brutelogic)           | Researcher, Teaching, XSS                                                    |
 | [@ceos3c](https://twitter.com/ceos3c)                   | YouTuber, General Hacking, Teaching                                          |
-| [@codingo_](https://twitter.com/codingo_)                   | General Hacking, Bug Bounty, Coding                                         |
+| [@codingo_](https://twitter.com/codingo_)               | General Hacking, Bug Bounty, Coding                                          |
 | [@d0nutptr](https://twitter.com/d0nutptr)               | BB, Researcher, (Rust.)                                                      |
 | [@daeken](https://twitter.com/daeken)                   | BB, Researcher                                                               |
 | [@evilsocket](https://twitter.com/evilsocket)           | Hacking, Coding, Hardware, Tools                                             |
@@ -147,6 +148,7 @@ The following list does not exclusively contains Bug Bounty themed Accounts but 
 - [Ceos3c](https://discord.gg/SBK3hkR)
 
 ## Misc
+ - [APIsecurity.io](https://apisecurity.io/) - weekly newsletter on API security
  - [ChaosComputerClub Germany Media Resources](https://media.ccc.de/) - bunch of conference talks and other media
  - [Phrack](http://www.phrack.org/)
 ---

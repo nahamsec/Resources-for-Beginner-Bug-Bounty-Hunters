@@ -18,6 +18,7 @@ A collection of Blog Posts ordered by Vulnerability Types
 - [Automation](#Automation)
 - [Buffer Overflow](#Buffer-Overflow)
 - [IDOR](#IDOR)
+- [JWT](#JWT)
 - [GraphQL](#GraphQL)
 - [RCE](#RCE)
 - [Recon](#Recon)
@@ -123,6 +124,9 @@ You can find a ton of awesome XSS reports by searching through the HackerOne Hac
 - [From Multiple IDORs leading to Code Execution on a different Host Container](https://www.rahulr.in/2019/10/idor-to-rce.html?m=1) - [@Rahul_R95](https://twitter.com/Rahul_R95)
 - [Automating BURP to find IDORs](https://medium.com/cyberverse/automating-burp-to-find-idors-2b3dbe9fa0b8) - [Aditya Soni](https://medium.com/@hetroublemakr)
 - [Another image removal vulnerability on Facebook](https://blog.darabi.me/2020/06/image-removal-vulnerability-on-facebook.html) - by Pouya
+
+## JWT
+- [Are You Properly Using JWTs?](https://youtu.be/M3jA0bGDCso) - OWASP AppSec California talk on JWT security and attacks
 
 ## GraphQL
 - [Private System Note Disclosure using GraphQL](https://hackerone.com/reports/633001) - Ron Chan

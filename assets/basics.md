@@ -75,6 +75,7 @@ You are welcome to skip this section if you think you’ll never need any automa
 - Ruby
    - https://www.learnrubyonline.org/
 - Python
+   - https://github.com/Asabeneh/30-Days-Of-Python
    - https://docs.python.org/3/tutorial/
 - Go(lang)
    - https://golang.org

@@ -55,9 +55,8 @@ http://www.penguintutor.com/linux/basic-network-reference
 Being a great programmer is not a requirement to be a successful hacker. However, having the ability to make an educated guess, may increase your chances of successfully identifying and exploiting an issue. In a number of cases, you may need to automate your work or know more than just the “basics” in order to escalate a bug with a medium severity to high/critical. 
 
 - HTML: HTML is very easy to learn and there are a ton of free resources for it. If you are interested in learning about XSS this should be your first step.
-If you prefer an interactive tool to learn about Javascript, I highly recommend Codecademy!
-https://www.codecademy.com/learn/learn-html
-https://www.w3schools.com/html/
+If you prefer an interactive tool to learn about HTML, I highly recommend Codecademy!
+https://www.codecademy.com/learn/learn-html  or w3schools https://www.w3schools.com/html/
 
 - JavaScript: Once you have familiarized yourself with HTML, you should understand Javascript since you will be using it to exploit XSS vulnerabilities. The usage of Javascript isn’t just limited to when you are exploring XSS, so it’s a very handy programming language to know.
 If you prefer an interactive tool to learn about Javascript, I highly recommend Codecademy! https://www.codecademy.com/learn/introduction-to-javascript 

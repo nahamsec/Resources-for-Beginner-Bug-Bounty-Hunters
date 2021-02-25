@@ -6,9 +6,9 @@ There are a number of new hackers joining the community on a regular basis and m
 
 We understand that there are more resources other than the ones we have listed and we hope to cover more resources in the near future!<br>
 
-## Current Version: 2020.08 
+If you are interested in learning about top bug bounty hunters in the community check out my [Live Recon VODs](https://www.youtube.com/playlist?list=PLKAaMVNxvLmAkqBkzFaOxqs3L66z2n8LA).
+## Current Version: 2020.12
 
-[Changelog: See what's new!](/assets/changelog.md) 📣
 
 ---
 ## Table of Contents
@@ -17,6 +17,7 @@ We understand that there are more resources other than the ones we have listed a
 - [Setup](/assets/setup.md)
 - [Tools](/assets/tools.md)
 - [Labs & Testing Environments](/assets/labs.md)
+- [Talks](/assets/talks.md)
 - [Vulnerability Types](/assets/vulns.md)
 - [Mobile Hacking](/assets/mobile.md)
 - [Smart Contracts](/assets/smartcon.md)
@@ -28,6 +29,6 @@ We understand that there are more resources other than the ones we have listed a
 - [Mindset & Mental Health](/assets/health.md)
 
 ---
-If you have more questions or suggestions, check our [NahamSec's Discord](https://discord.gg/9jZxjQ5)!<br>
+If you have more questions or suggestions, check out [NahamSec's Discord](https://discord.gg/9jZxjQ5)!<br>
 Also, feel free to check out the other resources:
-- Nahamsec on [YouTube](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw) and on [Twitch](https://www.twitch.tv/nahamsec)
+- Nahamsec on [YouTube](https://www.youtube.com/NahamSec) and on [Twitch](https://www.twitch.tv/nahamsec)

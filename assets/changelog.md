@@ -2,7 +2,7 @@
 
 ## Changelog 📬
 
-Updates to this repo will be pushed monthly. You can read about the latest changes below.
+This page is no longer maintained. If you are interested in the changelog please check out the commit.
 
 ---
 ## ___Update 2020.08___
@@ -167,9 +167,9 @@ The headers for every category now links to their page instead.
         - **Updog** to [Notes & Organization](/assets/tools.md#Notes-&-Organization)
     - New Category: [Burp Extensions](/assets/tools.md#Burp-Extensions)
         - **Logger++** to [Burp Extensions](/assets/tools.md#Burp-Extensions)
-        - **AuthMatrix** to [Burp Extensions](/assets/tools.md#Burp-Extensions) 
-        - **Autorize** to [Burp Extensions](/assets/tools.md#Burp-Extensions) 
-        - **Auto Repeater** to [Burp Extensions](/assets/tools.md#Burp-Extensions) 
+        - **AuthMatrix** to [Burp Extensions](/assets/tools.md#Burp-Extensions)
+        - **Autorize** to [Burp Extensions](/assets/tools.md#Burp-Extensions)
+        - **Auto Repeater** to [Burp Extensions](/assets/tools.md#Burp-Extensions)
         - **Progress Tracker** to [Burp Extensions](/assets/tools.md#Burp-Extensions)
         - **Flow** to [Burp Extensions](/assets/tools.md#Burp-Extensions)
 - New in [Labs](/assets/labs.md):
@@ -207,19 +207,19 @@ The headers for every category now links to their page instead.
 ## ___Update 2020.03___
 ### Added
 - New: [Smart Contracts](/assets/smartcon.md) (special thanks to [@0xatul](https://twitter.com/0xatul))
-    - New White-/yellowpapers in [Smart Contracts](/assets/smartcon.md): 
+    - New White-/yellowpapers in [Smart Contracts](/assets/smartcon.md):
     **Bitcoin whitepaper & Ethereum yellowpaper**
-    - New **How to Audit a Smart Contract** 
+    - New **How to Audit a Smart Contract**
 - New Smart Contracts Category under [Blogposts](/assets/blogposts.md#Smart-Contracts) and added two Writeups
-- New in [Blogposts](/assets/blogposts.md): 
+- New in [Blogposts](/assets/blogposts.md):
     - **10 Recon Tools for Bug Bounty**
-- New in [Setup](/assets/setup.md): 
+- New in [Setup](/assets/setup.md):
     - **Finding your First Bug and getting a Bounty with InsiderPhD**
     - **Introduction to Docker for CTFs**
 - New in [Vulnerabilities](/assets/vulns.md):
     - **Finding your first Bug - CSRF**
     - **CSRF-Basics**
-- New in [Tools](/assets/tools.md): 
+- New in [Tools](/assets/tools.md):
     - **Knockpy**
 - New in [Labs](/assets/labs.md):
     - **0l4bs for XSS**

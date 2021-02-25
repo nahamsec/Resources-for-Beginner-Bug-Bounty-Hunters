@@ -9,7 +9,7 @@ We understand that there are more resources other than the ones we have listed a
 If you are interested in learning about top bug bounty hunters in the community check out my [Live Recon VODs](https://www.youtube.com/playlist?list=PLKAaMVNxvLmAkqBkzFaOxqs3L66z2n8LA).
 
 
-##NahamSec's Resource:
+## NahamSec's Resource:
 I have also put together my own resource:
 
 - [NahamSec's Udemy Course](https://www.udemy.com/course/intro-to-bug-bounty-by-nahamsec/?couponCode=NAHOMIES)

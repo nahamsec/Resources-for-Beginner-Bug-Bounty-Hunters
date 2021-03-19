@@ -57,6 +57,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 #### OSINT Webpages
 | Name 	| Description 	    | Created by   |
 |------	|-------------    	|------------- |
+|[Recon.Dev](https://www.recon.dev)|Recon Data specifically created for bug bounty hunters|[NahamSec & StaticFlow](https://www.recon.dev)|
 |[hunter.io](https://www.hunter.io)|Email Enumeration for big corps|[Hunter Team](https://hunter.io/about)|
 |[intelx.io](https://intelx.io/)|Swiss army Knife of OSINT|[Intelligence X](https://twitter.com/_IntelligenceX)|
 |[Shodan](https://www.shodan.io/)|Search engine that lets you find systems connected to the internet with a variety of filters|John Matherly|

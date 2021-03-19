@@ -1,12 +1,14 @@
 # Resources-for-Beginner-Bug-Bounty-Hunters
 
 ## Vulnerabilities 💉
-Compact descriptions of common vulnerability types with links to useful resources. 
+This page is created to help hackers understand a specific vulnerability type in details. If you would like to read blog posts and see example vulnerability, please read the [blog posts](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/assets/blogsposts.md) page
+
 ### Online Resources
 - [Owasp Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 - [OWASP Testing Guide v4](https://www.owasp.org/index.php/OWASP_Testing_Project)
 - [Bug Bounty Cheat Sheets](https://github.com/EdOverflow/bugbounty-cheatsheet) - by EdOverflow
 ---
+
 ## Cross-Site Scripting (XSS)
 As we start to build this repository, we'll be adding more vulnerability types and resources for each one. XSS is a great place to start as it's one of the most popular and easiest vulnerabilities to find in a web application.
 
@@ -26,16 +28,21 @@ As we start to build this repository, we'll be adding more vulnerability types a
 
 ## XML External Entities (XXE)
 - [XML External Entities ft. JohnHammond](https://www.youtube.com/watch?v=gjm6VHZa_8s) - by PwnFunction
+
 ## Insecure Direct Object Reference (IDOR)
 - [Insecure Direct Object Reference Vulnerability](https://www.youtube.com/watch?v=rloqMGcPMkI) - by PwnFunction
 - [Finding Your First Bug: Manual IDOR Hunting](https://www.youtube.com/watch?v=gINAtzdccts) - by Insider PhD
 - [Burp Suite tutorial: IDOR vulnerability automation using Autorize and AutoRepeater (bug bounty)](https://www.youtube.com/watch?v=3K1-a7dnA60) - by STÖK & Fisher
+
 ## Open Redirect
 - [Open Redirect Vulnerability](https://www.youtube.com/watch?v=4Jk_I-cw4WE) - by PwnFunction
+
 ## HTTP Parameter Pollution
 - [HTTP Parameter Pollution Attacks](https://www.youtube.com/watch?v=QVZBl8yxVX0) - by PwnFunction
+
 ## Logic Errors
 - [Finding Your First Bug: Business Logic Errors](https://www.youtube.com/watch?v=RobCqW2KwGs) - by InsiderPhD
+
 ## Remote Code Execution
 - [Finding Your First Bug: Goal Setting / Remote Code Execution (RCE)](https://www.youtube.com/watch?v=5BTvTE3gEq8) - by InsiderPhD
 ---

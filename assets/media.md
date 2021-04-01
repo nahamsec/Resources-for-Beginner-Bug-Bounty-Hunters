@@ -24,6 +24,7 @@ If you are interested in interviews with the top hackers and bug bounty hunters,
 - [The Mayor](https://discord.gg/EN2ya9h)
 - [Ceos3c](https://discord.gg/SBK3hkR)
 - [InsiderPhD](https://discord.gg/rdQcSk7a)
+- [huntr - the best place to start](https://discord.gg/DqtYgTkKD9)
 
 ## Youtube Channels
 - [Curated List of YT Channels](https://threader.app/thread/1248351836672872456) by TCM

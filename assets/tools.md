@@ -5,13 +5,13 @@
 Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 
 ## Table of Contents
-1. [Proxy & Network Sniffer](#Proxy-&-Network-Sniffer)
-2. [Burp Extensions](#Burp-Extensions)
-3. [Recon, OSINT & Discovery](#Recon,-OSINT-&-Discovery)
+1. [Proxy & Network Sniffer](#Proxy--Network-Sniffer)
+2. [Burp Extensions](#Burp-Extension)
+3. [Recon, OSINT & Discovery](#Recon-OSINT--Discovery)
 4. [Exploitation](#Exploitation)
 5. [Scanners](#Scanners)
 6. [Mobile Hacking](#Mobile-Hacking)
-7. [Notes & Organization](#Notes-&-Organization)
+7. [Notes & Organization](#Notes--Organization)
 8. [Others](#Others)
 
 ### Proxy & Network Sniffer

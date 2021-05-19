@@ -25,6 +25,8 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 | Name 	| Description 	| Written in   |
 |------	|-------------	|------------  |
 |[Logger++](https://portswigger.net/bappstore/470b7057b86f41c396a97903377f3d81)|"This extension can be used to log the requests and responses made by all Burp tools, and display them in a sortable table. It can also save the logged data in CSV format."|Java|
+|[HackBar](https://portswigger.net/bappstore/c1c32424fb8a4843a5404aa5ed5d711a) |"Hackbar contains a number of dictionaries according to the vulnerability type whether its SQL Injection, Cross-Site Scripting,LFI ect."|java|
+|[Active Scan++](https://portswigger.net/bappstore/3123d5b5f25c4128894d97ea1acc4976)|"ActiveScan++ extends Burp Suite's active and passive scanning capabilities. Designed to add minimal network overhead, it identifies application behaviour that may be of interest to advanced testers."|Python|
 |[Flow](https://portswigger.net/bappstore/ee1c45f4cc084304b2af4b7e92c0a49d)|"This extension provides a Proxy history-like view along with search filter capabilities for all Burp tools."|Java|
 |[AuthMatrix](https://portswigger.net/bappstore/30d8ee9f40c041b0bfec67441aad158e)|"AuthMatrix is an extension to Burp Suite that provides a simple way to test authorization in web applications and web services. With AuthMatrix, testers focus on thoroughly defining tables of users, roles, and requests for their specific target application upfront. These tables are displayed through the UI in a similar format to that of an access control matrix commonly built in various threat modeling methodologies."|Python (Needs Jython version 2.7.0 or later)|
 |[Autorize](https://portswigger.net/bappstore/f9bbac8c4acf4aefa4d7dc92a991af2f)|"Autorize is an extension aimed at helping the penetration tester to detect authorization vulnerabilities..."|Python (Needs Jython)|
@@ -38,6 +40,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[Sublist3r](https://github.com/aboul3la/Sublist3r)|Sublist3r enumerates subdomains using many search engines such as Google, Yahoo, Bing, Baidu and Ask. Sublist3r also enumerates subdomains using Netcraft, Virustotal, ThreatCrowd, DNSdumpster and ReverseDNS.|Python|Ahmed Aboul-Ela|
 |[dirsearch](https://github.com/maurosoria/dirsearch)|dirsearch is a simple command-line tool designed to brute force directories and files in websites.|Python|Mauro Soria|
 |[Amass](https://github.com/OWASP/Amass)|Uses a variety of different techniques to gather subdomains and can build a network map of the target. Very good export options.|Go|OWASP|
+|[PureDns](https://github.com/d3mondev/puredns)|puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.|Go|d3mondev|
 |[BuiltWith](https://builtwith.com)|A very handy Browser Extension (for Chrome, Firefox) that checks for more than 18,000 types of internet technologies. Gives you a very quick glance on what a Web Application is built.||BuiltWith®|
 |[findomain](https://github.com/Edu4rdSHL/findomain)|Very fast cross-platform subdomain enumerator|Rust|[Eduard Tolosa](https://github.com/Edu4rdSHL)|
 |[waybackurls](https://github.com/tomnomnom/waybackurls)|Fetch all the URLs that the Wayback Machine knows about for a domain|Go|[Tom Hudson](https://github.com/tomnomnom)|
@@ -70,6 +73,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[NerdyData](https://nerdydata.com/)|Search Engine for Source Code|[NerdyData](https://www.crunchbase.com/organization/nerdydata)|
 |[Crunchbase](https://www.crunchbase.com/)|For finding Information about Businesses and their acquisitions|[TechCrunch](https://techcrunch.com)|
 |[Searchcode](https://searchcode.com/)|Helping you find real world examples of functions, API's and libraries over 90 languages across multiple sources|[searchcode](https://searchcode.com/about/#team)|
+|[Sslabs](https://www.ssllabs.com/)|They are focused solely on the effective SSL configuration of public servers. The security of the web servers themselves is not investigated|[Ivan Ristic](https://www.ssllabs.com/)|
 
 
 

@@ -171,6 +171,8 @@ You can find a ton of awesome XSS reports by searching through the HackerOne Hac
 - [Abusing HTTP Path Normalization and Cache Poisoning to steal Rocket League accounts](https://samcurry.net/abusing-http-path-normalization-and-cache-poisoning-to-steal-rocket-league-accounts/) by Sam Curry
 - [The Secret sauce of bug bounty](https://medium.com/bugbountywriteup/the-secret-sauce-of-bug-bounty-bdcc2e2d45af) by Mohamed Slamat
 - [Filling in the Blanks: Exploiting Null Byte Buffer Overflow for a $40,000 Bounty](https://samcurry.net/filling-in-the-blanks-exploiting-null-byte-buffer-overflow-for-a-40000-bounty/) - [Sam Curry](https://twitter.com/samwcyo)
+- [Facebook Page Admin Disclosure](https://infosecwriteups.com/facebook-page-admin-disclosure-7d8893a4a674) by Kunjan Nayak
+
 ## Mobile
 ### iOS
 - [From checkra1n to Frida: iOS App Pentesting Quickstart on iOS 13](https://spaceraccoon.dev/from-checkra1n-to-frida-ios-app-pentesting-quickstart-on-ios-13) - spaceraccoon

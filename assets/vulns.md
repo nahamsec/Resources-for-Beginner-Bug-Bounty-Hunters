@@ -1,7 +1,7 @@
 # Resources-for-Beginner-Bug-Bounty-Hunters
 
 ## Vulnerabilities 💉
-This page is created to help hackers understand a specific vulnerability type in details. If you would like to read blog posts and see example vulnerability, please read the [blog posts](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/assets/blogsposts.md) page
+This page is created to help hackers understand a specific vulnerability type in details. If you would like to read blog posts and see example vulnerability, please read the [blog posts](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/blogposts.md) page
 
 ### Online Resources
 - [Owasp Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)

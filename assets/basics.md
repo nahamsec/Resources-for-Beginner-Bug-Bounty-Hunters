@@ -89,8 +89,8 @@ After creating your own web server, I highly recommend installing a CMS (like Wo
 - [xargs](https://www.cyberciti.biz/faq/linux-unix-bsd-xargs-construct-argument-lists-utility/)
 
 ### Computing Fundamentals
-- [Hopper's Roppers Computing Fundamentals](https://www.hoppersroppers.org/course.html)
-	- This free course teaches the absolute basics of Linux, hardware, networking, operating systems, and scripting. Designed to get  a complete beginner over the first big learning hurdles and so they can move on to anything else and succeed.
+- [Roppers Academy Computing Fundamentals](https://www.hoppersroppers.org/course.html)
+	- Free course teaches the essentials of Linux, hardware, networking, operating systems, and programming. Designed to get a complete beginner over the first big learning hurdles and so they can move on to anything else and succeed. [Full text available as a gitBook](https://www.hoppersroppers.org/fundamentals/). 
 - [Exeter Q-Step Resources](https://exeter-qstep-resources.github.io/)
    - Here, you will find a range of teaching materials that have been developed by members of the Q-Step Centre. If you have any questions, please contact l.brace@exeter.ac.uk or qstep@exeter.ac.uk. Details of Q-Step workshops and events can be found at https://socialsciences.exeter.ac.uk/q-step/events.
 

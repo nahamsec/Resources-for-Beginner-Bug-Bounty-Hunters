@@ -52,6 +52,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[SpiderFoot](https://github.com/smicallef/spiderfoot)|SpiderFoot is an OSINT automation tool that queries over 100 data sources to build up a complete profile of your target, from host enumeration, to breached e-mail addresses and more.|Python|[SpiderFoot](http://twitter.com/spiderfoot)|
 |[subfinder](https://github.com/projectdiscovery/subfinder)|subfinder is a subdomain discovery tool that discovers valid subdomains for websites by using passive online sources. It has a simple modular architecture and is optimized for speed. subfinder is built for doing one thing only - passive subdomain enumeration, and it does that very well.|Go|[ProjectDiscovery](https://github.com/projectdiscovery)|
 |[SUBway](https://github.com/Sam-Lane/subway)|Enumerate subdomains by either using DNS lookup or by virtual hosting HTTP requests, useful for things like Hack The Box or Try Hack Me. SUBway requires a wordlist to use for subdomain discovery, SecLists is the recomended pairing for use with this tool.|Go|[Sam Lane](https://github.com/Sam-Lane)|
+|[sub3suite](https://github.com/3nock/sub3suite)|Sub3 Suite is an intelligence gathering tool, uses 100+ OSINT data sources to gather data of different types using different input types. Sub3 Suite is a highly intuitive GUI tool that uses both passive and active techniques to map a target.|c++|[Sub3 Suite](https://twitter.com/sub3suite)|
 
 
 #### OSINT Webpages

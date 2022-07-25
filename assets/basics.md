@@ -62,6 +62,7 @@ You are welcome to skip this section if you think you’ll never need any automa
    - https://www.learnrubyonline.org/
 - Python
    - https://docs.python.org/3/tutorial/
+   - https://www.scaler.com/topics/python/
 - Go(lang)
    - https://golang.org
 - Additional Resources:
@@ -71,7 +72,7 @@ You are welcome to skip this section if you think you’ll never need any automa
    - https://en.wikibooks.org/wiki/Programming_Fundamentals/Advanced_Flowcharting
 - PHP
   - https://php.net
-  - https://www.scaler.com/topics/python
+  
 
 ### Web Server Basics
 If you are looking into getting started with Bug Bounties with a focus on web, I highly recommend learning the nuts and bolts of what make a website work.

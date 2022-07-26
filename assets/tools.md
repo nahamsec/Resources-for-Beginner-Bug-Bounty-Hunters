@@ -86,6 +86,8 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[KeyHacks](https://github.com/streaak/keyhacks)|Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.|/|streaak|
 |[Nmap command helper](https://competent-goldberg-e5eefe.netlify.app/)|A tool that helps you with nmap commands. Has a build in training feature to help memorizing them.||0x0n0x|
 |[threader3000](https://github.com/dievus/threader3000)|Threader3000 is a script written in Python3 that allows multi-threaded port scanning. The program is interactive and simply requires you to run it to begin. Once started, you will be asked to input an IP address or a FQDN as Threader3000 does resolve hostnames. A full port scan should take less than 1 minute 30 seconds depending on your internet connection.|Python|[Joe Helle](https://github.com/dievus),[Tittimus](https://github.com/Sam-Lane),[plasticuproject](https://github.com/plasticuproject)|
+|[SniffCon](https://github.com/h33tlit/SniffCon-Ultimate-Recon-Dashboard-For-Bug-Bounty-And-Pentesting)|SniffCon is a platform where you will find heavy lifting tools such as subdomain scanner, link scraper, secret finder, whois monitoring and many more that provide you with organized recon data, which is crucial during bug bounty and pentest.|Python|[Jubaer Alnazi](https://github.com/h33tlit)|
+
 ### Mobile Hacking
 | Name 	| Description 	    | Written in    | Created by   |
 |------	|-------------    	| ------------  |------------- |

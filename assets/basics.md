@@ -101,6 +101,7 @@ After creating your own web server, I highly recommend installing a CMS (like Wo
 - [List of Bug Bounty Platforms](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/bugbountyplatforms.md)
 - [Bug Bounty Cheatsheet](https://m0chan.github.io/2019/12/17/Bug-Bounty-Cheetsheet.html)
 - [HOW TO GET STARTED IN BUG BOUNTY](https://www.youtube.com/watch?v=CU9Iafc-Igs)
+- [Resources for bug bounty](https://www.bugcrowd.com/resources/)
 
 ---
 back to [Intro Page](/README.md)

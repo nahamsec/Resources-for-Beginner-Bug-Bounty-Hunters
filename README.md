@@ -1,6 +1,6 @@
 # Resources-for-Beginner-Bug-Bounty-Hunters
 
-![GitLogo(assets/logo.png)
+![GitLogo](assets/logo.png)
 
 
 ## Intro

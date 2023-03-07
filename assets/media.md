@@ -8,7 +8,6 @@ If you are interested in interviews with the top hackers and bug bounty hunters,
 - [YouTube Channels](#Youtube-Channels)
 - [Streamers](#Streamers)
 - [Podcasts](#Podcasts)
-- [Books](#Books)
 - [Twitter](#Twitter)
 - [Misc](#Misc)
 
@@ -20,58 +19,46 @@ If you are interested in interviews with the top hackers and bug bounty hunters,
 - [TryHackMe](https://discord.gg/KsAEejZ)
 - [HackTheBox](https://discord.gg/FrRJ3Z8)
 - [TheCyberMentor](https://discord.gg/)
-- [AshF0x - The F0xbox](https://discord.gg/RCTy5zS)
-- [The Mayor](https://discord.gg/EN2ya9h)
-- [Ceos3c](https://discord.gg/SBK3hkR)
 - [InsiderPhD](https://discord.gg/rdQcSk7a)
 
-## Youtube Channels
+
+## Cyber Security Content Creators
 - [Curated List of YT Channels](https://threader.app/thread/1248351836672872456) by TCM
 - [Nahamsec](https://www.youtube.com/nahamsec) - Educational Videos and VODs of his Stream, Vlogs
 - [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg) - Videos About Hacking, Live Events, Bug Bounty Tips & Vlogs
+- [Bug Bounty Reports Explained](https://www.youtube.com/c/bugbountyreportsexplained/)
 - [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - Educational Videos about CTFs, Hacking in General
-- [TomNomNom](https://www.youtube.com/user/TomNomNomDotCom)- Educational Videos about Hacking, Scripting, Bug Bounty, Writing your own Tools
-- [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw) - Educational Videos about InfoSec, Penetration Testing, Web Security, Scripting, etc.
-- [InsiderPhD](https://www.youtube.com/channel/UCPiN9NPjIer8Do9gUFxKv7A) - An excellent Introduction series for beginners to help them find their first bug.
-- [PwnFunction](https://www.youtube.com/PwnFunction) explanatory videos about Web App vulnerabilities
-- [DEFCONConference](https://www.youtube.com/user/DEFCONConference/videos) - Tons of Talks from Defcon.
+- [John Hammond](https://www.youtube.com/@_JohnHammond)
+- [The Cyber Mentor](https://www.youtube.com/TheCyberMentor) - Educational Videos about InfoSec, Penetration Testing, Web Security, Scripting, etc.
+- [InsiderPhD](https://www.youtube.com/insiderphd) - An excellent Introduction series for beginners to help them find their first bug.
+- [PwnFunction](https://www.youtube.com/PwnFunction)- Explanatory videos about Web App vulnerabilities
+- [ippsec](https://www.youtube.com/ippsec)
 - [Jason Haddix](https://www.youtube.com/channel/UCk0f0svao7AKeK3RfiWxXEA) - VODs of his Stream
-- [rwxrob](https://www.twitch.tv/rwxrob) - Linux God
-- [bug Bounty Reports Explained](https://www.youtube.com/c/bugbountyreportsexplained/)
+- [Farah Hawa](https://www.youtube.com/c/farahhawa)
+- [Rana Khalil](https://www.youtube.com/@RanaKhalil101)
+- [David Bombal](https://www.youtube.com/@davidbombal)
+- [NetworkChuck](https://www.youtube.com/NetworkChuck)
+- [PhD Security](https://www.youtube.com/@phd_security)
+- [HackerSploit](https://www.youtube.com/HackerSploit)
 
 ## Streamers
-- [Nahamsec](https://www.twitch.com/nahamsec) on Twitch
-- [d0nutptr](https://www.twitch.tv/d0nutptr/) on Twitch
-- [TheCyberMentor](https://twitch.tv/thecybermentor) on Twitch
-- [TheBlindHacker](https://twitch.tv/theblindhacker) on Twitch
-- [TheMayor](https://www.twitch.tv/themayor11) on Twitch
-- [Ash_F0x](https://www.twitch.tv/ash_f0x)
-- [mbcrump](https://www.twitch.tv/mbcrump)
+- [Nahamsec](https://www.twitch.com/nahamsec) 
+- [0xtib3rius](https://www.twitch.tv/0xtib3rius) 
+- [alh4zr3d](https://www.twitch.tv/alh4zr3d)
+- [d0nutptr](https://www.twitch.tv/d0nutptr/) 
+- [TheCyberMentor](https://twitch.tv/thecybermentor)
 - [thealtf4stream](https://www.twitch.tv/thealtf4stream)
-- [dowright](https://www.twitch.tv/dowright)
+
+## Conferences 
 - [The Red Team Village](https://www.twitch.tv/redteamvillage)
+- [NahamCon](https://www.youtube.com/@NahamSec)
+- [Bsides Ahmedabad](https://www.youtube.com/@BSidesAhmedabad/videos)
 
 ## Podcasts
 - [Darknet Diaries](https://darknetdiaries.com/) by [Jack Rhysider](https://twitter.com/jackrhysider)
     - [Episode 60 with dawgyg](https://darknetdiaries.com/episode/60/)
-- [The Bug Bounty Podcast](https://open.spotify.com/show/3yTTlfXH1avrI3FsXZyCpv) by Fisher
-    - [Episode 3 with nahamsec](https://anchor.fm/bugbountypodcast/episodes/Episode-3-ft--NahamSec-ebl392)
-- [Bug Hunter Podcast](https://anchor.fm/bughunter)
-- [CRE](https://cre.fm/) German Podcast - CRE ist ein unregelmäßig erscheinender Interview-Podcast mit Tim Pritlove zu Themen aus den Bereichen Technik, Kultur und Gesellschaft.
-    - [CRE197 IPv6](https://cre.fm/cre197-ipv6) Episode revolving around IPv6
 - [CCC Luxembourg Podcast](http://wiki.c3l.lu/doku.php?id=projects:entr0py_encore) Luxembourgish Podcast from CCC Lux.
-
-## Books
-- [Real-World Bug Hunting](https://www.amazon.com/Real-World-Bug-Hunting-Field-Hacking/dp/1593278616) by [Peter Yaworski](https://twitter.com/yaworsk)
-- [The Web Application Hacker's Handbook](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470/) by Dafydd Stuttard & Marcus Pinto
-- [The Tangled Web: A Guide to Securing Modern Web Applications](https://www.amazon.com/Tangled-Web-Securing-Modern-Applications/dp/1593273886) by  	
-Michal Zalewski
-- [Web Hacking 101: How to Make Money Hacking Ethically](https://leanpub.com/web-hacking-101) by [Peter Yaworski](https://twitter.com/yaworsk)
-- [Black Hat Go](https://nostarch.com/blackhatgo) by Tom Steele, Chris Patten, and Dan Kottmann
-- [Black Hat Python](https://nostarch.com/blackhatpython) by Justin Seitz
-- [The Linux Command Line](https://nostarch.com/tlcl2) by William Shotts
-
-In general ["no starch press"](https://nostarch.com/catalog/security) offers great books in the hacking category. [Humble Bundle](https://www.humblebundle.com) sometimes offers great book deals for an awesome price, so have a eye out for those.
+- [Critical Thinking: A Bug Bounty Podcast](https://open.spotify.com/show/4GiJnv8f4a4ZR6Jc6TQJ3k)
 
 ## Twitter
 

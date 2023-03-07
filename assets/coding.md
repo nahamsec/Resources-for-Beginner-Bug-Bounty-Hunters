@@ -8,6 +8,7 @@ Short Answer: No.<br>
 But as often discussed on @nahamsec Twitch Channel, it is a good tool to have in General. Coding can help you a lot with understanding stuff that you will encounter on your Hacking Sessions, but it is also generally a good skill to have in the current times. You can automate your Tools with Python for example, or write completely new ones if you have a specific task for it in mind. We will add a lot more in here over the next updates and also reorganize the Resources by Languages and so on.
 
 TL,DR: ___Python___ and ___Bash___ are really good skills to have and start out with.
+
 ### Resources
 - [Bash Scripting Full Course 3 Hours](https://www.youtube.com/watch?v=e7BufAVwDiM)
 - [Explainshell](https://explainshell.com/)

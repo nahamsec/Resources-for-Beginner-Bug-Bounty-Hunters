@@ -1,16 +1,24 @@
 # Resources-for-Beginner-Bug-Bounty-Hunters
 
 ## Labs & Testing Environments 🧪
+- [NahamSec's Free Bug Bounty Learning Lab](https://tryhackme.com/room/nahamstore)
 
 ### Web Hacking Fundamentals
 
+### Downloadables 
+- [NahamSec.Training](https://github.com/nahamsec/nahamsec.training/)
+- [OWASP Juiceshop](https://owasp.org/www-project-juice-shop/)
+- [Google Gruyere](https://google-gruyere.appspot.com/)
+- [DVWA](http://www.dvwa.co.uk)
+- [Metasploitable 3](https://github.com/rapid7/metasploitable3/wiki/Vulnerabilities)
+- [Multidae](https://sourceforge.net/projects/mutillidae/)
+- [Badstore](https://www.vulnhub.com/entry/badstore-123,41/)
+
 #### Free
 - [Hacker101](https://www.hacker101.com/) | Good Exercises for Beginners, can earn you private Invites on HackerOne
-- [HackEdu](https://hackedu.io)
 - [Web Security Academy](https://portswigger.net/web-security)
 - [HackThisSite](https://hackthissite.org/)
 - [CTFChallenge](https://ctfchallenge.co.uk) | Web CTF based on real vulnerabilities
-- [XSS-Game](https://xss-game.appspot.com/) | Learning Platform for XSS
 - [Hacksplaining](https://www.hacksplaining.com/)
 
 
@@ -24,12 +32,6 @@
 - [XSS Labs from PwnFunction](https://xss.pwnfunction.com/) Great Labs in a beautiful layout
 
 ### Vulnerable Apps
-- [Google Gruyere](https://google-gruyere.appspot.com/)
-- [DVWA](http://www.dvwa.co.uk)
-- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
-- [Metasploitable 3](https://github.com/rapid7/metasploitable3/wiki/Vulnerabilities)
-- [Multidae](https://sourceforge.net/projects/mutillidae/)
-- [Badstore](https://www.vulnhub.com/entry/badstore-123,41/)
 - [https://application.security/ - SSRF](https://application.security/free-application-security-training/server-side-request-forgery-in-capital-one)
 
 #### XSS
@@ -48,10 +50,8 @@
 
 #### Premium
 - [TryHackMe](https://tryhackme.com/signup?referrer=nahamsec) | Cool Hacking & Pentesting Labs with Web Challenges
-    - Videos: [TryHackMe! Basic Penetration Testing](https://www.youtube.com/watch?v=xl2Xx5YOKcI) // [TryHackMe! EternalBlue/MS17-010 in Metasploit](https://www.youtube.com/watch?v=s6rwS7UuMt8) // [TryHackMe! OhSINT - METADATA & Research](https://www.youtube.com/watch?v=oF0TQQmFu4w)
 - [HackTheBox](https://www.hackthebox.eu/) | provides Testing Labs, some Web Application Challenges
 - [Cyberseclabs](https://www.cyberseclabs.co.uk/)
-- [Kontra Application Security Training](https://application.security/free-application-security-training)
 
 ---
 back to [Intro Page](/README.md)

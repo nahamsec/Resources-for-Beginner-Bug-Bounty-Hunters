@@ -44,7 +44,7 @@
 #### Free
 - [VulnHuB](https://www.vulnhub.com/)
 - [W3chhalls](https://w3challs.com/)
-- [PicoCTF][https://picoctf.org/]
+- [PicoCTF](https://picoctf.org/)
 - [Root-Me](https://www.root-me.org/)
 - [OverTheWire](https://overthewire.org/wargames/natas/)
 

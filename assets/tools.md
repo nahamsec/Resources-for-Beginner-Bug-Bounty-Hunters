@@ -60,7 +60,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 ### Recon Framework
 | Name 	| Description 	    | 
 |------	|-------------    	| 
-|[meg](https://github.com/six2dez/reconftw)| Automates the entire process of reconnaissance for you. It outperforms the work of subdomain enumeration along with various vulnerability checks and obtaining maximum information about your target.|
+|[reconftw](https://github.com/six2dez/reconftw)| Automates the entire process of reconnaissance for you. It outperforms the work of subdomain enumeration along with various vulnerability checks and obtaining maximum information about your target.|
 |[sn1per](https://github.com/1N3/Sn1per)|Discover hidden assets and vulnerabilities in your environment.|
 |[Spiderfoot](https://github.com/smicallef/spiderfoot)| An open source intelligence (OSINT) automation tool. It integrates with just about every data source available and utilises a range of methods for data analysis, making that data easy to navigate.|
 |[reNgine](https://github.com/yogeshojha/rengine)| reNgine is a web application reconnaissance suite with a focus on a highly configurable streamlined recon process.|

@@ -28,7 +28,6 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[Logger++](https://portswigger.net/bappstore/470b7057b86f41c396a97903377f3d81)|"This extension can be used to log the requests and responses made by all Burp tools, and display them in a sortable table. It can also save the logged data in CSV format."|Java|
 |[AuthMatrix](https://portswigger.net/bappstore/30d8ee9f40c041b0bfec67441aad158e)|"AuthMatrix is an extension to Burp Suite that provides a simple way to test authorization in web applications and web services. With AuthMatrix, testers focus on thoroughly defining tables of users, roles, and requests for their specific target application upfront. These tables are displayed through the UI in a similar format to that of an access control matrix commonly built in various threat modeling methodologies."|Python (Needs Jython version 2.7.0 or later)|
 |[Autorize](https://portswigger.net/bappstore/f9bbac8c4acf4aefa4d7dc92a991af2f)|"Autorize is an extension aimed at helping the penetration tester to detect authorization vulnerabilities..."|Python (Needs Jython)|
-|[Autorize](https://portswigger.net/bappstore/f9bbac8c4acf4aefa4d7dc92a991af2f)|"Autorize is an extension aimed at helping the penetration tester to detect authorization vulnerabilities..."|Python (Needs Jython)|
 |[Burp Bounty](https://portswigger.net/bappstore/618f0b2489564607825e93eeed8b9e0a)|"Burp Bounty helps Burp Suite Professional users to quickly and easily build their own scan checks for use with Burp Scanner"||
 |[Param Miner](https://portswigger.net/bappstore/17d2949a985c4b7ca092728dba871943)|"Built to identify hidden, unlinked parameters, Param Miner is very useful when hunting for web cache poisoning vulnerabilities"||
 
@@ -60,7 +59,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 ### Recon Framework
 | Name 	| Description 	    | 
 |------	|-------------    	| 
-|[meg](https://github.com/six2dez/reconftw)| Automates the entire process of reconnaissance for you. It outperforms the work of subdomain enumeration along with various vulnerability checks and obtaining maximum information about your target.|
+|[reconFTW](https://github.com/six2dez/reconftw)| Automates the entire process of reconnaissance for you. It outperforms the work of subdomain enumeration along with various vulnerability checks and obtaining maximum information about your target.|
 |[sn1per](https://github.com/1N3/Sn1per)|Discover hidden assets and vulnerabilities in your environment.|
 |[Spiderfoot](https://github.com/smicallef/spiderfoot)| An open source intelligence (OSINT) automation tool. It integrates with just about every data source available and utilises a range of methods for data analysis, making that data easy to navigate.|
 |[reNgine](https://github.com/yogeshojha/rengine)| reNgine is a web application reconnaissance suite with a focus on a highly configurable streamlined recon process.|

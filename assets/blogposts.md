@@ -1,5 +1,5 @@
 # Resources-for-Beginner-Bug-Bounty-Hunters
-This page is designated to hosts blog posts on particular vulnerability and techniques that have led to a bounty. If you would like to learn more about specific vulnerability types, please visit [Vulnerability Types](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/assets/vulns.md)!
+This page is designated to hosts blog posts on particular vulnerability and techniques that have led to a bounty. If you would like to learn more about specific vulnerability types, please visit [Vulnerability Types](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/vulns.md)!
 
 ## NahamSec's Favorite Learning Resources
 - [HackerOne Hacktivity](https://hackerone.com/hacktivity)

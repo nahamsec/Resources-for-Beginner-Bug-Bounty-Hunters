@@ -20,6 +20,7 @@ If you are interested in interviews with the top hackers and bug bounty hunters,
 - [HackTheBox](https://discord.gg/FrRJ3Z8)
 - [TheCyberMentor](https://discord.gg/)
 - [InsiderPhD](https://discord.gg/rdQcSk7a)
+- [huntr - the best place to start](https://discord.gg/DqtYgTkKD9)
 
 
 ## Cyber Security Content Creators

@@ -72,6 +72,7 @@ You may skip this section if you believe you will never need automation or in-de
 - Ruby
    - https://www.learnrubyonline.org/
 - Python
+   - https://github.com/Asabeneh/30-Days-Of-Python
    - https://docs.python.org/3/tutorial/
 - Go(lang)
    - https://golang.org

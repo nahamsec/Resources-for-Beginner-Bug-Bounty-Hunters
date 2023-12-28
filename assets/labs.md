@@ -47,6 +47,7 @@
 - [PicoCTF][https://picoctf.org/]
 - [Root-Me](https://www.root-me.org/)
 - [OverTheWire](https://overthewire.org/wargames/natas/)
+- [Pentest-Ground](https://pentest-ground.com/) | Playground free with vulnerable web apps
 
 #### Premium
 - [TryHackMe](https://tryhackme.com/signup?referrer=nahamsec) | Cool Hacking & Pentesting Labs with Web Challenges

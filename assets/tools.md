@@ -127,6 +127,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[webhook.site](https://webhook.site)|Webhook.site allows you to easily test, inspect, forward and create Custom Actions for any incoming HTTP request or e-mail.||[fredsted](https://github.com/fredsted)|
 |[requestcatcher](https://requestcatcher.com/)|Request Catcher will create a subdomain on which you can test an application. All requests sent to any path on the subdomain are forwarded to your browser in real time.|||
 |[canarytokens](https://canarytokens.org/)|[Description](https://blog.thinkst.com/p/canarytokensorg-quick-free-detection.html)||[Thinkst Canary](canary.tools)|
+|[bbradar.io](https://bbradar.io/)|A web tool to aggregate the latest publicly listed Bug Bounty programs.||[kleoz](https://x.com/kleoz_)|
 
 ---
 back to [Intro Page](/README.md)

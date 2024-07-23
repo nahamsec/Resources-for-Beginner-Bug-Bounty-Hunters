@@ -15,7 +15,7 @@ If you are interested in learning about top bug bounty hunters in the community 
 ## NahamSec's Personal Resource:
 I have also put together my own resource:
 
-- [NahamSec's Bug Bounty Course with 100+ Labs](https://app.hackinghub.io/hubs/nahamsec-bug-bounty-course))
+- [NahamSec's Bug Bounty Course with 100+ Labs](https://app.hackinghub.io/hubs/nahamsec-bug-bounty-course)
 - [Nahamsec on YouTube](https://www.youtube.com/NahamSec) 
 - [Nahamsec on Twitch](https://www.twitch.tv/nahamsec)
 

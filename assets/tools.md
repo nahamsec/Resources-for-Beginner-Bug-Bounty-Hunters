@@ -130,3 +130,9 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 
 ---
 back to [Intro Page](/README.md)
+
+### Security Distributions
+| Name  | Description       | 
+|------ |-------------          | 
+|[NullSec Linux](https://github.com/bad-antics/nullsec-linux)| Security-focused distribution with 135+ pre-installed pentesting tools. Includes Cloud, IoT, Automotive, and Forensics editions.|
+|[NullSec WebFuzz](https://github.com/bad-antics/nullsec-webfuzz)| High-performance web application fuzzer written in Rust. Supports multiple fuzzing modes and custom wordlists.|

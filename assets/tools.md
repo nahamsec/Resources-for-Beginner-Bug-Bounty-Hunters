@@ -28,14 +28,13 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[Logger++](https://portswigger.net/bappstore/470b7057b86f41c396a97903377f3d81)|"This extension can be used to log the requests and responses made by all Burp tools, and display them in a sortable table. It can also save the logged data in CSV format."|Java|
 |[AuthMatrix](https://portswigger.net/bappstore/30d8ee9f40c041b0bfec67441aad158e)|"AuthMatrix is an extension to Burp Suite that provides a simple way to test authorization in web applications and web services. With AuthMatrix, testers focus on thoroughly defining tables of users, roles, and requests for their specific target application upfront. These tables are displayed through the UI in a similar format to that of an access control matrix commonly built in various threat modeling methodologies."|Python (Needs Jython version 2.7.0 or later)|
 |[Autorize](https://portswigger.net/bappstore/f9bbac8c4acf4aefa4d7dc92a991af2f)|"Autorize is an extension aimed at helping the penetration tester to detect authorization vulnerabilities..."|Python (Needs Jython)|
-|[Autorize](https://portswigger.net/bappstore/f9bbac8c4acf4aefa4d7dc92a991af2f)|"Autorize is an extension aimed at helping the penetration tester to detect authorization vulnerabilities..."|Python (Needs Jython)|
 |[Burp Bounty](https://portswigger.net/bappstore/618f0b2489564607825e93eeed8b9e0a)|"Burp Bounty helps Burp Suite Professional users to quickly and easily build their own scan checks for use with Burp Scanner"||
 |[Param Miner](https://portswigger.net/bappstore/17d2949a985c4b7ca092728dba871943)|"Built to identify hidden, unlinked parameters, Param Miner is very useful when hunting for web cache poisoning vulnerabilities"||
 
 ### Asset Discovery
 | Name 	| Description 	    
 |------	|-------------    	
-|[Amass](https://github.com/OWASP/Amass)|Uses a variety of different techniques to gather subdomains and can build a network map of the target. Very good export options.|
+|[Amass](https://github.com/owasp-amass/amass)|Uses a variety of different techniques to gather subdomains and can build a network map of the target. Very good export options.|
 |[BuiltWith](https://builtwith.com)|A very handy Browser Extension (for Chrome, Firefox) that checks for more than 18,000 types of internet technologies. Gives you a very quick glance on what a Web Application is built.|
 |[subfinder](https://github.com/projectdiscovery/subfinder)|subfinder is a subdomain discovery tool that discovers valid subdomains for websites by using passive online sources. It has a simple modular architecture and is optimized for speed. subfinder is built for doing one thing only - passive subdomain enumeration, and it does that very well.|
 |[dnsgen]()|generates a combination of domain names from the provided input.|
@@ -78,6 +77,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[Virus Total](https://www.virustotal.com)|WHOIS, DNS, and subdomain recon|[Virus Total Team](https://support.virustotal.com/hc/en-us/categories/360000160117-About-us)|
 |[ZoomEye](https://www.zoomeye.org/)|Search engine for specific network components|[Team from Knownsec](https://www.knownsec.com/)|
 |[NerdyData](https://nerdydata.com/)|Search Engine for Source Code|[NerdyData](https://www.crunchbase.com/organization/nerdydata)|
+|[Xquik](https://github.com/Xquik-dev/x-twitter-scraper)|Independent X (Twitter) data API for search, follower export, monitors, and MCP.|[Xquik-dev](https://github.com/Xquik-dev)|
 |[Crunchbase](https://www.crunchbase.com/)|For finding Information about Businesses and their acquisitions|[TechCrunch](https://techcrunch.com)|
 |[Searchcode](https://searchcode.com/)|Helping you find real world examples of functions, API's and libraries over 90 languages across multiple sources|[searchcode](https://searchcode.com/about/#team)|
 

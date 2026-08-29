@@ -33,6 +33,7 @@
 
 ### Vulnerable Apps
 - [https://application.security/ - SSRF](https://application.security/free-application-security-training/server-side-request-forgery-in-capital-one)
+- [RansomLeak Application Security Training](https://ransomleak.com/catalogue/application-security/) - Interactive hands-on labs covering OWASP Top 10 and real-world vulnerabilities
 
 #### XSS
 - [alert 1 to win](https://alf.nu/alert1/)

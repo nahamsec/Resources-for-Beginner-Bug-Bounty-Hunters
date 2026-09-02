@@ -93,6 +93,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[Masscan](https://github.com/robertdavidgraham/masscan)|This is an Internet-scale port scanner. It can scan the entire Internet in under 6 minutes, transmitting 10 million packets per second, from a single machine.|C|Robert David Graham|
 |[KeyHacks](https://github.com/streaak/keyhacks)|Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.|/|streaak|
 |[Nmap command helper](https://competent-goldberg-e5eefe.netlify.app/)|A tool that helps you with nmap commands. Has a build in training feature to help memorizing them.||0x0n0x|
+|[Agentic Bug Bounty Hunter](https://github.com/Awarexone/Agentic-Bug-Hunter)|An AI-powered, autonomous bug bounty toolkit (Claude Code plugin) that covers the full recon-to-report workflow across HackerOne, Bugcrowd, Intigriti & Immunefi — web2/web3 vuln classes, LLM red-teaming and dedicated GraphQL/CORS/JWT/NoSQL scanners. Works with or without a subscription.|Python & Shell|Awarexone|
 
 ### Mobile Hacking
 | Name 	| Description 	    | Written in    | Created by   |
